@@ -7,7 +7,7 @@ image: "../../../assets/images/DiD.png"
 permalink: /docs/resources
 ---
 
-# Resources
+# Legumes
 {: .no_toc }
 
 This section contains a miscellaneous collection of lecture notes, videos, papers, workshops, etc. Please feel free to suggest additional references.
