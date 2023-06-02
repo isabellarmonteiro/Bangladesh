@@ -2,9 +2,11 @@
 
 remote_theme: pmarsceill/just-the-docs
 
-color: .text-green-200
-
-$link-color: $green-200
+colors:
+  primary: '#0d042b'
+  primary_text: '#fdfcf9'
+  text: '#0d042b'
+  text_2: '#3b364c'
 
 title: DiD
 description: Follow the latest developments in the DiD literature.
