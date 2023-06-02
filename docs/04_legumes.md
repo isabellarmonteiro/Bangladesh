@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Julia packages
+title: Legumes
 image: "../../../assets/images/DiD.png"
 nav_order: 4
 ---
