@@ -7,7 +7,7 @@ nav_order: 4
 permalink: /docs/legumes
 ---
 
-# Julia packages
+# Legumes
 
 This is still being updated. See links below for details. There is also a [Julia DiffinDiff](https://github.com/JuliaDiffinDiffs) group on GitHub which contains various packages.
 
