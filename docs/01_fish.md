@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Stata packages
+title: Fish
 image: "../../../assets/images/DiD.png"
+permalink: /docs/fish
 nav_order: 2
 ---
 
-# Stata packages
+# Fish
 
 Packages are sorted in alphabetical order by name. Some package paths have been split across lines but adding spaces to keep table formatting intact. Just make sure they are in one line with spaces removed when copying them in Stata. To install packages from GitHub, get the `github` package: `net install github, from("https://haghish.github.io/github/")`. Documentation of Stata packages is usually done on internal help files. Some packages do have dedicated websites, PDFs, or GitHub repositories that are identified in the website column. Otherwise check the equivalent [R packages](https://asjadnaqvi.github.io/DiD/docs/02_R/) that do have dedicated pages.
 
