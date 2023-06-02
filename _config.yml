@@ -2,12 +2,6 @@
 
 remote_theme: pmarsceill/just-the-docs
 
-colors:
-  primary: '#0d042b'
-  primary_text: '#fdfcf9'
-  text: '#0d042b'
-  text_2: '#3b364c'
-
 title: DiD
 description: Follow the latest developments in the DiD literature.
 #baseurl: "/DiD" # the subpath of your site, e.g. /blog
