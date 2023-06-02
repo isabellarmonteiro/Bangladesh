@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Difference-in-Difference (DiD)
+title: CGIAR in Bangladesh
 nav_order: 1
 description: "Welcome to the DiD revolution."
 image: "/assets/images/DiD.jpg"
