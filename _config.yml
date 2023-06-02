@@ -9,6 +9,8 @@ description: Follow the latest developments in the DiD literature.
 
 logo: "/assets/images/CGIAR-logo.svg.png"
 
+color_scheme: foo
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
