@@ -3,9 +3,10 @@ layout: default
 title: Roots and Tubers
 image: "../../../assets/images/DiD.png"
 nav_order: 6
+permalink: /docs/tubers
 ---
 
-# R packages
+# Roots and Tubers
 
 Packages are sorted in alphabetical order by name. If the installation says `remotes::install_github<name>`, then you first need to install the `remotes` package with `install.packages("remotes")`. Please note that some installation paths have been split across lines to preserve table formatting in Markdown. Make sure they are in the same line when you copy them across to your own R console, for example, `remotes::install_github("asheshrambachan/HonestDiD")`. Package documentation is identified in the Website column.
 
