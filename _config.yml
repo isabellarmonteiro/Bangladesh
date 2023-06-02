@@ -4,6 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 
 color: .text-green-200
 
+$link-color: $green-000;
 
 title: DiD
 description: Follow the latest developments in the DiD literature.
