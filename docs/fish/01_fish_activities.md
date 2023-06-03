@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CGIAR Actvities
+title: CGIAR Activities
 parent: Fish
 nav_order: 5
 mathjax: true
