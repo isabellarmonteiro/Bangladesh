@@ -9,8 +9,6 @@ description: CGIAR activities in Bangladesh.
 
 logo: "/assets/images/CGIAR-logo.svg.png"
 
-color_scheme: custom
-
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
