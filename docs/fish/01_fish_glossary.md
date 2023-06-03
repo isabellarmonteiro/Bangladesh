@@ -13,11 +13,11 @@ mathjax: true
 
 
 
-Brood stock: stock of adult fish used for breeding purposes
+<b>Brood stock </b>: stock of adult fish used for breeding purposes
 
 Spawning
 
-<b>Hatchery </b>: establishment that has stock of adult fish (broodstock),
+<b>Hatchery </b>: establishment that has stock of adult fish (broodstock), which is used to spawn fish eggs. Once the eggs hatch, they will be left to mature in the Hatchery until they turn into fry.
 
 Nursery
 
