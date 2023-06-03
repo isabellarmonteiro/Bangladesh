@@ -2,7 +2,7 @@
 layout: default
 title: Legumes
 image: "../../../assets/images/DiD.png"
-nav_order: 5
+nav_order: 3
 permalink: /docs/legumes
 ---
 
