@@ -13,13 +13,13 @@ mathjax: true
 
 
 
-<b>Hatchery </b>: 
-
-Nursery
-
-Brood stock
+Brood stock: stock of adult fish used for breeding purposes
 
 Spawning
+
+<b>Hatchery </b>: establishment that has stock of adult fish (broodstock),
+
+Nursery
 
 Post-larvae:
 
