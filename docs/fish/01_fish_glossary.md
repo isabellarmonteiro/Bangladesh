@@ -7,15 +7,16 @@ mathjax: true
 ---
 
 
-Capture Fisheries
+<b>Capture Fisheries</b>: catching wild aquatic organisms for subsistence or commercial purposes. <br>
+<b>Aquaculture</b>: farming of aquatic organisms for subsistence or commercial purposes. <br>
 
-Aquaculture
 
 
-Hatchery
+<b>Hatchery </b>: 
 
 Nursery
 
+Brood stock
 
 Fry
 
@@ -23,6 +24,5 @@ Fingerling
 
 Yearling
 
-Brood stock
 
 
