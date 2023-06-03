@@ -2,8 +2,9 @@
 ---
 layout: default
 title: Fish
-image: "../../../assets/images/DiD.png"
 permalink: /docs/fish
+has_children: true
+mathjax: true
 nav_order: 2
 ---
 
