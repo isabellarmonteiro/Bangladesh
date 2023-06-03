@@ -8,9 +8,9 @@ permalink: /
 ---
 
 
-# Welcome!
+# Welcome to SPIA's One-Stop Shop for CGIAR activities in Bangladesh!
 
-*Last updated: June 2022*
+*Last updated: June 2023*
 
 
 
