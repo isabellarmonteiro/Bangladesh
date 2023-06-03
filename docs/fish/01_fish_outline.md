@@ -10,4 +10,4 @@ mathjax: true
 
 <br> <br> 
 
-# Government Priorities for the Fisheries Sector
+# Government Priorities for the Sector
