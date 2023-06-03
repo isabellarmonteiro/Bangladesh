@@ -6,7 +6,7 @@ nav_order: 5
 mathjax: true
 ---
 
-# Main Priorities
+# Main CGIAR Priorities
 
 <br> <br> 
 
