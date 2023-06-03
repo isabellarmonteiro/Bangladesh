@@ -8,7 +8,8 @@ mathjax: true
 
 
 <b>Capture Fisheries</b>: catching wild aquatic organisms for subsistence or commercial purposes. <br>
-<b>Aquaculture</b>: farming of aquatic organisms for subsistence or commercial purposes. <br>
+
+<b>Aquaculture</b>: also known as culture fisheries, it is the farming of aquatic organisms for subsistence or commercial purposes. <br>
 
 
 
@@ -18,11 +19,16 @@ Nursery
 
 Brood stock
 
+Spawning
+
+Post-larvae:
+
 Fry
 
 Fingerling
 
 Yearling
+
 
 
 
