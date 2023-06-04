@@ -21,6 +21,8 @@ mathjax: true
 
 <b>Nursery</b>: facility where the fish fry is taken to mature. In these facilities, the fry is kept in ponds until it is old enough for transportation: when turns into fingerlings. <br>
 
+<b>Gher Farming</b>: a "modification of  a  rice field to enable  operation of three enterprises:  prawn  (principal  enterprise),  carp,  and  MV rice" (Rahman and Barmon, 2011). A Gher has a canal in the middle, which is the only part that remains wet during the dry months, and dikes which will allow water to get trapped into the rice fields, essentially making the whole Gher look like a pond, during the wet months. 
+
 <hr>
 <b>FISH:</b> <br> <br>
 
