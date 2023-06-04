@@ -21,7 +21,7 @@ mathjax: true
 
 <b>Nursery</b>: facility where the fish fry is taken to mature. In these facilities, the fry is kept in ponds or tanks until it is old enough for transportation: when turns into fingerlings. <br>
 
-<b>Gher Farming</b>: a "modification of  a  rice field to enable  operation of three enterprises:  prawn  (principal  enterprise),  carp,  and  MV rice" (Rahman and Barmon, 2011). A Gher has a canal in the middle, which is the only part that remains wet during the dry months, and dikes which will allow water to get trapped into its fields during the wet months, essentially making the whole Gher look like a pond. Between January and April, when only the canal is wet, farmers will plant rice in the field and irrigate it using water from the Canal. From May onwards, prawn postlarvae and carp fingerlings will be integrated in the Gher and kept until there is enough water (Rahman and Barmon, 2011).
+<b>Gher Farming</b>: in Bangladesh, Gher farming refers to a "modification of  a  rice field to enable  operation of three enterprises:  prawn  (principal  enterprise),  carp,  and  MV rice" (Rahman and Barmon, 2011). A Gher has a canal in the middle, which is the only part that remains wet during the dry months, and dikes which will allow water to get trapped into its fields during the wet months, essentially making the whole Gher look like a pond. Between January and April, when only the canal is wet, farmers will plant rice in the field and irrigate it using water from the Canal. From May onwards, prawn postlarvae and carp fingerlings will be integrated in the Gher and kept until there is enough water (Rahman and Barmon, 2011).
 
 <hr>
 <b>FISH:</b> <br> <br>
