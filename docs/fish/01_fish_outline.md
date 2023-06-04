@@ -19,6 +19,8 @@ Overall, fisheries, including shrimp and prawn production, are the second most v
 
 ### Nutritional and Cultural Significance
 
+Fish is one of the most popular nutritient-rich foods in Bangladesh, accounting for 60% of the consumption of animal sourced products (Belton et al, 2011).
+
 
 
 <br> 
