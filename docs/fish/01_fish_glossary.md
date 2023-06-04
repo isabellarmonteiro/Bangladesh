@@ -34,7 +34,7 @@ mathjax: true
 <hr>
 <b>SHRIMP AND PRAWNS:</b>
 <br><br>
-<b>Post-larvae</b>:  <br>
+<b>Post-larvae</b>: the first stage after passing the larval stage. This is when farmers typically acquire shrimp and prawns, which will continue their development inside ponds or tanks until they reach a marketable size. <br>
 
 
 
