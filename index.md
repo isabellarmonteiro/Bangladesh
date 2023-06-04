@@ -18,5 +18,5 @@ permalink: /
 The CGIAR has long been active in Bangladesh.
 
 ## Centers Active in Bangladesh
-CGIAR centers with country-offices in Bangladesh include IFPRI, WorldFish, IRRI, CIMMYT, CIP and 
+CGIAR centers with country-offices in Bangladesh include IFPRI, WorldFish, IRRI, CIMMYT, CIP and IWMI.
 
