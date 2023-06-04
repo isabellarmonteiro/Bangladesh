@@ -6,7 +6,7 @@ nav_order: 3
 mathjax: true
 ---
 
-
+<b>GENERAL:</b> <br> <br>
 <b>Capture Fisheries</b>: catching wild aquatic organisms for subsistence or commercial purposes. <br>
 
 <b>Aquaculture</b>: also known as culture fisheries, it is the farming of aquatic organisms for subsistence or commercial purposes. <br>
