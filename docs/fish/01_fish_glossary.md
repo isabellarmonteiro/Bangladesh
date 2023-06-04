@@ -22,7 +22,7 @@ mathjax: true
 <b>Nursery</b>: facility where the fish fry is taken to mature. In these facilities, the fry is kept in ponds until it is old enough for transportation: when turns into fingerlings. <br>
 
 <hr>
-<b>FISH:</b> <br>
+<b>FISH:</b> <br> <br>
 
 <b>Fry</b>: early-stages of fish development in which it has grown enough to swim and nourish itself, usually with plankton.  <br>
 
@@ -31,7 +31,8 @@ mathjax: true
 <b>Yearling</b>:  <br>
 
 <hr>
-
+<b>SHRIMP AND PRAWNS:</b> <br> <br>
+<br> <br>
 <b>Post-larvae</b>:  <br>
 
 
