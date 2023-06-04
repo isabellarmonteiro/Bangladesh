@@ -28,9 +28,8 @@ mathjax: true
 
 <b>Fry</b>: early-stages of fish development in which it has grown enough to swim and nourish itself, usually with plankton.  <br>
 
- <b>Fingerling</b>:  <br>
+ <b>Fingerling</b>: the next development stage of fish, when they have approximately reached the size of a human finger. At this stage, fish has better survival rate, so it is ready to be transported and sold. <br>
 
-<b>Yearling</b>:  <br>
 
 <hr>
 <b>SHRIMP AND PRAWNS:</b>
