@@ -19,9 +19,15 @@ Overall, fisheries, including shrimp and prawn production, are the second most v
 
 ### Nutritional and Cultural Significance
 
+
+
 <br> 
 
-## 
+## Overview of the Sector
+
+### Activities
+
+### Constraints and Potential 
 
 
 <br> 
