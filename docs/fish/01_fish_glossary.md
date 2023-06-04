@@ -17,9 +17,9 @@ mathjax: true
 
 <b>Spawning</b>: The act of depositing eggs by an aquatic animal. <br>
 
-<b>Hatchery</b>: establishment that has stock of adult fish (broodstock), which is used to spawn fish eggs. Once the eggs hatch, they will be reared in tanks in the Hatchery until they turn into fry. <br>
+<b>Hatchery</b>: establishment that has stock of adult fish (broodstock), which is used to spawn fish eggs. Once the eggs hatch, they will be reared in tanks or other controlled environments in the Hatchery until they turn into fry. <br>
 
-<b>Nursery</b>: facility where the fish fry is taken to mature. In these facilities, the fry is kept in ponds until it is old enough for transportation: when turns into fingerlings. <br>
+<b>Nursery</b>: facility where the fish fry is taken to mature. In these facilities, the fry is kept in ponds or tanks until it is old enough for transportation: when turns into fingerlings. <br>
 
 <b>Gher Farming</b>: a "modification of  a  rice field to enable  operation of three enterprises:  prawn  (principal  enterprise),  carp,  and  MV rice" (Rahman and Barmon, 2011). A Gher has a canal in the middle, which is the only part that remains wet during the dry months, and dikes which will allow water to get trapped into its fields during the wet months, essentially making the whole Gher look like a pond. Between January and April, when only the canal is wet, farmers will plant rice in the field and irrigate it using water from the Canal. From May onwards, prawn postlarvae and carp fingerlings will be integrated in the Gher and kept until there is enough water (Rahman and Barmon, 2011).
 
