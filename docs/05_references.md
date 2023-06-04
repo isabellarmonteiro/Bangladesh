@@ -16,4 +16,10 @@ permalink: /docs/references
 consumption in Bangladesh. Studies and Reviews
 2011-53. The WorldFish Center. November 2011.</a>
 
+
+
+Rahman, S., Barmon, B., 2011. ‘Gher’ Farming System of Bangladesh: A Win-Win Strategy for Agricultural Development?, in: Agricultural Policies: New Developments. pp. 143–169.
+
+
+
 <br> <br> 
