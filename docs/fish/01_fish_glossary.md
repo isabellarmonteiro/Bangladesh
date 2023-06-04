@@ -28,6 +28,8 @@ mathjax: true
 
 <b>Yearling</b>:  <br>
 
+<hr>
+
 <b>Post-larvae</b>:  <br>
 
 
