@@ -21,5 +21,7 @@ consumption in Bangladesh. Studies and Reviews
 Rahman, S., Barmon, B., 2011. ‘Gher’ Farming System of Bangladesh: A Win-Win Strategy for Agricultural Development?, in: Agricultural Policies: New Developments. pp. 143–169.
 
 
+<a href="https://aquadocs.org/bitstream/handle/1834/19553/9789832346708.pdf?sequence=1&isAllowed=y">Dey MM, Bose ML, Alam MF. 2008. Recommendation Domains for Pond Aquaculture. Country Case Study: Development and Status of Freshwater Aquaculture in Bangladesh. WorldFish Center Studies and Reviews No. 1872. The WorldFish Center, Penang, Malaysia. 73 p. </a>
+
 
 <br> <br> 
