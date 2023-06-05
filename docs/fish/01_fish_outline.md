@@ -19,7 +19,7 @@ In recent years, there has been a major focus on promoting the growth of the aqu
 
 ### Nutritional and Cultural Significance
 
-Fish is one of the most popular nutritient-rich foods in Bangladesh, accounting for 60% of the consumption of animal sourced products (Belton et al, 2011), as well as an crucial source of vitamins and micronutrients for the poor (Thilsted et al. 1997). 
+Fish is one of the most popular nutritient-rich foods in Bangladesh. Indeed, it accounts for 60% of the consumption of animal sourced products (Belton et al, 2011), and is a crucial source of vitamins and micronutrients for the poor (Thilsted et al. 1997). 
 
 
 
