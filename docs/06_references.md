@@ -26,5 +26,7 @@ Rahman, S., Barmon, B., 2011. ‘Gher’ Farming System of Bangladesh: A Win-Win
 
 <a href="https://digitalarchive.worldfishcenter.org/bitstream/handle/20.500.12348/1867/WF_521.pdf?sequence=1&isAllowed=y">Karim M, Ahmed M, Talukder RK, Taslim MA, Rahman HZ. 2006. Dynamic agribusinessfocused aquaculture for poverty reduction and economic growth in Bangladesh. WorldFish Center Discussion Series No. 1. 44 p </a>
 
+Thilsted SH, Ross N, Hassan N. 1997. The role of small indigenous fish species in food and nutrition security in Bangladesh. NAGA, ICLARM quarterly (supplement) July-December. pp 13-15.
+
 
 <br> <br> 
