@@ -15,7 +15,7 @@ Fisheries play a vital role in Bangladesh's agricultural operations and economy.
 
 The fisheries sector holds immense importance in rural Bangladesh as it serves as a primary source of livelihoods. Direct employment in the fisheries sector is estimated to benefit around 1.2 million individuals in the country, while fisheries-related activities indirectly support approximately 12 million people in rural areas (Dey et al., 2008a). <br> 
 
-In recent years, there has been a significant focus on promoting the growth of the aquaculture industry and the commercial fishing sector. These sectors are believed to possess untapped potential to foster rural employment, as the development of family-owned and commercial operations is expected to stimulate self-employment and the demand for hired labor. Recognizing this opportunity, the government of Bangladesh has placed considerable efforts in the promotion and support of these industries (Karim et al, 2006). 
+In recent years, there has been a major focus on promoting the growth of the aquaculture industry and the commercial fishing sector. These sectors are believed to possess untapped potential to foster rural employment, as the development of family-owned and commercial operations is expected to stimulate self-employment and the demand for hired labor. Recognizing this opportunity, the government of Bangladesh has placed considerable efforts in the promotion and support of these industries (Karim et al, 2006). 
 
 ### Nutritional and Cultural Significance
 
