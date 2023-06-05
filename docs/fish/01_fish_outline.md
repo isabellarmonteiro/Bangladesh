@@ -11,8 +11,10 @@ mathjax: true
 ### Economic Significance
 
 <br>
-In Bangladesh, it is estimated that 1.2 million people are directly employed in the fisheries sector. Further 12 million rural people indirectly earn livelihood from fisheries-related activities (Dey et al., 2008a). Overall, fisheries, including shrimp and prawn production, are the second most valuable type of agricultural operations (Belton et al, 2011), and they are Bangladesh's most important primary export commodity (Dey et al., 2008a). <br>
+Fisheries, including shrimp and prawn production, are the second most valuable type of agricultural operations (Belton et al, 2011), and they are Bangladesh's most important primary export commodity (Dey et al., 2008a). <br>
 
+
+Due to its economic importance, this sector is one of the main sources of livelihoods for people in Bangladesh. It is estimated that 1.2 million people in the country are directly employed in the fisheries sector. Further 12 million rural people indirectly receive income from fisheries-related activities (Dey et al., 2008a). Furthermore, Fisheries have long been regarded by the government as having the potential to increase employment in rural areas, both through self-employment and by creating a demand for hired labor.
 <br> 
 
 ### Nutritional and Cultural Significance
