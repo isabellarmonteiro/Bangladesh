@@ -24,4 +24,7 @@ Rahman, S., Barmon, B., 2011. ‘Gher’ Farming System of Bangladesh: A Win-Win
 <a href="https://aquadocs.org/bitstream/handle/1834/19553/9789832346708.pdf?sequence=1&isAllowed=y">Dey MM, Bose ML, Alam MF. 2008. Recommendation Domains for Pond Aquaculture. Country Case Study: Development and Status of Freshwater Aquaculture in Bangladesh. WorldFish Center Studies and Reviews No. 1872. The WorldFish Center, Penang, Malaysia. 73 p. </a>
 
 
+<a href="https://digitalarchive.worldfishcenter.org/bitstream/handle/20.500.12348/1867/WF_521.pdf?sequence=1&isAllowed=y">Karim M, Ahmed M, Talukder RK, Taslim MA, Rahman HZ. 2006. Dynamic agribusinessfocused aquaculture for poverty reduction and economic growth in Bangladesh. WorldFish Center Discussion Series No. 1. 44 p </a>
+
+
 <br> <br> 
