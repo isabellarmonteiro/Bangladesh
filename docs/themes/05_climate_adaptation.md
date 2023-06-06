@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Climate Adaptation
-parent: Overarching Themes
+parent: Cross-cutting Themes
 nav_order: 4
 mathjax: true
 ---
