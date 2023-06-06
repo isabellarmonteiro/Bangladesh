@@ -9,12 +9,11 @@ mathjax: true
 # Main CGIAR Priorities
 
 <br> <br> 
-
 # CGIAR Engagement in Fisheries Sector
 
-Fisheries and Aquaculture have been a longstanding domain of interest for the CGIAR. Between 2012-2016, these topics were included in the Livestock and Fish CGIAR Research Program (CRP). However, indicating renewed focus on this line of research, they gained their own space with the Fish Agri-Food Systems (FISH), which was active between 2017-2021 and jointly articulated by WorldFish and the International Water Management Institute (IWMI). <br>
-
-In Bangladesh, WorldFish is the main CGIAR center working on Fisheries and Aquaculture. Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiative.
+Fisheries and Aquaculture have long been areas of significant interest for the CGIAR. Initially, from 2012 to 2016, these subjects were encompassed within the Livestock and Fish CGIAR Research Program (CRP). However, in order to emphasize and prioritize research in this field, a distinct program called Fish Agri-Food Systems (FISH) was established and operated from 2017 to 2021. This program was jointly led by WorldFish and the International Water Management Institute (IWMI).
+<br>
+In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheries and Aquaculture. Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiative.
 
 ## WorldFish's Presence in Bangladesh
 
