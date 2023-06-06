@@ -19,7 +19,7 @@ In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheri
 ## Main CGIAR Priorities
 
 ## WorldFish's Presence in Bangladesh
-WorldFish has been active in Bangladesh since 1989. During the past decades, the center has developed a close collaboration with governmental partners, participating in the 
+WorldFish has been active in Bangladesh since 1989. During the past decades, the center has developed a close collaboration with governmental partners, participating in the formulation of various policies. Furthermore, the center has built an extensive network with local actors, including the private sector as well as non-governmental organizations at various levels of operation. 
 
 ### Major Contributions
 #### Genetic Improvement
