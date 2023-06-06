@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Value Chains and Markets
-parent: Overarching Themes
+parent: Cross-cutting Themes
 nav_order: 6
 mathjax: true
 ---
