@@ -18,7 +18,7 @@ In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheri
 
 ## Main CGIAR Priorities
 ### Current
-Currently, the development and dissemination of genetically improved carp species, tilapia and Small-Indigenous Species has been at the forefront of the CGIAR's activities. Additionally, regarding Crop Management Practices, WorldFish outlines the development of Rice-Fish Systems, which allow for intensification of production and diversification of livelihoods, as a priority for Bangladesh. 
+In recent years, the development and dissemination of genetically improved carp species, tilapia and Small-Indigenous Species has been at the forefront of the CGIAR's activities. Additionally, regarding Crop Management Practices, WorldFish outlines the development of Rice-Fish Systems, which allow for intensification of production and diversification of livelihoods, as a priority for Bangladesh. 
 
 When it comes to Natural Resource Management, community-based fishery management approaches have been developed to tread the fine line between restoring native populations of fish and allowing vulnerable communities to maintain their traditional sources of livelihoods. Moreover, significant attention has been placed in guaranteeing that biosecurity and seed quality standards live up to those of international markets, with important contributions in the development of disease diagnostic and control measures for tilapia and shrimp.
 ### Past 
