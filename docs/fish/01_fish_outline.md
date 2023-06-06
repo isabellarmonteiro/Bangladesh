@@ -19,7 +19,9 @@ In recent years, there has been a major focus on promoting the growth of the aqu
 
 ### Nutritional and Cultural Significance
 
-Fish is one of the most popular nutritient-rich foods in Bangladesh. Indeed, it accounts for 60% of the consumption of animal sourced products (Belton et al, 2011), and is a crucial source of vitamins and micronutrients for the poor (Thilsted et al. 1997). The common saying "rice and fish makes a Bengali" appropriately highlights the importance of aquatic organisms for diets in Bangladesh. Nevertheless, with the decrease in the consumption of pulses, another protein-rich staple, the dependency on fish intensified in the early 2000s (BBS 2003c and 2007b). Given the high dependency on fish to achieve the necessary macro and micronutrient intake, as well as the fact that its consumption is sourced primarily domestically,  
+Fish is one of the most popular nutritient-rich foods in Bangladesh. Indeed, it accounts for 60% of the consumption of animal sourced products (Belton et al, 2011), and is a crucial source of vitamins and micronutrients for the poor (Thilsted et al. 1997). The common saying "rice and fish makes a Bengali" appropriately highlights the importance of aquatic organisms for diets in Bangladesh. Nevertheless, with the decrease in the consumption of pulses (Dey et al., 2008a), another protein-rich staple, the dependency on fish intensified in the early 2000s (BBS 2003c and 2007b). <br>
+
+Given the high reliance on fish to achieve the necessary macro and micronutrient intake, as well as the fact that its consumption is primarily sourced domestically,  
 
 
 
