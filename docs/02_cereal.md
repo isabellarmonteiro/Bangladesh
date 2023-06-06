@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cereal
+title: Cereals
 image: "../../../assets/images/DiD.png"
 nav_order: 3
 permalink: /docs/cereal
 ---
 
-# Cereal
+# Cereals
