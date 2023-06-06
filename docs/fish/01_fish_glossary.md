@@ -30,6 +30,8 @@ mathjax: true
 
  <b>Fingerling</b>: the next development stage of fish, when they have approximately reached the size of a human finger. At this stage, fish has better survival rate, so it is ready to be transported and sold. <br>
 
+<b>Small Indigenous Species (SIS)</b>: fish species that attain a maximum length og 25 cm. Because these fish are sufficiently small to be eaten whole, without removing the head or internal organs, they are very nutrient-rich. 
+<br>
 
 <hr>
 <b>SHRIMP AND PRAWNS:</b>
