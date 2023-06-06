@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overarching Themes
+title: Cross-cutting Themes
 permalink: /docs/themes
 has_children: true
 mathjax: true
