@@ -29,4 +29,9 @@ Rahman, S., Barmon, B., 2011. ‘Gher’ Farming System of Bangladesh: A Win-Win
 <a href="[https://digitalarchive.worldfishcenter.org/bitstream/handle/20.500.12348/1867/WF_521.pdf?sequence=1&isAllowed=y](http://worldfish.catalog.cgiar.org/naga/na_2273.pdf)">Thilsted SH, Ross N, Hassan N. 1997. The role of small indigenous fish species in food and nutrition security in Bangladesh. NAGA, ICLARM quarterly (supplement) July-December. pp 13-15. </a>
 
 
+BBS. 2003b. Monthly statistical bulletin Bangladesh, July 2003. Bangladesh Bureau of Statistics, Ministry of Planning, Government of the People’s Republic of Bangladesh, Dhaka.
+
+BBS. 2007b. Household income and expenditure survey 2005. Bangladesh Bureau of Statistics, Ministry of Planning, Government of the People’s Republic of Bangladesh, Dhaka.
+
+
 <br> <br> 
