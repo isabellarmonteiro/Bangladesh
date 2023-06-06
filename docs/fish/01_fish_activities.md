@@ -21,10 +21,13 @@ In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheri
 In recent years, the development and dissemination of genetically improved Carp, Tilapia and Small-Indigenous Species has been at the forefront of the CGIAR's activities. Additionally, regarding Crop Management Practices, WorldFish outlines the development of Rice-Fish Systems, which allows to intensify farming systems and diversify income sources, as a priority for Bangladesh. 
 
 When it comes to Natural Resource Management, community-based fishery management approaches have been developed to tread the fine line between restoring native populations of fish and allowing vulnerable communities to maintain their traditional sources of livelihoods. Moreover, significant attention has been placed in guaranteeing that biosecurity and seed quality standards live up to those of international markets, with important contributions in the development of disease diagnostic and control measures for tilapia and shrimp.
+
 ### Past 
 
+
+
 ## WorldFish's Presence in Bangladesh
-WorldFish has been actively engaged in Bangladesh since 1989, forging strong partnerships with government entities and playing a pivotal role in policy formulation. Over the years, the center has also established an extensive network of local partners, encompassing private sector institutions, non-governmental organizations, and other local stakeholders operating at different levels. WorldFish has placed significant emphasis on enhancing the capacity of these collaborators, thus ensuring the long-term viability and sustainability of CGIAR-promoted initiatives within the country.
+WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), forging strong partnerships with government entities and playing a pivotal role in policy formulation. Over the years, the center has also established an extensive network of local partners, encompassing private sector institutions, non-governmental organizations, and other local stakeholders operating at different levels. WorldFish has placed significant emphasis on enhancing the capacity of these collaborators, thus ensuring the long-term viability and sustainability of CGIAR-promoted initiatives within the country.
 
 ### Major Contributions and Reach
 #### Genetic Improvement
