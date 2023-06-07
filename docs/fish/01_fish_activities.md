@@ -43,8 +43,9 @@ FISH 7 golden eggs
 WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), forging strong partnerships with government entities and playing a pivotal role in policy formulation. Over the years, the center has also established an extensive network of local partners, encompassing private sector institutions, non-governmental organizations, and other local stakeholders operating at different levels. WorldFish has placed significant emphasis on enhancing the capacity of these collaborators, thus ensuring the long-term viability and sustainability of CGIAR-promoted initiatives within the country.
 
 ### Major Contributions and Reach
-#### Genetic Improvement
 <br>
+
+#### Genetic Improvement
 
 In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-FS) began to conduct research on the genetic improvement of aquaculture species. Since 1996, the breeding efforts of the BFRI-FS have been expanded in collaboration with WorldFish, under the project "Genetic
 Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). *APPARENTLY THIS WAS WIDELY DISSEMINATED BY BFRI - SO, WHAT HAPPENED?*
