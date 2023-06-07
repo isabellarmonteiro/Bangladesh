@@ -50,7 +50,7 @@ In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-
 Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). *APPARENTLY THIS WAS WIDELY DISSEMINATED BY BFRI - SO, WHAT HAPPENED?*
 <br>
 
-<b>Tilapia:</b> WorldFish introduced its Genetically Improved Farmed Tilapia (GIFT), a faster growing and heavier variety, in 1994 in Bangladesh (Hussain et al., 2000). Since then, new generations of GIFT Tilapia have been introduced frequently, with the latest one arriving to Bangladesh in 2012, in the context of the Aquaculture for Income and Nutrition project (Keus et al., 2017)
+<b>Tilapia:</b> WorldFish introduced its Genetically Improved Farmed Tilapia (GIFT), a faster growing and heavier variety, in 1994 in Bangladesh (Hussain et al., 2000). Since then, new generations of GIFT Tilapia have been introduced frequently, with the latest one arriving to Bangladesh in 2012, in the context of the Aquaculture for Income and Nutrition project (Keus et al., 2017). The 18-fold increase in tilapia production in Bangladesh, between the years of 2005 and 2015 has been largerly attributed to GIFT (Tran et al., 2021).
 <br>
 
 <b>Carps:</b> 
