@@ -25,7 +25,7 @@ In recent years, the development and dissemination of genetically improved Carp,
 
 When it comes to Natural Resource Management, community-based fishery management approaches have been developed to tread the fine line between restoring native populations of fish and allowing vulnerable communities to maintain their traditional sources of livelihoods. Moreover, significant attention has been placed in guaranteeing that biosecurity and seed quality standards live up to those of international markets, with important contributions in the development of disease diagnostic and control measures for tilapia and shrimp.
 
-### Past 
+### Building Blocks
 
 WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed, early activities in Bangladesh included the dissemination of various rice-fish systems, the genetic enhancement of aquaculture species, and the conservation and management of both marine and inland fisheries, which hinged on characterizing the legal and insititutional constraints to conservation and on promoting the community-based management of inland waterbodies (WorldFish, 2004).  
 
