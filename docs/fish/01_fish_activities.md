@@ -12,7 +12,7 @@ mathjax: true
 # CGIAR Engagement in Fisheries Sector
 <br>
 
-Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, with a history of many multi-center initiatives being focused on this topic. In 2003, the Challenge Program on Water and Food was launched, encompassing Aquatic Ecosystems and Fisheries as one of its main thematic areas, for which WorldFish was the leading center. This program ran for 10 years, and it aimed at improving water productivity in nine Basins, including the Indo-Gangetic one. 
+Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, with a history of many multi-center initiatives being focused on this topic. In 2003, the Challenge Program on Water and Food was launched, encompassing Aquatic Ecosystems and Fisheries as one of its main thematic areas, for which WorldFish was the leading center. This program ran for 10 years, and it aimed at improving water productivity in six river Basins, including the Indo-Gangetic one. 
 
 The CGIAR Research Program on Aquatic Agricultural Systems (AAS) was established from 2011 to 2016, emphasizing the importance of involving local stakeholders in research activities to ensure lasting results within the "Research in Development" framework (Douthwaite et al. 2015). 
 Similarly, from 2012 to 2016, these subjects were encompassed within the Livestock and Fish CGIAR Research Program (CRP), which helped give increased attention to value-chain development. In order to further prioritize research in this field, a follow-up program called Fish Agri-Food Systems (FISH) was established and operated from 2017 to 2021, being jointly led by WorldFish and the International Water Management Institute (IWMI). <br>
@@ -27,8 +27,9 @@ When it comes to Natural Resource Management, community-based fishery management
 
 ### Past 
 
-WorldFish's priorities for Bangladesh have evolved in conjunction with the countries conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed,  
+WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed,  
 
+The first multi-center initiatives drafted newly devised priorities for aquaculture in Bangladesh. Namely, the Challenge Program on Water and Food, highlighted the importance of 
 Livestock and Fish CRP approach
 
 FISH 7 golden eggs
