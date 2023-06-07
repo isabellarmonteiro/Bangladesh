@@ -53,8 +53,10 @@ and Irrigations Systems. </a>
 
 <a href="https://www.researchgate.net/publication/275941079_Comparative_Performance_between_Genetically_Improved_and_Traditional_Silver_Barb_Strain_a_Bio-Economic_Analysis">Khan, M., Huda, F., 2013. Comparative Performance between Genetically Improved and Traditional Silver Barb Strain: a Bio-Economic Analysis. Progressive Agriculture 23.</a>
 
-<a href=""></a>
-<a href=""></a>
+Hussain, M.G., Kohinoor, A.H.M., Islam, M., Mahata, S.C., Ali, M., Tanu, M.B., Hossain, M.A., Mazid, M.A., 2000. Genetic Evaluation of GIFT and Existing Strains of Nile Tilapia, Oreochromis niloticus L., Under On-Station and On-Farm Conditions in Bangladesh. Asian Fisheries Science 13, 117–126.
+
+<a href="https://digitalarchive.worldfishcenter.org/bitstream/handle/20.500.12348/4504/e0588464ee8675709957385a8f551cd6.pdf?sequence3=">Tran, N., Shikuku, K.M., Rossignoli, C.M., Barman, B.K., Cheong, K.C., Ali, M.S., Benzie, J.A.H., 2021. Growth, yield and profitability of genetically improved farmed tilapia (GIFT) and non-GIFT strains in Bangladesh. Aquaculture 536, 736486. </a>
+
 <a href=""></a>
 <a href=""></a>
 
