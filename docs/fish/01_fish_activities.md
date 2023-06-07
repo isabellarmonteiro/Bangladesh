@@ -5,10 +5,6 @@ parent: Fish
 nav_order: 5
 mathjax: true
 ---
-
-
-
-<br> <br> 
 # CGIAR Engagement in Fisheries Sector
 <br>
 
