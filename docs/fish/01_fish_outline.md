@@ -35,8 +35,9 @@ Given the high reliance on fish to achieve the necessary macro and micronutrient
 #### Patterns 
 Within the agricultural sector, the contribution of fisheries increased from 7% in the mid 1970s to a stable 22% between 2005 and 2021 ().
 While the share of the GDP generated from agriculture is decreasing, as the contribution from industries increases, the fisheries sector maintained above average growth rates when compared to other agricultural activities (Bangladesh Bureau of Statistics, 2022). 
-### Constraints and Potential 
 
+### Constraints and Potential 
+Because of its low-lying elevation, being less than five meters above sea level, the Coastal area of Bangladesh is prone to tidal surges and flooding during the rainy season, and to  salinity intrusion during the dry one (CPFW, 2014; Mondal et al., 2013).
 
 <br> 
 
