@@ -31,7 +31,7 @@ WorldFish's priorities for Bangladesh have evolved in conjunction with the count
 
 The first multi-center initiatives drafted newly devised priorities for aquaculture in Bangladesh. Namely, the Challenge Program on Water and Food, gave further importance to developing rice-fish systems, building on longstanding community-based resource management research by WorldFish, through the newly introduced practice of community-based fish culture (Sheriff et al., 2010).
 
-Moreover, the Livestock and Fish CRP approach
+Moreover, during the first wave of CGIAR Research Programs, new approaches to the development and fisheries and aquaculture were introduced.  the Livestock and Fish CRP approach
 
 FISH 7 golden eggs
 
