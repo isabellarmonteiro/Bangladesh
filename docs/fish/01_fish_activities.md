@@ -45,7 +45,7 @@ WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), 
 ### Major Contributions and Reach
 <br>
 
-#### Genetic Improvement
+<b>#### Genetic Improvement</b>
 
 In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-FS) began to conduct research on the genetic improvement of aquaculture species. Since 1996, the breeding efforts of the BFRI-FS have been expanded in collaboration with WorldFish, under the project "Genetic
 Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). *APPARENTLY THIS WAS WIDELY DISSEMINATED BY BFRI - SO, WHAT HAPPENED?*
@@ -60,31 +60,31 @@ Improvement of Carp Species in Asia", developing an improved strain of Silver Ba
 
 <br>
 
-#### Crop/ Aquaculture Management Practices
+<b>#### Crop/ Aquaculture Management Practices</b>
 
 <br>
 
 <br>
 
-#### Conservation and Natural Resource Management
+<b>#### Conservation and Natural Resource Management</b>
 
 <br>
 
 <br>
 
-#### Value Chains
+<b>#### Value Chains</b>
 
 <br>
 
 <br>
 
-#### Disease Control
+<b>#### Disease Control</b>
 
 <br>
 
 <br>
 
-#### Others
+<b>#### Others</b>
 
 <br>
 
