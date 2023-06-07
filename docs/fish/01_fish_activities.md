@@ -12,9 +12,9 @@ mathjax: true
 # CGIAR Engagement in Fisheries Sector
 <br>
 
-Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, being the focus of many multi-center initiatives. Starting in 2003, the Challenge Program on Water and Food was implemented for 10 years, which had Aquatic Ecosystems and Fisheries under one of its five main thematic areas. 
+Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, with a history of many multi-center initiatives being focused on this topic. In 2003, the Challenge Program on Water and Food was launched, encompassing Aquatic Ecosystems and Fisheries as one of its main thematic areas. This program ran for 10 years, focusing on the intersection of water, food, and aquatic systems. 
 
-Between 2011 and 2016, the first CGIAR Research Program on Aquaculture was created: the Aquatic Agricultural Systems (AAS), pioneering the idea that in order for research to have lasting results, it should be demand-driven and grounded in in a participatory framework with local stakeholders (Douthwaite et al. 2015).
+The CGIAR Research Program on Aquatic Agricultural Systems (AAS) was established from 2011 to 2016, emphasizing the importance of involving local stakeholders in research activities to ensure lasting results within the "Research in Development" framework (Douthwaite et al. 2015). 
 Similarly, from 2012 to 2016, these subjects were encompassed within the Livestock and Fish CGIAR Research Program (CRP), which helped give increased attention to value-chain development. However, in order to furhter prioritize research in this field, a follow-up research program called Fish Agri-Food Systems (FISH) was established and operated from 2017 to 2021, being jointly led by WorldFish and the International Water Management Institute (IWMI). <br>
 
 In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheries and Aquaculture. Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiatives.
