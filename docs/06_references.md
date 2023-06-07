@@ -46,11 +46,18 @@ BBS. 2007b. Household income and expenditure survey 2005. Bangladesh Bureau of S
 
 <a href="https://cgspace.cgiar.org/bitstream/handle/10568/35153/Abstract%20for%20EGB%20Workshop_Agrarian%20Straightjacket.pdf?sequence=1&isAllowed=y">Mondal, M., Humphreys, E. and Singh, U.S.. 2013. Agrarian Straightjacket: Constraints to Achieve Yield Potential in Rice. Workshop Abstract. New Delhi, India: CPWF.</a>
 
-<a href=""></a>
+<a href="https://digitalarchive.worldfishcenter.org/bitstream/handle/20.500.12348/1285/CP35_Final%20Project%20Report_v7.pdf?sequence1="> Sheriff, N., Joffre, O. Hong, M.C., Barman, B., Haque, A.B.M., Rahman, F., Zhu, J., Nguyen van H., Russell, A., van Brakel, M., Valmonte-Santos, V., Werthmann, C., Kodio, A. 2010. Community-based Fish Culture in Seasonal Floodplains
+and Irrigations Systems. </a>
 
 <a href=""></a>
 
 <a href=""></a>
+
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+
 
 <a href=""></a>
 <a href=""></a>
