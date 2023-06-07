@@ -40,15 +40,20 @@ BBS. 2007b. Household income and expenditure survey 2005. Bangladesh Bureau of S
 <a href="https://core.ac.uk/download/pdf/132684726.pdf">Douthwaite B, Apgar JM, Schwarz A, McDougall C, Attwood S, Senaratna Sellamuttu S and Clayton T, eds. 2015. Research in development: Learning from the CGIAR Research Program on Aquatic Agricultural Systems. Penang, Malaysia: CGIAR Research Program on Aquatic Agricultural Systems. Working Paper: AAS-2015-16.</a>
 
 
-<a href=""></a>
+<a href="https://cgspace.cgiar.org/bitstream/handle/10568/49073/CPWF%20Ganges%20Basin%20Summary%20WEB.pdf?sequence=1&isAllowed=y">CPWF. 2014. Summary of CPWF Research in the Ganges River Basin. CPWF: Colombo, Sri Lanka.</a>
 
 
 
-<a href=""></a>
-
-<a href=""></a>
+<a href="https://cgspace.cgiar.org/bitstream/handle/10568/35153/Abstract%20for%20EGB%20Workshop_Agrarian%20Straightjacket.pdf?sequence=1&isAllowed=y">Mondal, M., Humphreys, E. and Singh, U.S.. 2013. Agrarian Straightjacket: Constraints to Achieve Yield Potential in Rice. Workshop Abstract. New Delhi, India: CPWF.</a>
 
 <a href=""></a>
 
+<a href=""></a>
+
+<a href=""></a>
+
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
 <a href=""></a>
 <br> <br> 
