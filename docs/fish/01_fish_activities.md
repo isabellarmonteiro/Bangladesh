@@ -44,10 +44,10 @@ WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), 
 
 ### Major Contributions and Reach
 #### Genetic Improvement
-In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-FS) began to conduct research on the genetic improvement of aquaculture species. Since 1996, the breeding efforts of the BFRI-FS have been expanded in collaboration with WorldFish, under the project "Genetic
-Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). 
+<br>
 
-*APPARENTLY THIS WAS WIDELY DISSEMINATED BY BFRI - SO, WHAT HAPPENED?*
+In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-FS) began to conduct research on the genetic improvement of aquaculture species. Since 1996, the breeding efforts of the BFRI-FS have been expanded in collaboration with WorldFish, under the project "Genetic
+Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). *APPARENTLY THIS WAS WIDELY DISSEMINATED BY BFRI - SO, WHAT HAPPENED?*
 <br>
 
 <b>Tilapia:</b> WorldFish introduced its Genetically Improved Farmed Tilapia (GIFT), a faster growing and heavier variety, in 1994 in Bangladesh (Hussain et al., 2000). Since then, new generations of GIFT Tilapia have been introduced frequently, with the latest one arriving to Bangladesh in 2012, in the context of the Aquaculture for Income and Nutrition project (Keus et al., 2017)
