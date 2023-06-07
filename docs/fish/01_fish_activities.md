@@ -33,6 +33,10 @@ The first multi-center initiatives drafted newly devised priorities for aquacult
 Moreover, during the first wave of CGIAR Research Programs (CRPs), new approaches to the development of fisheries and aquaculture were introduced. The Livestock and Fish CRP was particularly focused on genetic improvement of Tilapia and Carp varieties, as well as on various aspects of the aquaculture value-chain, such as disease and quality controls, improved sustainability of aquaculture feed management, and the enhancement of gender equity of fish and shrimp value chains
 from production to consumption (CGIAR, 2014).
 
+AAS?
+
+A second wave of CRPs gave rise to the Fish Agri-Food Systems (FISH) initiative, which was active between 2017 and 2021 and 
+
 FISH 7 golden eggs
 
 ## WorldFish's Presence in Bangladesh
