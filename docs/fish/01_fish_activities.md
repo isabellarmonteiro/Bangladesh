@@ -27,7 +27,7 @@ When it comes to Natural Resource Management, community-based fishery management
 
 ### Past 
 
-WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed, early activities in Bangladesh included the dissemination of various rice-fish systems, the genetic enhancement of aquaculture species, conservation and management of both marine and inland fisheries, which hinged on  
+WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed, early activities in Bangladesh included the dissemination of various rice-fish systems, the genetic enhancement of aquaculture species, and the conservation and management of both marine and inland fisheries, which hinged on characterizing the legal and insititutional constraints to conservation and on promoting the community-based management of inland waterbodies.  
 
 The first multi-center initiatives drafted newly devised priorities for aquaculture in Bangladesh. Namely, the Challenge Program on Water and Food, highlighted the importance of 
 Livestock and Fish CRP approach
