@@ -49,7 +49,7 @@ BBS. 2007b. Household income and expenditure survey 2005. Bangladesh Bureau of S
 <a href="https://digitalarchive.worldfishcenter.org/bitstream/handle/20.500.12348/1285/CP35_Final%20Project%20Report_v7.pdf?sequence1="> Sheriff, N., Joffre, O. Hong, M.C., Barman, B., Haque, A.B.M., Rahman, F., Zhu, J., Nguyen van H., Russell, A., van Brakel, M., Valmonte-Santos, V., Werthmann, C., Kodio, A. 2010. Community-based Fish Culture in Seasonal Floodplains
 and Irrigations Systems. </a>
 
-<a href=""></a>
+<a href="https://cgspace.cgiar.org/bitstream/handle/10568/41578/PPMC9_IB_Bangladeshvc_business_case_april2014.pdf?sequence=1&isAllowed=y">CGIAR Research Program on Livestock and Fish. 2014. Bangladesh fish value chain—Updated business case. Prepared for the Livestock and Fish 9th Program Planning and Management Committee Meeting, WorldFish Penang, Malaysia, 3-4 April 2014. Nairobi, Kenya: ILRI.</a>
 
 <a href=""></a>
 
@@ -59,6 +59,10 @@ and Irrigations Systems. </a>
 <a href=""></a>
 
 
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
