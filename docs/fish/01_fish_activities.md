@@ -17,7 +17,7 @@ Fisheries and Aquaculture have long been areas of significant interest for the C
 The CGIAR Research Program on Aquatic Agricultural Systems (AAS) was established from 2011 to 2016, emphasizing the importance of involving local stakeholders in research activities to ensure lasting results within the "Research in Development" framework (Douthwaite et al. 2015). 
 Similarly, from 2012 to 2016, these subjects were encompassed within the Livestock and Fish CGIAR Research Program (CRP), which helped give increased attention to value-chain development. In order to further prioritize research in this field, a follow-up program called Fish Agri-Food Systems (FISH) was established and operated from 2017 to 2021, being jointly led by WorldFish and the International Water Management Institute (IWMI). <br>
 
-In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheries and Aquaculture. Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiatives.
+In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheries and Aquaculture. Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiatives. 
 
 ## Main CGIAR Priorities
 ### Current
@@ -27,7 +27,7 @@ When it comes to Natural Resource Management, community-based fishery management
 
 ### Past 
 
-WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed,  
+WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed, early activities in Bangladesh included the dissemination of various rice-fish systems, the genetic enhancement of aquaculture species, conservation and management of both marine and inland fisheries, which hinged on  
 
 The first multi-center initiatives drafted newly devised priorities for aquaculture in Bangladesh. Namely, the Challenge Program on Water and Food, highlighted the importance of 
 Livestock and Fish CRP approach
