@@ -51,7 +51,7 @@ and Irrigations Systems. </a>
 
 <a href="https://cgspace.cgiar.org/bitstream/handle/10568/41578/PPMC9_IB_Bangladeshvc_business_case_april2014.pdf?sequence=1&isAllowed=y">CGIAR Research Program on Livestock and Fish. 2014. Bangladesh fish value chain—Updated business case. Prepared for the Livestock and Fish 9th Program Planning and Management Committee Meeting, WorldFish Penang, Malaysia, 3-4 April 2014. Nairobi, Kenya: ILRI.</a>
 
-<a href=""></a>
+<a href="https://www.researchgate.net/publication/275941079_Comparative_Performance_between_Genetically_Improved_and_Traditional_Silver_Barb_Strain_a_Bio-Economic_Analysis">Khan, M., Huda, F., 2013. Comparative Performance between Genetically Improved and Traditional Silver Barb Strain: a Bio-Economic Analysis. Progressive Agriculture 23.</a>
 
 <a href=""></a>
 <a href=""></a>
