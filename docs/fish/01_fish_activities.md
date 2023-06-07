@@ -52,15 +52,40 @@ Improvement of Carp Species in Asia", developing an improved strain of Silver Ba
 
 <b>Tilapia:</b>
 
+
+<br>
+
+<br>
+
 #### Crop/ Aquaculture Management Practices
+
+<br>
+
+<br>
 
 #### Conservation and Natural Resource Management
 
+<br>
+
+<br>
+
 #### Value Chains
+
+<br>
+
+<br>
 
 #### Disease Control
 
+<br>
+
+<br>
+
 #### Others
+
+<br>
+
+<br>
 
 ### Current Activities
 
