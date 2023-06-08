@@ -60,31 +60,31 @@ Improvement of Carp Species in Asia", developing an improved strain of Silver Ba
 
 <br>
 
-<b>#### Crop/ Aquaculture Management Practices</b>
+#### <b> Crop/ Aquaculture Management Practices</b>
 
 <br>
 
 <br>
 
-<b>#### Conservation and Natural Resource Management</b>
+#### <b>Conservation and Natural Resource Management</b>
 
 <br>
 
 <br>
 
-<b>#### Value Chains</b>
+#### <b>Value Chains</b>
 
 <br>
 
 <br>
 
-<b>#### Disease Control</b>
+#### <b>Disease Control</b>
 
 <br>
 
 <br>
 
-<b>#### Others</b>
+####<b>Others</b>
 
 <br>
 
