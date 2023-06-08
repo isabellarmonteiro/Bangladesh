@@ -43,7 +43,6 @@ FISH 7 golden eggs
 WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), forging strong partnerships with government entities and playing a pivotal role in policy formulation. Over the years, the center has also established an extensive network of local partners, encompassing private sector institutions, non-governmental organizations, and other local stakeholders operating at different levels. WorldFish has placed significant emphasis on enhancing the capacity of these collaborators, thus ensuring the long-term viability and sustainability of CGIAR-promoted initiatives within the country.
 
 ### Major Contributions and Reach
-<br>
 
 <b> ####Genetic Improvement</b>
 
