@@ -25,6 +25,9 @@ mathjax: true
 <b>Low Lift Pump</b>: a surface water irrigation technology that covers 22.35% of the irrigated area in Bangladesh, 80% of this area being powered by Diesel (BADC, 2020). <br>
 
 
+<b>Alternate Wetting and Drying</b>:  <br>
+
+<b>Continuous Flooding</b>:  <br>
 
 <br><br><br>
 
