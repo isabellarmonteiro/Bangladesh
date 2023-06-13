@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossary
+title: Outline
 parent: Water
 nav_order: 4
 mathjax: true
