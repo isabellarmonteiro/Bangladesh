@@ -31,7 +31,7 @@ mathjax: true
 
 <hr>
 
-<b>WATER-RELATED RISKS:</b> <br> <br>
+<b>WATER-RELATED RISKS AND MITIGATION:</b> <br> <br>
 
 <b>Polders</b>: Polders are areas of land below that have been reclaimed from bodies of water. In spite of being below the sea level, these areas are not flooded because water has been drained out from them. Their construction involves the enclosure of an initially flooded area through the construction of dikes. Water levels inside the Polder are then regulated according to the needs of those using the area. Advantages of Polder construction include the creation of new land for agricultural activities, the protection from tidal floods and salinity intrusion.  <br>
 
@@ -40,6 +40,8 @@ mathjax: true
 <b>Tidal Floods</b>: When low-lying coastal areas are flooded during exceptionally high tide events. <br>
 
 <b>Salinity Intrusion</b>: When freshwater aquifers in coastal areas become saline. This causes agricultural losses, and degrades sources of drinking water. <br>
+
+<b>Index-based Insurance</b>: <br>
 
 <hr>
 
