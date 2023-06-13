@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outline
-parent: Fish
+parent: Fish and Livestock
 nav_order: 4
 mathjax: true
 ---
