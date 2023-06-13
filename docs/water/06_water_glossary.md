@@ -34,9 +34,9 @@ mathjax: true
 
 <b>Sluice Gate</b>: Gates that can be opened or closed to regulate the quantity of water inside the Polder. <br>
 
-<b>Tidal Floods</b>: <br>
+<b>Tidal Floods</b>: When low-lying coastal areas are flooded during exceptionally high tide events. <br>
 
-<b>Salinity Intrusion</b>: <br>
+<b>Salinity Intrusion</b>: When freshwater aquifers in coastal areas become saline. This causes agricultural losses, and degrades sources of drinking water. <br>
 
 <br><br><br>
 <b>INSTITUTIONAL PLAYERS:</b> <br> <br>
