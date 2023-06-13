@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fish
+title: Fish and Livestock
 permalink: /docs/fish
 has_children: true
 mathjax: true
