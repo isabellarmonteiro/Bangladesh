@@ -14,7 +14,7 @@ mathjax: true
 
 
 <b>IRRIGATION:</b> <br> <br>
-<b>Command Area</b>: <br>
+<b>Command Area</b>: All land under being irrigated under the same irrigation system and from a same source.  <br>
 
 <b>Minor Irrigation</b>: An irrigation project with Command Area smaller than 2,000 hectares. In Bangladesh, the most relevant minor irrigation technologies are: Deep Tubewell,  Shallow Tubewell, and Low Lift Pumps.  <br>
 
