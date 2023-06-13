@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-parent: Fish & Livestock
+parent:Fish & Livestock
 nav_order: 3
 mathjax: true
 ---
