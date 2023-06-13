@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CGIAR Activities - Fish
+title: Activities - Fish
 parent: Fish & Livestock
 nav_order: 5
 mathjax: true
