@@ -79,7 +79,7 @@ Hussain, M.G., Kohinoor, A.H.M., Islam, M., Mahata, S.C., Ali, M., Tanu, M.B., H
 <br>
 <a href="https://www.3ieimpact.org/evidence-hub/publications/impact-evaluations/access-safe-drinking-water-experimental-evidence-new">Cocciolo, S, Ghisolfi, S, Habib, A, Rashid, SMA and Tompsett, A, 2020. Access to safe drinking water: experimental evidence from new water sources in Bangladesh, 3ie Impact Evaluation Report 109. New Delhi: International Initiative for Impact Evaluation (3ie) </a>
 
-<br> <br>
+<br>
 
 <a href="http://badc.portal.gov.bd/sites/default/files/files/badc.portal.gov.bd/page/c23bdffd_22fd_4f15_8fc4_b1fc7a91a36a/2020-09-01-14-15-bbb411c861df9a62fdafcccbd8025192.pdf">Bangladesh Agricultural Development Corporation, 2020. Minor Irrigation Survey Report 2018-2019. </a>
 
