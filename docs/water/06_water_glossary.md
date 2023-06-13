@@ -12,6 +12,13 @@ mathjax: true
 
 
 <b>IRRIGATION:</b> <br> <br>
+<b>Command Area</b>: <br>
+
+<b>Minor Irrigation</b>: <br>
+
+<b>Deep Tubewell </b>: <br>
+
+
 
 
 <b>WATER-RELATED RISKS:</b> <br> <br>
