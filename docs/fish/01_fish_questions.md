@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Request for Additional Inputs
+title: Request for Additional Input
 parent: Fish
 nav_order: 6
 mathjax: true
