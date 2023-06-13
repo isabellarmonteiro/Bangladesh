@@ -13,3 +13,18 @@ mathjax: true
 ### Current
 
 ### Building Blocks
+
+
+## IWMI's Presence in Bangladesh
+
+
+### Major Contributions and Reach
+
+
+#### <b>Water Productivity</b>
+
+
+#### <b>Resource Management</b>
+
+
+#### <b>Risk Management</b>
