@@ -10,7 +10,7 @@ mathjax: true
 <b>WATER RESOURCES:</b> <br> <br>
 <b>River Basin</b>: An area of land in which all excess water will be drained by the same main river or any its affluents (smaller water streams that flow into the main one). <br>
 
-<br><br><br>
+<hr>
 
 
 <b>IRRIGATION:</b> <br> <br>
