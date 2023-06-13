@@ -29,7 +29,7 @@ mathjax: true
 
 <b>Continuous Flooding</b>:  <br>
 
-<br><br><br>
+<hr>
 
 <b>WATER-RELATED RISKS:</b> <br> <br>
 
@@ -41,7 +41,8 @@ mathjax: true
 
 <b>Salinity Intrusion</b>: When freshwater aquifers in coastal areas become saline. This causes agricultural losses, and degrades sources of drinking water. <br>
 
-<br><br><br>
+<hr>
+
 <b>INSTITUTIONAL PLAYERS:</b> <br> <br>
 <b>Barind Multipurpose Development Authority (BMDA)</b>: <br>
 
