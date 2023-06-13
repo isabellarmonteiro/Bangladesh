@@ -33,7 +33,7 @@ mathjax: true
 
 <b>Salinity</b>: <br>
 
-<b>Polders</b>: <br>
+<b>Polders</b>: Polders are areas of land below that have been reclaimed from bodies of water. In spite of being below the sea level, these areas are not flooded because water has been drained out from them. Their construction involves the enclosure of an initially flooded area through the construction of dikes. Water levels inside the Polder are then regulated according to the needs of those using the area. <br>
 
 
 
