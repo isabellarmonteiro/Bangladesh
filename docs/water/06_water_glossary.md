@@ -20,7 +20,7 @@ mathjax: true
 
 <b>Deep Tubewell</b>: a groundwater irrigation technology that accesses water from deep aquifers, thus allowing arsenic contamination levels to be much lower when compared to shallow tubewells (Cocciolo, 2020). This irrigation method covers 19.26% of the irrigated area in Bangladesh, with 97% of the area under DTW being powered by Electricity (BADC, 2020).<br>
 
-<b>Shallow Tubewell</b>: a groundwater irrigation technology that accesses water from . This irrigation method covers 53.59% of the irrigated area in Bangladesh, and 65% of this area is powered by Diesel (BADC, 2020). <br>
+<b>Shallow Tubewell</b>: a groundwater irrigation technology that accesses water at a depth of usually less than 15 meters. This irrigation method covers 53.59% of the irrigated area in Bangladesh, and 65% of this area is powered by Diesel (BADC, 2020). <br>
 
 <b>Low Lift Pump</b>: a surface water irrigation technology that covers 22.35% of the irrigated area in Bangladesh, 80% of this area being powered by Diesel (BADC, 2020). <br>
 
