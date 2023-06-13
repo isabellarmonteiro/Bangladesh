@@ -16,7 +16,7 @@ mathjax: true
 <b>IRRIGATION:</b> <br> <br>
 <b>Command Area</b>: <br>
 
-<b>Minor Irrigation</b>: <br>
+<b>Minor Irrigation</b>: An irrigation project with Command Area smaller than 2,000 hectares. <br>
 
 <b>Deep Tubewell </b>: <br>
 
