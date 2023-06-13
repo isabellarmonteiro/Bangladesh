@@ -18,7 +18,7 @@ mathjax: true
 
 <b>Minor Irrigation</b>: An irrigation project with Command Area smaller than 2,000 hectares. In Bangladesh, the relevant minor irrigation technologies include: Deep Tubewell,  Shallow Tubewell, and Low Lift Pumps. <br>
 
-<b>Deep Tubewell</b>: irrigation technologies that access water from deep aquifers, thus allowing arsenic contamination levels to be much lower when compared to shallow tubewells (Cocciolo, 2020). <br>
+<b>Deep Tubewell</b>: a groundwater irrigation technology that access water from deep aquifers, thus allowing arsenic contamination levels to be much lower when compared to shallow tubewells (Cocciolo, 2020). <br>
 
 
 <br><br><br>
