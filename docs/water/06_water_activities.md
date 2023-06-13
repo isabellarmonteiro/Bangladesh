@@ -7,12 +7,15 @@ mathjax: true
 ---
 
 # CGIAR Engagement Relating to Water Systems
-Water Systems play an important role for all five impact areas that the CGIAR focuses on. Indeed, improving the availability and the quality of water sources can have positive impacts on nutrition, health and food security by increasing agricultural yields through irrigation, and improving sanitation and hygiene. Similarly, new irrigation technologies can boost income and allow farmers to save valuable time. 
+Water Systems play an important role for all five impact areas that the CGIAR focuses on. Indeed, improving the availability and the quality of water sources can have positive impacts on nutrition, health and food security by increasing agricultural yields through irrigation, and improving sanitation and hygiene. Similarly, new irrigation technologies can boost income and allow farmers to save valuable time. Additionally, the conservation and appropriate management of water resources is essential for biodiversity for the mitigation of environmental degradation, and for the adaptation to climate change-related risks. 
 
 Due to its cross-cutting significance for many of its work streams, the CGIAR's approach to this topic has heavily relied on multi-center collaboration. Through the years, many shared initiatives have been helping put Water Systems at the forefront of technical and policy-oriented discussions in Bangladesh, with IWMI, IRRI and WorldFish playing important roles for their execution.
 
 ## Main CGIAR Priorities
 ### Current
+"food security, resilience to climate change and water-related
+disasters and disruption, and poverty reduction through economic and social inclusion. We also emphasize
+gender equality in each of these three challenges"
 
 ### Building Blocks
 
