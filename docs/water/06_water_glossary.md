@@ -16,13 +16,13 @@ mathjax: true
 <b>IRRIGATION:</b> <br> <br>
 <b>Command Area</b>: <br>
 
-<b>Minor Irrigation</b>: An irrigation project with Command Area smaller than 2,000 hectares. In Bangladesh, the relevant minor irrigation technologies include: Deep Tubewell,  Shallow Tubewell, and Low Lift Pumps. <br>
+<b>Minor Irrigation</b>: An irrigation project with Command Area smaller than 2,000 hectares. In Bangladesh, the most relevant minor irrigation technologies are: Deep Tubewell,  Shallow Tubewell, and Low Lift Pumps.  <br>
 
-<b>Deep Tubewell</b>: a groundwater irrigation technology that accesses water from deep aquifers, thus allowing arsenic contamination levels to be much lower when compared to shallow tubewells (Cocciolo, 2020). This irrigation method covers 19.26% of the irrigated area in Bangladesh, with 97% of the area under DTW being powered by Electricity ().<br>
+<b>Deep Tubewell</b>: a groundwater irrigation technology that accesses water from deep aquifers, thus allowing arsenic contamination levels to be much lower when compared to shallow tubewells (Cocciolo, 2020). This irrigation method covers 19.26% of the irrigated area in Bangladesh, with 97% of the area under DTW being powered by Electricity (BADC, 2020).<br>
 
-<b>Shallow Tubewell</b>: a groundwater irrigation technology that accesses water from . This irrigation method covers 53.59% of the irrigated area in Bangladesh, and 65% of this area is powered by Diesel (). <br>
+<b>Shallow Tubewell</b>: a groundwater irrigation technology that accesses water from . This irrigation method covers 53.59% of the irrigated area in Bangladesh, and 65% of this area is powered by Diesel (BADC, 2020). <br>
 
-<b>Low Lift Pump</b>: a surface water irrigation technology that covers 22.35% of the irrigated area in Bangladesh, 80% of this area being powered by Diesel (). <br>
+<b>Low Lift Pump</b>: a surface water irrigation technology that covers 22.35% of the irrigated area in Bangladesh, 80% of this area being powered by Diesel (BADC, 2020). <br>
 
 
 
