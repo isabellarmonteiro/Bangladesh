@@ -7,7 +7,7 @@ mathjax: true
 ---
 
 # CGIAR Engagement Relating to Water Systems
-Water Systems play an important role for all five impact areas that the CGIAR is focused on.
+Water Systems play an important role for all five impact areas that are at the focus of the CGIAR research for development efforts.
 
 ## Main CGIAR Priorities
 ### Current
