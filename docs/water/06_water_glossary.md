@@ -39,3 +39,8 @@ mathjax: true
 
 <br><br><br>
 <b>INSTITUTIONAL PLAYERS:</b> <br> <br>
+<b>Barind Multipurpose Development Authority (BMDA)</b>: <br>
+
+<b>Bangladesh Agricultural Development Corporation (BADC)</b>: <br>
+
+<b>Bangladesh Water Development Board (BWDB)</b>: <br>
