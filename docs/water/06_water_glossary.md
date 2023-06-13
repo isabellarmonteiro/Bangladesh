@@ -22,6 +22,10 @@ mathjax: true
 
 <b>Shallow Tubewell</b>: a groundwater irrigation technology that accesses water from . This irrigation method covers 53.66% of the irrigated area in Bangladesh (). <br>
 
+<b>Low Lift Pump</b>: a surface water irrigation technology that covers 21.9% of the irrigated area in Bangladesh (). <br>
+
+
+
 <br><br><br>
 
 <b>WATER-RELATED RISKS:</b> <br> <br>
