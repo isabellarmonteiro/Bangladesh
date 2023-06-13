@@ -29,15 +29,14 @@ mathjax: true
 <br><br><br>
 
 <b>WATER-RELATED RISKS:</b> <br> <br>
-<b>Flooding</b>: <br>
 
-<b>Salinity</b>: <br>
-
-<b>Polders</b>: Polders are areas of land below that have been reclaimed from bodies of water. In spite of being below the sea level, these areas are not flooded because water has been drained out from them. Their construction involves the enclosure of an initially flooded area through the construction of dikes. Water levels inside the Polder are then regulated according to the needs of those using the area. <br>
+<b>Polders</b>: Polders are areas of land below that have been reclaimed from bodies of water. In spite of being below the sea level, these areas are not flooded because water has been drained out from them. Their construction involves the enclosure of an initially flooded area through the construction of dikes. Water levels inside the Polder are then regulated according to the needs of those using the area. Advantages of Polder construction include the creation of new land for agricultural activities, the protection from tidal floods and salinity intrusion.  <br>
 
 <b>Sluice Gate</b>: Gates that can be opened or closed to regulate the quantity of water inside the Polder. <br>
 
+<b>Tidal Floods</b>: <br>
 
+<b>Salinity Intrusion</b>: <br>
 
 <br><br><br>
 <b>INSTITUTIONAL PLAYERS:</b> <br> <br>
