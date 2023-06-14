@@ -30,7 +30,7 @@ ADD OVERALL SUMMARY OF WATER PRIORITIES IN THE PAST (GLOBAL, NOT ONLY BANGLADESH
 In the case of Bangladesh, the center’s country-specific priorities reflected the need to increase the yields of rice-based systems, due to population growth and rising demand for food. 
 A second priority, given the disparities in land tenure, was to develop new approaches for groundwater utilization that would benefit small-scale and landless farmers. For this purpose, shifting the ownership and management of water resources to farmers cooperatives became a priority (AR 1988).
 
-The initial country-specific priorities reflected long-standing government objectives, and had the objective of feeding into future decision-making processes, as privatizing the installation of pumps and the management of the pump irrigation sector was something the Bangladesh Water Development Board (BWDB) planned on doing (AR 1991). 
+The initial country-specific priorities reflected long-standing government objectives, and had the objective of feeding into future decision-making processes, as privatizing the installation of pumps and the management of the pump irrigation sector was something the Bangladesh Water Development Board (BWDB) planned on doing (AR 1991). This was reflected in IWMI's research portfolio in Bangladesh which, from 1989 to 1995, was heavily focused on comparing different operational and ownership modalities for irrigation, offering support to understand the impacts and alternatives to the privatization of minor irrigation systems.
 
 
 ## IWMI's Presence in Bangladesh
