@@ -26,7 +26,7 @@ Economic and social inclusion, along with gender equality, is the third major go
 
 
 
-From the beginning, the center’s priorities for Bangladesh reflected the need to increase the yields of rice-based systems, due to population growth. A second priority, given the disparities in land tenure, was to develop new approaches to groundwater utilization that would benefit small-scale and landless farmers. For this purpose, shifting the ownership and management of water resources to farmers cooperatives, something the Bangladesh Water Development Board (BWDB) had already been advocating for, became a priority (AR 1988).
+In the case of Bangladesh, the center’s country-specific priorities reflected the need to increase the yields of rice-based systems, due to population growth. A second priority, given the disparities in land tenure, was to develop new approaches to groundwater utilization that would benefit small-scale and landless farmers. For this purpose, shifting the ownership and management of water resources to farmers cooperatives, something the Bangladesh Water Development Board (BWDB) had already been advocating for, became a priority (AR 1988).
 
 Because of the government’s emphasis on privatizing the installation of pumps and the management of the pump irrigation sector (AR 1991), in 1989, a committee composed of researchers and government representatives selected IWMI’s first study in the country to be on Privatization of Small-scale Irrigation (AR, 1989). 
 
