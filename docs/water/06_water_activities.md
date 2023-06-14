@@ -31,6 +31,7 @@ Because of the government’s emphasis on privatizing the installation of pumps 
 
 ## IWMI's Presence in Bangladesh
 
+Although the center currently does not have staff permanently residing in Bangladesh, 
 
 ### Major Contributions and Reach
 
