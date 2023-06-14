@@ -19,7 +19,8 @@ One of the key objectives of current CGIAR activities that are focused on Water 
 
 Improving resilience to climate change and water-related risks is a second goal for Water Systems. For this reason, intensive investment in early warning systems for floods and droughts, as well as in the equitable expansion of index-based weather insurance have been carried out (IWMI, 2022).
 
-Economic and social inclusion, along with gender equality, is the third major goal for this research portfolio due to its importance for achieving poverty reduction and resiliance. As a result, these topics have been streamlined into all Water System initiatives (IWMI, 2022).
+Economic and social inclusion, along with gender equality, is the third major goal for this research portfolio due to its importance for achieving poverty reduction and resiliance. As a result, these topics have been streamlined into all Water System initiatives (IWMI, 2022). In order to reach these three main goals, digital tools are being leveraged to improve water management and decision-making processes. These tools enable efficient data collection, analysis, and dissemination, facilitating evidence-based policies and interventions.
+
 
 ### Building Blocks
 IWMI began working in Bangladesh in 1988. 
