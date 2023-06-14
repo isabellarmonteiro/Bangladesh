@@ -17,9 +17,9 @@ Due to its cross-cutting significance for many of its work streams, the CGIAR's 
 ### Current
 One of the key objectives of current CGIAR activities that are focused on Water Systems is to enhance food security while simultaneously conserving ecosystems. To accomplish this goal, IWMI (International Water Management Institute) is invested in expanding the inclusive access to solar-based irrigation systems, and to tools that monitor how much water can sustainably be extracted from a given ecosystem (IWMI, 2022).
 
-A second goal, that of improving resilience to climate change and water-related risks, has led to an intensive investment in early warning systems for floods and droughts, and in the equitable expansion of index-based weather insurance (IWMI, 2022).
+Improving resilience to climate change and water-related risks is a second goal for Water Systems. For this reason, intensive investment in early warning systems for floods and droughts, as well as in the equitable expansion of index-based weather insurance have been carried out (IWMI, 2022).
 
-Economic and social inclusion, along with gender equality, are cross-cutting themes in all Water System initiatives, as the CGIAR recognizes their importance in achieving poverty reduction and resiliance (IWMI, 2022).
+Economic and social inclusion, along with gender equality, is the third major goal for this research portfolio due to its importance for achieving poverty reduction and resiliance. As a result, these topics have been streamlined into all Water System initiatives (IWMI, 2022).
 
 ### Building Blocks
 IWMI began working in Bangladesh in 1988. 
