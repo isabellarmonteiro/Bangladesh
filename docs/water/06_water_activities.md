@@ -38,7 +38,7 @@ The initial country-specific priorities reflected long-standing government objec
 IWMI began working in Bangladesh in 1988. Although the center currently does not have staff permanently residing in Bangladesh, 
 
 ### Major Contributions and Reach
-
+MENTION THAT FROM THE START THE WORK HAD THE OBJECTIVE OF BEING PRO-POOR, INCLUSIVE AND OF GENDER EQUALITY
 
 #### <b>Water Productivity</b>
 
