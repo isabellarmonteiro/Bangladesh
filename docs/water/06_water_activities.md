@@ -11,7 +11,7 @@ Water Systems play an important role for all five impact areas that the CGIAR fo
 
 Additionally, the conservation and appropriate management of water resources is essential for biodiversity, for mitigating environmental degradation, and for the adaptation to climate-related risks. Without an inclusive and participatory approach to finding these systems-level solutions, minority groups are likely to incur higher losses from climate change.
 
-Due to its cross-cutting significance for many of its work streams, the CGIAR's approach to this topic has heavily relied on multi-center collaboration. Through the years, many shared initiatives have been helping put Water Systems at the forefront of technical and policy-oriented discussions in Bangladesh, with IWMI, IRRI and WorldFish playing important roles for their execution.
+Due to its cross-cutting significance for many of its work streams, the CGIAR's approach to this topic has heavily relied on multi-center collaboration. Through the years, many shared initiatives have helped put Water Systems at the forefront of technical and policy-oriented discussions in Bangladesh, with IWMI, IRRI and WorldFish playing important roles for their execution.
 
 ## Main CGIAR Priorities
 ### Current
