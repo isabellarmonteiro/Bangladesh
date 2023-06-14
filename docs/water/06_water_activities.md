@@ -24,7 +24,7 @@ Economic and social inclusion, along with gender equality, is the third major go
 
 ### Building Blocks
 
-ADD OVERALL SUMMARY OF WATER PRIORITIES IN THE PAST
+ADD OVERALL SUMMARY OF WATER PRIORITIES IN THE PAST (GLOBAL, NOT ONLY BANGLADESH)
 
 
 In the case of Bangladesh, the center’s country-specific priorities reflected the need to increase the yields of rice-based systems, due to population growth. A second priority, given the disparities in land tenure, was to develop new approaches to groundwater utilization that would benefit small-scale and landless farmers. For this purpose, shifting the ownership and management of water resources to farmers cooperatives, something the Bangladesh Water Development Board (BWDB) had already been advocating for, became a priority (AR 1988).
