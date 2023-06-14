@@ -15,7 +15,7 @@ Due to its cross-cutting significance for many of its work streams, the CGIAR's 
 
 ## Main CGIAR Priorities
 ### Current
-One of the key objectives of current CGIAR activities, specifically focusing on Water Systems, is to enhance food security while simultaneously conserving ecosystems. To accomplish this goal, IWMI (International Water Management Institute) is invested in expanding the inclusive access to solar-based irrigation systems, and to tools that monitor how much water can sustainably be extracted from a given ecosystem (IWMI, 2022).
+One of the key objectives of current CGIAR activities that are focused on Water Systems is to enhance food security while simultaneously conserving ecosystems. To accomplish this goal, IWMI (International Water Management Institute) is invested in expanding the inclusive access to solar-based irrigation systems, and to tools that monitor how much water can sustainably be extracted from a given ecosystem (IWMI, 2022).
 
 A second goal, that of improving resilience to climate change and water-related risks, has led to an intensive investment in early warning systems for floods and droughts, and in the equitable expansion of index-based weather insurance (IWMI, 2022).
 
