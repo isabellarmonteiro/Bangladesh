@@ -19,7 +19,7 @@ One of the objectives of current CGIAR activities that specifically focus on Wat
 
 A second goal, that improving resilience to climate change and water-related risks, is hoped to be achieved through the investment in early warning systems for floods and droughts, as well as through the equitable expansion of index-based weather insurance (IWMI, 2022).
 
-Economic and social inclusion, as well as gender equality, are cross-cutting themes in all Water System initiatives, as they are a key component in achieving poverty reduction and resiliance.
+Economic and social inclusion, along with gender equality, are cross-cutting themes in all Water System initiatives, as the CGIAR recognizes their importance in achieving poverty reduction and resiliance (IWMI, 2022).
 
 ### Building Blocks
 IWMI began working in Bangladesh in 1988. 
