@@ -12,7 +12,7 @@ permalink: /
 
 *Last updated: June 2023*
 
-## What is SPIA?
+## About SPIA
 
 ## CGIAR History in Bangladesh
 The CGIAR has long been active in Bangladesh. 
