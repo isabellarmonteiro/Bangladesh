@@ -40,7 +40,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "View more on the Standing Panel on Impact Assessment":
+  "More about SPIA":
     - "https://iaes.cgiar.org/spia" 
     
 # Makes Aux links open in a new tab. Default is false
