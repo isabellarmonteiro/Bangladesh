@@ -15,6 +15,8 @@ Due to its cross-cutting significance for many of its work streams, the CGIAR's 
 
 ## Main CGIAR Priorities
 ### Current
+One of the objectives of current CGIAR activities that specifically focus on Water Systems is to enhance food security while conserving ecosystems.
+
 "food security, resilience to climate change and water-related
 disasters and disruption, and poverty reduction through economic and social inclusion. We also emphasize
 gender equality in each of these three challenges"
