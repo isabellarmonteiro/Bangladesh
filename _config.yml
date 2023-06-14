@@ -40,8 +40,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "View on GitHub":
-    - "//github.com/asjadnaqvi/DiD" 
+  "View more on the Standing Panel on Impact Assessment":
+    - "https://iaes.cgiar.org/spia" 
     
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
