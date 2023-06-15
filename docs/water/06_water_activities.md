@@ -57,7 +57,7 @@ MENTION THAT FROM THE START THE WORK HAD THE OBJECTIVE OF BEING PRO-POOR, INCLUS
 
 <br>
 
-### Geographic Presence
+### Geographic Coverage
 
 <br>
 <br>
