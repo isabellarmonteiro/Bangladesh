@@ -8,7 +8,7 @@ description: CGIAR activities in Bangladesh.
 #url: "https://asjadnaqvi.github.io/DiD/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-color_scheme: custom
+custom: custom
 
 logo: "/assets/images/CGIAR-logo.svg.png"
 
