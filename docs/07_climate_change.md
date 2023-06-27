@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Climate Change
-nav_order: 8
+nav_order: 6
 permalink: /docs/climate_change
 ---
 
