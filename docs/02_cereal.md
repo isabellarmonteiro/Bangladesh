@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rice and other Cereals
+title: Rice & Other Cereals
 image: "../../../assets/images/DiD.png"
 nav_order: 3
 permalink: /docs/cereal
