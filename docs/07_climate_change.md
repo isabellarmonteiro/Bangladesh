@@ -7,4 +7,5 @@ permalink: /docs/climate_change
 
 ## Climate Change
 
-{: .note } hi
+{: .note }
+>hi
