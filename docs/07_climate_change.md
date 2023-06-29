@@ -8,4 +8,4 @@ permalink: /docs/climate_change
 ## Climate Change
 
 {: .note }
->hi
+> <b>Alternate Wetting and Drying </b>
