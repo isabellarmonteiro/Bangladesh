@@ -6,3 +6,5 @@ permalink: /docs/climate_change
 ---
 
 ## Climate Change
+
+<div class="box"> hello </div>
