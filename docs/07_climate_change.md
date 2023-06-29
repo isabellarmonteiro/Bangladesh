@@ -7,6 +7,7 @@ permalink: /docs/climate_change
 
 ## Climate Change
 
-```python
+```
+Alternate Wetting and Drying
 
 ```
