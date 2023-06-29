@@ -8,6 +8,7 @@ permalink: /docs/climate_change
 ## Climate Change
 
 ```
-<b> Alternate Wetting and Drying </b> hello
+<b> Alternate Wetting and Drying </b>
+hello
 
 ```
