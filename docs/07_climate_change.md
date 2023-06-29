@@ -7,4 +7,8 @@ permalink: /docs/climate_change
 
 ## Climate Change
 
-<div class="box"> hello </div>
+.box{
+width: 100px;
+height: 100px;
+border: 1px solid black;
+}
