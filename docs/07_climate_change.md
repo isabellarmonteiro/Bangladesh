@@ -32,12 +32,12 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 #### Rice
 After an initial focus on producing varieties that offer higher yields and tolerance to biotic stressors, in the early 2000s breeding efforts shifted towards the development of tolerance to abiotic stress. The main three abiotic stresses, floods, soil salinity, and droughts, cover 50%, 30%, and 20% of the total arable land area in the country respectively ().
 
-| head1        | head two          | three |
+| Type of Modification      | Trait         | Varieties |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Abiotic Stress | Flood Resistance | nice  |
+| Abiotic Stress | Salinity Resistance   | nice  |
+| Abiotic Stress | Drought Resistance| hmm   |
+| Duration | Shorter Duration | yumm  |
 
 #### Maize
 
