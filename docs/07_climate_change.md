@@ -77,11 +77,12 @@ non-rice crops protects yields from droughts, and allows to grow of extra crop a
 > hi
 
 
-
-
 ### Weather-Smart Innovations
+#### Index-based Insurance
 
 ### Energy-Smart Innovations
+#### Zero-Tillage
+#### Solar Irrigation
 
 ### Climate Information Services and Policy Advice
 
