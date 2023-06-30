@@ -45,7 +45,7 @@ Under Construction
 #### Lentils
 | Type of Modification      | Trait         | Varieties |
 |:-------------|:------------------|:------|
-| Abiotic Stress | Drought Tolerance | Binamasur 10  |
+| Abiotic Stress | Drought Tolerance | Binamasur 10 |
 
 #### Potatos
 
