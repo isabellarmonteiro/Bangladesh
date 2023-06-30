@@ -34,10 +34,10 @@ After an initial focus on producing varieties that offer higher yields and toler
 
 | Type of Modification      | Trait         | Varieties |
 |:-------------|:------------------|:------|
-| Abiotic Stress | Flood Resistance | nice  |
-| Abiotic Stress | Salinity Resistance   | nice  |
-| Abiotic Stress | Drought Resistance| hmm   |
-| Duration | Shorter Duration | yumm  |
+| Abiotic Stress | Flood Resistance | brri dhan 52; brri dhan 51, bina dhan 12; (bina dhan 11, bina dhan 23)  |
+| Abiotic Stress | Salinity Resistance   | bina dhan 8, bina dhan 10, brri dhan 53, brri dhan 54, brri dhan 55, brri dhan 61 (bina dhan 23, brri dhan 47; brri dhan 67, brri dhan 73, brri dhan 78, brri dhan 40) |
+| Abiotic Stress | Drought Resistance| BRRI dhan 56--2011 (Aman), BRRI dhan 66--2014 (Aman), BRRI dhan 71--2014 (Aman)|
+| Duration | Shorter Duration | varieties  |
 
 #### Maize
 
