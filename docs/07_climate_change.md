@@ -43,10 +43,10 @@ After an initial focus on producing varieties that offer higher yields and toler
 Under Construction
 
 #### Lentils
-| Type of Modification      | Trait         | Varieties |
-|:-------------|:------------------|:------|
-| Abiotic Stress | Drought Tolerance | Binamasur 10 |
-| Duration | Shorter Duration | varieties  |
+| Type of Modification | Trait         | Varieties |
+|:---------------------|:--------------|:----------|
+| Abiotic Stress       | Drought Tolerance | Binamasur 10 |
+| Duration             | Shorter Duration | varieties  |
 
 #### Potatos
 
