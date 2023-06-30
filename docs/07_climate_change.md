@@ -89,4 +89,6 @@ non-rice crops protects yields from droughts, and allows to grow of extra crop a
 #### Integrated Pest Management
 
 ### Climate Information Services and Policy Advice
+#### Information and communication technologies (ICT) for Agrometeorological Advisory
+#### Forecasts and Policy Support
 
