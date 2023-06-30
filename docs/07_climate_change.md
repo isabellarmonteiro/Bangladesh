@@ -13,8 +13,7 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 
 {: .note-title}
 > Climate Change, Agriculture and Food Security (CCAFS)
->\
-> \
+> 
 > The CCAFS lasted from 2011 to 2021, and it aimed at developing more resilient agricultural systems, encouraging low-emission agricultural development, and at developing Climate Information Services for decision-making (CGIAR-IEA, 2015). In South Asia, CCAFS activities were implemented in three countries: Bangladesh, Nepal and India (CGIAR-IEA, 2015).
 > \
 > \
