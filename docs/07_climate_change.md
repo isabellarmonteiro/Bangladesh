@@ -85,6 +85,8 @@ non-rice crops protects yields from droughts, and allows to grow of extra crop a
 #### Solar Irrigation
 
 ### Nutrient and Chemical-Smart Innovations
+#### Site-Specific Nutrient Management (SSNM)
+#### Integrated Pest Management
 
 ### Climate Information Services and Policy Advice
 
