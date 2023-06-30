@@ -30,7 +30,7 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 ### Genetic Improvement
 
 #### Rice
-After an initial focus on producing varieties that offer higher yields and tolerance to biotic stressors, in the early 2000s breeding efforts shifted towards the development of tolerance to abiotic stress. The main three abiotic stresses, floods, soil salinity, and droughts, cover 50%, 30%, and 20% of the total arable land area in the country respectively ().
+After an initial focus on producing varieties that offer higher yields and tolerance to biotic stressors, in the early 2000s IRRI's breeding efforts in Bangladesh shifted towards the development of tolerance to abiotic stress. The main three abiotic stresses, floods, soil salinity, and droughts, cover 50%, 30%, and 20% of the total arable land area in the country respectively (). Furthermore, the development of breed short-duration/early maturing rice varieties has been a major focus for IRRI researchers since the 90s, allowing to create varieties that are protected for late-season droughts, and suitable for diversification through the early planting of a second season crop ().
 
 | Type of Modification      | Trait         | Varieties |
 |:-------------|:------------------|:------|
