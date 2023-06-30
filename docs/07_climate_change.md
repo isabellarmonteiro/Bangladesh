@@ -39,7 +39,11 @@ After an initial focus on producing varieties that offer higher yields and toler
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+#### Maize
 
+#### Lentils
+
+#### Potatos
 
 {: .note }
 > <b>Alternate Wetting and Drying </b>
