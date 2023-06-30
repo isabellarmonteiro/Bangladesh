@@ -31,5 +31,14 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 
 #### Rice
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
+
 {: .note }
 > <b>Alternate Wetting and Drying </b>
