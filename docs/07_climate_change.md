@@ -47,7 +47,7 @@ Under Construction
 | Type of Modification      | Trait         | Varieties |
 |:-------------|:------------------|:------|
 | Abiotic Stress | Drought Tolerance | Binamasur 10 |
-|  Duration | Shorter Duration  | Variety |
+|  Duration | Shorter Duration  | BARI-Masur 9; Bari-Masur-5 |
 
 #### Potatos
 
