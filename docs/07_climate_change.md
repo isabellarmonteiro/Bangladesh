@@ -17,7 +17,9 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 > \
 > \
 > During the initial year of the CRP, assessment studies were conducted to understand the magnitude of yield losses due to extreme climatic events, the gender differences in climate risk perception and management, and the site-specific potential of various mitigation practices (CCAFS, 2011). In order to make sure the proposed climate-smart innovations would properly address climate-risk in the area and meet farmers' demands, participatory research approaches, such as Climate-Smart Villages and Farmer Field Schools, were deployed to identify innovations and test their feasibility.
-
+> \
+> \
+> Additionally, CCAFS focused on disseminating different water-smart technologies in Bangladesh, with initial focus shifting from Vertical Gardens and Fish Rings for fisheries intensification with indigenous fish, to a practice that reduces both water consumption and methane emissions: Alternate Wetting and Drying (AWD). 
 
 
 
