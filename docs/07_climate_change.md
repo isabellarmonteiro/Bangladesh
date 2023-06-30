@@ -92,3 +92,12 @@ non-rice crops protects yields from droughts, and allows to grow of extra crop a
 #### Information and communication technologies (ICT) for Agrometeorological Advisory
 #### Forecasts and Policy Support
 
+Since 2014, the CCAFS South Asia (SA) Regional Scenarios Coordinator has been supporting the Government of Bangladesh (GoB) with successful policy guidance by using participatory scenarios for planning. Namely, CCAFS had supported the planning Commission, Government of Bangladesh in the inception and formulation of its 7th Five Year Plan (FYP). 
+
+In a partnership with A4NH, CCAFS developed future scenarios for GHG emissions in Bangladesh that took into account a nutrition security perspective (). The forecasting tool was used to guide policy-making, and, in Bangladesh, the robustness of the 7th Five Year Plan was tested with respect to these different scenarios ().
+
+Other forecasting tools were developed by CIMMYT and CCAFS while working under the Climate Services for Resilient Development (CSRD) partnership between 2016 and 2019. Namely, early warning and predictive tools were developed for droughts, and for the incidence of Wheat Blast and Stemphylium blight (). Furthermore, in 2019, CIMMYT started to work on Climate Services for Aquaculture, aiming to provide both forecasts, and tailored advice on culture fisheries in Bangladesh (). 
+
+Support on climate-smart investments were also tailored to governments, as the creation of Country Profiles in conjunction with the World Bank led to the identification of investment opportunities through Climate-Smart Agriculture Investment Plans (CSAIP). In Bangladesh, the CSAIP was developed in parallel with the World Bank’s decision to invest 500 million in the Livestock and Dairy Development Project ().
+
+
