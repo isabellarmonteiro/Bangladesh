@@ -18,7 +18,7 @@ back_to_top_text: "Back to top"
 callouts:
   note:
     title: 
-    color: red
+    color: green
 
 # Footer content
 footer_content: "Standing Panel on Impact Assessment"
