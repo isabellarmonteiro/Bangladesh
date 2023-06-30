@@ -11,7 +11,7 @@ The CGIAR has consistently prioritized the management of climate-related risk as
 
 Furthermore, with the establishment of multi-center initiatives in the past decades, it became possible to address the various aspects of climate-related risk through a comprehensive and synergistic approach. Notably, CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) marked a big turning point in that respect, with the creation of a coordinated research portfolio that aimed at finding context appropriate ways of scaling-up the centers' climate-smart innovations.
 
-{: .note }
+{: .note-title}
 > <b>Climate Change, Agriculture and Food Security (CCAFS)</b>
 >\
 > \
