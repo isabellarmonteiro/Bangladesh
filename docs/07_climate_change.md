@@ -25,7 +25,7 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 > \
 > A third major focus of this Research Program was the provision of Climate Information Services, which included forecasts and early warnings, as well as of support to farmers' and policy-makers' decisions.
 
-## Major Contributions
+## Areas of Work
 
 ### Genetic Improvement
 
@@ -62,9 +62,17 @@ non-rice crops protects yields from droughts, and allows to grow of extra crop a
 
 ### Water-Smart Innovations
 
+#### Water Storage
+
+#### Direct Seeding
 
 {: .note-title }
 > Alternate Wetting and Drying
+>
+> hi
+
+{: .note-title }
+> Co-management of Water Resources
 >
 > hi
 
