@@ -59,11 +59,14 @@ Under Construction
 
 ### Water-Smart Innovations
 
+
+{: .note }
+> <b>Alternate Wetting and Drying </b>
+
+
 ### Weather-Smart Innovations
 
 ### Energy-Smart Innovations
 
 ### Climate Information Services and Policy Advice
 
-{: .note }
-> <b>Alternate Wetting and Drying </b>
