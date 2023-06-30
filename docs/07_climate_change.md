@@ -30,6 +30,7 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 ### Genetic Improvement
 
 #### Rice
+After an initial focus on producing varieties that offer higher yields and tolerance to biotic stressors, in the early 2000s breeding efforts shifted towards the development of tolerance to abiotic stress. The main three abiotic stresses, floods, soil salinity, and droughts, cover 50%, 30%, and 20% of the total arable land area in the country respectively ().
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
