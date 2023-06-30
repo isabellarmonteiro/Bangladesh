@@ -19,6 +19,7 @@ callouts:
   note:
     title: 
     color: green
+    opacity: 0.3
 
 # Footer content
 footer_content: "Standing Panel on Impact Assessment"
