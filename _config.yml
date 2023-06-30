@@ -17,6 +17,7 @@ back_to_top_text: "Back to top"
 
 callouts:
   note:
+    title: 
     color: red
 
 # Footer content
