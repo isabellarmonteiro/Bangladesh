@@ -45,5 +45,13 @@ After an initial focus on producing varieties that offer higher yields and toler
 
 #### Potatos
 
+### Water-Smart Innovations
+
+### Weather-Smart Innovations
+
+### Energy-Smart Innovations
+
+### Climate Information Services and Policy Advice
+
 {: .note }
 > <b>Alternate Wetting and Drying </b>
