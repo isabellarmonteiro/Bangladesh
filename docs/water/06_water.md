@@ -9,7 +9,5 @@ nav_order: 6
 
 
 # Water
-In the first section,
 
-In the second section, CGIAR center's activities relating to Water will be explored.
-
+Under Construction
