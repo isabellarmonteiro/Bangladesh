@@ -37,12 +37,18 @@ While the share of the GDP generated from agriculture is decreasing, as the cont
 
 
 #### Aquaculture Statistics from the BIHS (2018-2019)
-In the third wave of the BIHS, 40% of all households engaged in aquaculture.
+In the third wave of the BIHS, 40% of all households engaged in aquaculture, with the following culture rates for species related to CGIAR work:
 
-| Fish type | % Households | Number of Households |
-|:-------------|:------------------| :------------------|
-| Tilapia | :------------------ |:------------------ |
-| Carps |:------------------ | :------------------|
+| Fish type | % Households |
+|:-------------|:------------------|
+| Tilapia | 9.3  |
+| Rohu Carp |12.4|
+| Katla Carp | 8.2|
+| Silver Carp |8.1|
+| Hilsa |1|
+| Prawn |2.1|
+| Shrimp | 0.9 |
+| Mola and Other Small Fish | 15.1 |
 
 ### Constraints and Potential 
 Because of its low-lying elevation, being less than five meters above sea level, the Coastal area of Bangladesh is prone to tidal surges and flooding during the rainy season, and to  salinity intrusion during the dry one (CPFW, 2014; Mondal et al., 2013).
