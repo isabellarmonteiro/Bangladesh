@@ -38,6 +38,7 @@ While the share of the GDP generated from agriculture is decreasing, as the cont
 
 #### Aquaculture Statistics from the BIHS (2018-2019)
 In the third wave of the BIHS, 40% of all households engaged in aquaculture, either through their own pond or through shared ponds.
+
 | Fish type | % Households | Number of Households |
 |:-------------|:------------------| :------------------|
 | Tilapia | :------------------ |:------------------ |
