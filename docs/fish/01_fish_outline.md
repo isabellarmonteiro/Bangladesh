@@ -37,9 +37,9 @@ While the share of the GDP generated from agriculture is decreasing, as the cont
 
 
 #### Aquaculture in the BIHS (2018-2019)
-In the third wave of the BIHS, 40% of all households engaged in aquaculture. The following culture rates were found for species related to CGIAR work (out of the total 5605 households):
+In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. The following culture rates were found for species related to CGIAR work (out of the total 5605 households):
 
-| Fish type | Share of Households |
+| Fish type | Share of Households (%) |
 |:-------------|:------------------|
 | Any | 40.2 |
 | Tilapia | 9.3  |
