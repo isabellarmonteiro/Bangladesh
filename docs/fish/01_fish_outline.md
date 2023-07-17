@@ -40,6 +40,15 @@ Because of its low-lying elevation, being less than five meters above sea level,
 
 <br> 
 
+
+#### Statistics from the BIHS (2018-2019)
+| Fish type | % Households | Number of Households |
+|:-------------|:------------------| :------------------|
+| Tilapia | :------------------ |:------------------ |
+| Abiotic Stress |:------------------ | :------------------|
+
+<br>
+
 # Government Priorities for the Sector
 
 Under Construction
