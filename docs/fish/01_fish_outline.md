@@ -45,7 +45,7 @@ Because of its low-lying elevation, being less than five meters above sea level,
 | Fish type | % Households | Number of Households |
 |:-------------|:------------------| :------------------|
 | Tilapia | :------------------ |:------------------ |
-| Abiotic Stress |:------------------ | :------------------|
+| Carps |:------------------ | :------------------|
 
 <br>
 
