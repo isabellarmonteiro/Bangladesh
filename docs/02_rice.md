@@ -21,7 +21,7 @@ Share of the Boro rice area cultivated with BRRI Dhan-29 in 2018:
 <br>
 <br>
 
-Share of the Boro rice area cultivated with BRRI Dhan-28 or 29
+Share of the Boro rice area cultivated with BRRI Dhan-28 or 29:
 <iframe src="either_28_29.html" height="500" width="500"> Rice </iframe>
 
 <br>
