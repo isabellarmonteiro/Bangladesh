@@ -27,3 +27,5 @@ Share of area cultivated with BRRI Dhan-28 or 29 during the Boro Season:
 
 Share of area cultivated with the top 10 varieties (in terms of the whole country's area) during the Boro Season:
 <iframe src="total_major.html" height="500" width="500"> Rice </iframe>
+
+The graph above indicates that while some varieties might be insignificant for the country, they are very important in a few districts of the BIHS. This is either because the country is heterogeneous, or because the BIHS is only representative at the national level or at the division level (7 divisions).
