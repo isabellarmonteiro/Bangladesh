@@ -15,3 +15,15 @@ Share of BRRI Dhan-28 cultivated area during the Boro Season:
 
 Share of BRRI Dhan-29 cultivated area during the Boro Season:
 <iframe src="brri_29.html" height="500" width="500"> Rice </iframe>
+
+<br>
+<br>
+
+Share of area cultivated with BRRI Dhan-28 or 29 during the Boro Season:
+<iframe src="either_28_29.html" height="500" width="500"> Rice </iframe>
+
+<br>
+<br>
+
+Share of area cultivated with the top 10 varieties (in terms of the whole country's area) during the Boro Season:
+<iframe src="total_major.html" height="500" width="500"> Rice </iframe>
