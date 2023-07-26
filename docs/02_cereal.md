@@ -6,8 +6,7 @@ nav_order: 3
 permalink: /docs/rice
 ---
 
-# Cereals
-
+# Rice
 Share of BRRI Dhan-28 cultivated area during the Boro Season:
 <iframe src="brri_28.html" height="500" width="500"> Rice </iframe>
 
