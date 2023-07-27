@@ -10,27 +10,27 @@ permalink: /docs/rice
 
 
 Share of the Boro rice area cultivated with BRRI Dhan-28 in 2018:
-<iframe src="brri_28.html" height="500" width="700"> Rice </iframe>
+<iframe src="brri_28.html" height="500" width="750"> Rice </iframe>
 
 <br>
 <br>
 
 Share of the Boro rice area cultivated with BRRI Dhan-29 in 2018:
-<iframe src="brri_29.html" height="500" width="700"> Rice </iframe>
+<iframe src="brri_29.html" height="500" width="750"> Rice </iframe>
 
 <br>
 <br>
 
 Share of the Boro rice area cultivated with BRRI Dhan-28 or 29:
-<iframe src="" height="500" width="700"> Rice </iframe>
+<iframe src="either_28_29" height="500" width="750"> Rice </iframe>
 
 <br>
 <br>
 
 Share of the Boro rice area cultivated with the top 10 varieties for the whole country (these are the only varieties that cover more than 1% of plots):
-<iframe src="" height="500" width="700"> Rice </iframe>
+<iframe src="total_major" height="500" width="750"> Rice </iframe>
 
 The graph above indicates that while some varieties might be insignificant for the country, they are very important in a few districts of the BIHS. This is either because the country is heterogeneous, or because the BIHS is only representative at the national level and at the division level (7 divisions).
 
 Most Common Variety by District, and share of area covered:
-<iframe src="variety.html" height="500" width="700"> Rice </iframe>
+<iframe src="variety.html" height="700" width="1050"> Rice </iframe>
