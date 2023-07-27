@@ -58,7 +58,7 @@ The graph above indicates that while some varieties might be insignificant for t
 | SATHI | 1  | Yes |
 | CHOKKA | 1  | Yes |
 
-
+<br>
 
 
 <iframe src="variety.html" height="700" width="1050"> Rice </iframe>
