@@ -39,6 +39,11 @@ The graph above indicates that while some varieties might be insignificant for t
 <b>Most Common Variety by District, and share of area covered:</b>
 
 
+<iframe src="variety.html" height="700" width="1050"> Rice </iframe>
+
+<br>
+
+
 | Variety      | Number of Districts where it occupies largest area | Hybrid? |
 |:-------------|:------------------|:------|
 | BRRI Dhan 28 | 21 | No |
@@ -58,7 +63,4 @@ The graph above indicates that while some varieties might be insignificant for t
 | SATHI | 1  | Yes |
 | CHOKKA | 1  | Yes |
 
-<br>
 
-
-<iframe src="variety.html" height="700" width="1050"> Rice </iframe>
