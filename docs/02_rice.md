@@ -1,4 +1,4 @@
-![image](https://github.com/isabellarmonteiro/Bangladesh/assets/100991711/f4a92dc3-cd4d-4365-a41e-feb4db4725c1)---
+---
 layout: default
 title: Rice
 image: "../../../assets/images/DiD.png"
