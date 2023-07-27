@@ -1,4 +1,4 @@
----
+![image](https://github.com/isabellarmonteiro/Bangladesh/assets/100991711/f4a92dc3-cd4d-4365-a41e-feb4db4725c1)---
 layout: default
 title: Rice
 image: "../../../assets/images/DiD.png"
@@ -37,6 +37,28 @@ The graph above indicates that while some varieties might be insignificant for t
 <br>
 
 <b>Most Common Variety by District, and share of area covered:</b>
+
+
+| Variety      | Number of Districts where it occupies largest area | Hybrid? |
+|:-------------|:------------------|:------|
+| BRRI Dhan 28 | 21 | No |
+| BRRI Dhan 29 | 20  | No |
+| Hira | 4  | Yes |
+| Minket | 3  | No |
+| Jira | 2  | No |
+| SINJENTA 1203 | 2  | Yes |
+| BR Hybrid 1 | 1  | Yes |
+| BINA 8 | 1  | Yes |
+| Binashail | 1  | Yes |
+| Bhojon | 1  | No |
+| KATARI VOG | 1  | No |
+| SUBOLLOTA | 1  | No |
+| KHATO BABU | 1  | No |
+| TEJGOLD | 1  | Yes |
+| SATHI | 1  | Yes |
+| CHOKKA | 1  | Yes |
+
+
 
 
 <iframe src="variety.html" height="700" width="1050"> Rice </iframe>
