@@ -10,7 +10,7 @@ permalink: /docs/rice
 
 
 Share of the Boro rice area cultivated with BRRI Dhan-28 in 2018:
-<iframe src="" height="500" width="700"> Rice </iframe>
+<iframe src="brri_28" height="500" width="700"> Rice </iframe>
 
 <br>
 <br>
