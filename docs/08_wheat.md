@@ -8,6 +8,6 @@ permalink: /docs/wheat
 
 # Wheat
 
-<b>Share of the Boro rice area cultivated with BRRI Dhan-28 in 2018:</b>
+<b>Share of the cultivated area in 2018 that contained Wheat:</b>
 
-<iframe src="wheat.html" height="500" width="750"> Wheat </iframe>
+<iframe src="wheat_by_dis.html" height="500" width="750"> Wheat </iframe>
