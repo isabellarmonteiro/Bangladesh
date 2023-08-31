@@ -8,4 +8,7 @@ permalink: /docs/tubers
 
 # Roots and Tubers
 
-Under Construction
+
+<b>Share of households in a district that are cultivating Potato in 2018:</b>
+
+<iframe src="potato_2018.html" height="500" width="750"> Wheat </iframe>
