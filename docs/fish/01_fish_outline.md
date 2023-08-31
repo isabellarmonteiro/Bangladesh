@@ -51,6 +51,32 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 | Shrimp | 0.9 |
 | Mola and Other Small Fish | 15.1 |
 
+
+
+<b>Share of the Households growing Tilapia - by district in 2018:</b>
+
+<iframe src="tilapia.html" height="500" width="750"> Tilapia </iframe>
+
+
+<b>Share of the Households growing Rohu Carp - by district in 2018:</b>
+
+<iframe src="rohu.html" height="500" width="750"> Rui </iframe>
+
+
+<b>Share of the Households growing Tilapia and Rohu - by district in 2018:</b>
+
+<iframe src="tilapia-and_rohu.html" height="500" width="750"> Tilapia and Rui </iframe>
+
+<b>Share of the Households growing Shrimp - by district in 2018:</b>
+
+<iframe src="shrimp.html" height="500" width="750"> Shrimp </iframe>
+
+<b>Share of the Households growing Prawn - by district in 2018:</b>
+
+<iframe src="prawn.html" height="500" width="750"> Prawn </iframe>
+
+<br>
+
 ### Constraints and Potential 
 Because of its low-lying elevation, being less than five meters above sea level, the Coastal area of Bangladesh is prone to tidal surges and flooding during the rainy season, and to  salinity intrusion during the dry one (CPFW, 2014; Mondal et al., 2013).
 
