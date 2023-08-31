@@ -2,7 +2,7 @@
 layout: default
 title: References
 image: "../../../assets/images/DiD.png"
-nav_order: 12
+nav_order: 11
 permalink: /docs/references
 ---
 
