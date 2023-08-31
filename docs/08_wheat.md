@@ -1,6 +1,6 @@
 ---
 layout: default
-title: References
+title: Wheat
 image: "../../../assets/images/DiD.png"
 nav_order: 9
 permalink: /docs/wheat
