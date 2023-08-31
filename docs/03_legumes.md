@@ -8,5 +8,8 @@ permalink: /docs/legumes_vegetables
 
 # Legumes
 
-Under Construction
+# Vegetables
 
+<b>Share of households in a district that are cultivating Brinjal in 2018:</b>
+
+<iframe src="brinjal_2018.html" height="500" width="750"> Wheat </iframe>
