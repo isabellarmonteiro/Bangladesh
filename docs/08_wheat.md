@@ -8,6 +8,6 @@ permalink: /docs/wheat
 
 # Wheat
 
-<b>Share of the cultivated area in 2018 that contained Wheat:</b>
+<b>Share of households in a district that are cultivating Wheat in 2018:</b>
 
-<iframe src="wheat_by_dist.html" height="500" width="750"> Wheat </iframe>
+<iframe src="wheat_2018.html" height="500" width="750"> Wheat </iframe>
