@@ -1,6 +1,6 @@
 ---
 layout: default
-title: References
+title: Maize
 image: "../../../assets/images/DiD.png"
 nav_order: 10
 permalink: /docs/maize
