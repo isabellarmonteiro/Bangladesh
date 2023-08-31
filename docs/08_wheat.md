@@ -10,4 +10,4 @@ permalink: /docs/wheat
 
 <b>Share of the cultivated area in 2018 that contained Wheat:</b>
 
-<iframe src="wheat_by_dis.html" height="500" width="750"> Wheat </iframe>
+<iframe src="wheat_by_dist.html" height="500" width="750"> Wheat </iframe>
