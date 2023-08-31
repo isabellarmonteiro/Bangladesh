@@ -55,25 +55,20 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 
 <b>Share of the Households growing Tilapia - by district in 2018:</b>
 
-<iframe src="tilapia.html" height="500" width="750"> Tilapia </iframe>
+<iframe src="tilapia_2018.html" height="500" width="750"> Tilapia </iframe>
 
 
 <b>Share of the Households growing Rohu Carp - by district in 2018:</b>
 
-<iframe src="rohu.html" height="500" width="750"> Rui </iframe>
-
-
-<b>Share of the Households growing Tilapia and Rohu - by district in 2018:</b>
-
-<iframe src="tilapia-and_rohu.html" height="500" width="750"> Tilapia and Rui </iframe>
+<iframe src="rohu_2018.html" height="500" width="750"> Rui </iframe>
 
 <b>Share of the Households growing Shrimp - by district in 2018:</b>
 
-<iframe src="shrimp.html" height="500" width="750"> Shrimp </iframe>
+<iframe src="shrimp_2018.html" height="500" width="750"> Shrimp </iframe>
 
 <b>Share of the Households growing Prawn - by district in 2018:</b>
 
-<iframe src="prawn.html" height="500" width="750"> Prawn </iframe>
+<iframe src="prawn_2018.html" height="500" width="750"> Prawn </iframe>
 
 <br>
 
