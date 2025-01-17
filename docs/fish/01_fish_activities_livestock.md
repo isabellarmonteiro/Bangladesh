@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activities - Livestock
-parent:  Fish & Livestock
+parent:  Fish
 nav_order: 6
 mathjax: true
 ---
