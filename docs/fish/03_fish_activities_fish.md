@@ -3,6 +3,7 @@ layout: default
 title: Activities - Fish
 parent:  Fish
 nav_order: 7
+permalink: /docs/fish/activities
 mathjax: true
 ---
 # CGIAR Engagement in Fisheries Sector
