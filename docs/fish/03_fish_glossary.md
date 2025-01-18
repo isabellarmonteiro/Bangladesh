@@ -3,6 +3,7 @@ layout: default
 title: Glossary
 parent: Fish
 nav_order: 4
+permalink: /docs/fish/glossary
 mathjax: true
 ---
 
