@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rice
+title: Outline
 nav_order: 10
 permalink: /docs/rice/outline
 mathjax: true
