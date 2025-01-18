@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rice
+title: Glossary
 nav_order: 9
 permalink: /docs/rice/glossary
 mathjax: true
