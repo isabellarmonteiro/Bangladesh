@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Rice
-image: "../../../assets/images/DiD.png"
 nav_order: 3
 permalink: /docs/rice
+has_children: true
+mathjax: true
 ---
+
 
 # Rice
 
