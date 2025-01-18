@@ -1,1 +1,7 @@
-
+---
+layout: default
+title: Outline
+parent:  Rice
+nav_order: 6
+mathjax: true
+---
