@@ -3,7 +3,6 @@ layout: default
 title: Rice
 nav_order: 9
 permalink: /docs/rice/glossary
-has_children: true
 mathjax: true
 ---
 
