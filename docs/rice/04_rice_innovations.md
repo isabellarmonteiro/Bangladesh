@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Innovations
+title: Innovation Highlights
 parent:  Rice
 nav_order: 11
 permalink: /docs/rice/innovations
