@@ -8,7 +8,6 @@ mathjax: true
 ---
 
 
-
 # Rice
 
 
