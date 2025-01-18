@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rice
-nav_order: 3
+nav_order: 6
 permalink: /docs/rice
 has_children: true
 mathjax: true
