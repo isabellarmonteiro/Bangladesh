@@ -6,6 +6,7 @@ nav_order: 4
 mathjax: true
 ---
 
+
 <b>GENERAL:</b> <br> <br>
 <b>Capture Fisheries</b>: catching wild aquatic organisms for subsistence or commercial purposes. <br>
 
