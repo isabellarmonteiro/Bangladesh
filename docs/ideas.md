@@ -9,11 +9,8 @@ Audience for Evidence (within the immediate CGIAR system)
 
 | Stakeholder | How they use evidence  | How to approach them | 
 | -- | -- | -- |
-| System Council | - Support Portfolio decisions  | Level of buy-in: High
-To support use of evidence:
-
+| System Council | - Support Portfolio decisions  | Level of buy-in: High To support use of evidence:
 -	Biannual Newsletter (ahead of System Council)
-
 -	Presentation: SPIA report at system council |
 | SIMEC | - Support Portfolio decisions | Level of buy-in: High
 
