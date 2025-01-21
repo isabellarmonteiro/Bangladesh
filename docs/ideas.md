@@ -13,6 +13,7 @@ Audience for Evidence (within the immediate CGIAR system)
 
 
 
+
 <table>
 <tr>
 <td> Status </td> <td> Response </td>
@@ -20,19 +21,26 @@ Audience for Evidence (within the immediate CGIAR system)
 <tr>
 <td> 200 </td>
 <td>
-<code>
+    
+```json
 Level of buy-in: High  
   -	Biannual Newsletter (ahead of System Council)
+```
 
-</code>
 </td>
 </tr>
 <tr>
 <td> 400 </td>
 <td>
-
+    
 **Error**, what the hell is going on?!?
-
+    
+</td>
+</tr>
+<tr>
+<td> 500 </td>
+<td>
+Internal Server Error    
 </td>
 </tr>
 </table>
