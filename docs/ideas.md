@@ -8,7 +8,7 @@ permalink: /ideas/
 Audience for Evidence (within the immediate CGIAR system)
 
 
-| Stakeholder                       | Level of Buy-In                                                                                               | Approach                                                                                                                    |
+| Stakeholder                       | Level of Buy-In                                                                                               | How to approach them                                                                                                             |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | **System Council**                | High                                                                                                          | To support use of evidence:<br>- Biannual Newsletter (ahead of System Council)<br>- Presentation: SPIA report at System Council |
 | **SIMEC**                         | High                                                                                                          | To support use of evidence:<br>- Synthesis briefs<br>- Biannual Newsletter (ahead of System Council)<br>- Online Meeting ahead of the System Council – inform about status of SPIA activities; scope for interest in any more in-depth reports ahead of System Council |
