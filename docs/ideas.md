@@ -5,9 +5,7 @@ permalink: /ideas/
 
 
 
-# Audience for Evidence (within the immediate CGIAR system)
-
-
+Audience for Evidence (within the immediate CGIAR system)
 
 | Stakeholder Group | How they use evidence | Stakeholder | How to approach them | 
 | -- | -- | -- | -- |
