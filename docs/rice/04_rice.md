@@ -52,7 +52,8 @@ Water and land availability are significant challenges for rice production in Ba
 > - <b>Declining Land Availability</b>: Per capita availability of agricultural land is decreasing due to population growth and the conversion of farmland to industrial and urban uses.
 
 
-
+<br>
+<br>
 
 ## Government Priorities for the Sector
 
