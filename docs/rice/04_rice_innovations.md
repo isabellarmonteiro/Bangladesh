@@ -124,3 +124,6 @@ mathjax: true
 </table>
 
 {% endraw %}
+
+{% include comment-section.html url=page.url %}
+
