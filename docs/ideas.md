@@ -7,6 +7,43 @@ permalink: /stakeholders/
 
 Audience for Evidence (within the immediate CGIAR system)
 
+
+{% raw %}
+<style>
+/* Custom Table Styling */
+.custom-table {
+  background-color: rgba(0, 128, 0, 0.2); /* Light green */
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  font-size: 1rem;
+}
+
+.custom-table th {
+  background-color: rgba(0, 128, 0, 0.4); /* Darker green */
+  color: white;
+  text-align: left;
+  padding: 8px;
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: rgba(0, 128, 0, 0.1); /* Alternating row color */
+}
+
+.custom-table tr:hover {
+  background-color: rgba(0, 128, 0, 0.3); /* Highlight on hover */
+}
+</style>
+
+<table class="custom-table">
+   <caption>Genetic Improvement - Boro Season</caption>
+<thead>
+  <tr>
 <table border="1">
   <tr>
     <th>Stakeholder</th>
