@@ -34,17 +34,7 @@ On the other hand, hybrid rice has not yet gained significant traction. Several 
 <br>
 
 Although modern rice varieties are widely adopted, there is still much reliance on older ones - in particular for Boro. Figures from the BIHS indicate that in 2018,  two varieties—BRRI dhan 28 and 29, both released in 1994— accounted for 61.6% of the cultivated rice plots during the Boro season.
-* Show graph brri dhan 28 + 29; most used one by district
 
-
-
-## Main Constraints
-
-Water and land availability are significant challenges for rice production in Bangladesh, making it nearly impossible to expand cultivation areas further.
-Groundwater Scarcity: In the Northwestern regions, limited groundwater availability restricts irrigation, particularly affecting Boro rice production.
-Flooding: In low-lying areas along major rivers, frequent flooding during the monsoon season causes substantial losses of Aman rice.
-Saline Intrusion: In the Southern Coastal districts, salinity intrusion during the dry season results in significant losses, particularly for Boro rice crops.
-Declining Land Availability: Per capita availability of agricultural land is decreasing due to population growth and the conversion of farmland to industrial and urban uses.
 
 
 
