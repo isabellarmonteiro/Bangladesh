@@ -9,7 +9,7 @@ mathjax: true
 
 
 
-### Genetic Improvement - Boro Season
+### Genetic Improvement 
 
 {% raw %}
 <style>
@@ -44,6 +44,7 @@ mathjax: true
 </style>
 
 <table class="custom-table">
+   <caption>Genetic Improvement - Boro Season</caption>
 <thead>
   <tr>
     <th>Innovation</th>
@@ -83,7 +84,6 @@ mathjax: true
 </table>
 
 
-### Genetic Improvement - Aman Season
 
 <table class="custom-table">
   <caption>Genetic Improvement - Aman Season</caption>
