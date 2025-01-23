@@ -23,7 +23,7 @@ Overall, the area used for rice production in Bangladesh has remained stable ove
 
 Despite these gains, the country remains a net importer of rice (GOB, 2023). Furthermore, the recent slowdown in productivity improvements during the Boro season indicates that achieving self-sufficiency will be challenging unless significant productivity enhancements occur in the Aman and Aus seasons.
 
-Adoption of Modern Varieties 
+### Adoption of Modern Varieties 
 
 Because the Boro season is only feasible with the usage of modern early maturing varieties, 100% of the farmers are using either a modern variety or a hybrid one. For aman, over 70% of farmers were using modern varieties (Naher and Spielman, 2021).
 On the other hand, hybrid rice has not yet gained significant traction. Several factors explain this slow adoption. Unlike modern inbred varieties, farmers must purchase hybrid seeds every season, which are approximately four times more expensive than other rice seeds. Furthermore, the yield gains from hybrid rice in Bangladesh are not substantially higher than those from elite inbred varieties like BRRI dhan29 (CIMMYT, 2021).
@@ -37,11 +37,11 @@ Although modern rice varieties are widely adopted, there is still much reliance 
 
 
 
+### Main Constraints
+Water and land availability are significant challenges for rice production in Bangladesh, making it nearly impossible to expand cultivation areas further.
 
 {: .note-title }
-> Main Constraints
-> 
-> Water and land availability are significant challenges for rice production in Bangladesh, making it nearly impossible to expand cultivation areas further.
+> Main Constraints - Rice
 > 
 > - <b>Groundwater Scarcity</b>: In the Northwestern regions, limited groundwater availability restricts irrigation, particularly affecting Boro rice production.
 > 
