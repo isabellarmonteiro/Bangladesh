@@ -81,4 +81,48 @@ mathjax: true
   </tr>
 </tbody>
 </table>
+
+
+### Genetic Improvement - Aman Season
+
+<table class="custom-table">
+  <caption>Genetic Improvement - Aman Season</caption>
+  <thead>
+    <tr>
+      <th>Innovation</th>
+      <th>Description</th>
+      <th>Observable Feature</th>
+      <th>Likely to be at scale?</th>
+      <th>Source</th>
+      <th>Attribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BRRI dhan-49 (2008)</td>
+      <td>High yield advantage</td>
+      <td>Identification using DNA fingerprinting</td>
+      <td>
+        Yes<br>
+        BIHS 2018<br>
+        Covered 11.1% of Aman rice area
+      </td>
+      <td>-</td>
+      <td>1 IRRI line as parent</td>
+    </tr>
+    <tr>
+      <td>BR 11 (1980)</td>
+      <td>High yield advantage, Insect resistant, Disease resistant</td>
+      <td>Identification using DNA fingerprinting</td>
+      <td>
+        Yes<br>
+        BIHS 2018<br>
+        Covered 5.3% of Aman rice area
+      </td>
+      <td>-</td>
+      <td>2 IRRI lines as parent</td>
+    </tr>
+  </tbody>
+</table>
+
 {% endraw %}
