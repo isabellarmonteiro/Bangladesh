@@ -20,7 +20,7 @@ The government’s strong focus on food security and nutrition has played a pivo
 As a result, Bangladesh’s success story serves as a prime example of how research and development can drive agricultural progress, making it a key player in global agricultural innovation.
 
 
-## Taking stock of CGIAR's Contributions in Bangladesh
+## Taking stock of the role of CGIAR research in Bangladesh
 
 The Standing Panel on Impact Assessment (SPIA) works to understand and share the real-world impact of CGIAR’s research. By focusing on countries where CGIAR’s projects have achieved significant scale, SPIA aims to demonstrate how these innovations have improved lives and why continued investment in agricultural research is essential.
 
