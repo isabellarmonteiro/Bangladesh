@@ -7,8 +7,6 @@ permalink: /stakeholders/
 
 Audience for Evidence (within the immediate CGIAR system)
 
-
-{% raw %}
 <style>
 /* Custom Table Styling */
 .custom-table {
@@ -41,10 +39,6 @@ Audience for Evidence (within the immediate CGIAR system)
 </style>
 
 <table class="custom-table">
-   <caption>Genetic Improvement - Boro Season</caption>
-<thead>
-  <tr>
-<table border="1">
   <tr>
     <th>Stakeholder</th>
     <th>How They Use Evidence</th>
