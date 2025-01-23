@@ -90,3 +90,6 @@ Improvement of Carp Species in Asia", developing an improved strain of Silver Ba
 
 <br>
 
+<br>
+
+{% include comment-section.html url=page.url %}
