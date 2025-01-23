@@ -95,3 +95,11 @@ Audience for Evidence (within the immediate CGIAR system)
     <td style="vertical-align: top;"><strong>To support use of evidence:</strong><br>- Thematic Synthesis briefs</td>
   </tr>
 </table>
+
+
+<br>
+<br>
+
+
+{% include comment-section.html url=page.url %}
+
