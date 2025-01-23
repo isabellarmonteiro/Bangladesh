@@ -29,7 +29,7 @@ Because the Boro season is only feasible with the usage of modern early maturing
 On the other hand, hybrid rice has not yet gained significant traction. Several factors explain this slow adoption. Unlike modern inbred varieties, farmers must purchase hybrid seeds every season, which are approximately four times more expensive than other rice seeds. Furthermore, the yield gains from hybrid rice in Bangladesh are not substantially higher than those from elite inbred varieties like BRRI dhan29 (CIMMYT, 2021).
 
 <b>Share of the Boro rice area cultivated with BRRI Dhan-28 or 29:</b>
-<iframe src="either_28_29" height="250" width="375"> Rice </iframe>
+<iframe src="either_28_29" height="300" width="450"> Rice </iframe>
 
 <br>
 
