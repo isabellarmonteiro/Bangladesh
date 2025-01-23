@@ -15,14 +15,13 @@ Furthermore, with the establishment of multi-center initiatives in the past deca
 > Climate Change, Agriculture and Food Security (CCAFS)
 > 
 > The CCAFS lasted from 2011 to 2021, and it aimed at developing more resilient agricultural systems, encouraging low-emission agricultural development, and at developing Climate Information Services for decision-making (CGIAR-IEA, 2015). In South Asia, CCAFS activities were implemented in three countries: Bangladesh, Nepal and India (CGIAR-IEA, 2015).
-> \
-> \
+> 
+> 
 > During the initial year of the CRP, assessment studies were conducted to understand the magnitude of yield losses due to extreme climatic events, the gender differences in climate risk perception and management, and the site-specific potential of various mitigation practices (CCAFS, 2011). In order to make sure the proposed technologies would properly address climate-risk in the area and meet farmers' demands, participatory research approaches, such as Climate-Smart Villages and Farmer Field Schools, were deployed to identify innovations and test their feasibility.
-> \
-> \
+> 
+> 
 > Additionally, CCAFS focused on disseminating different water-smart technologies in Bangladesh, with initial focus shifting from Vertical Gardens and Fish Rings for fisheries intensification with indigenous fish, to a practice that reduces both water consumption and methane emissions: Alternate Wetting and Drying (AWD).
-> \
-> \
+> 
 > A third major focus of this Research Program was the provision of Climate Information Services, which included forecasts and early warnings, as well as of support to farmers' and policy-makers' decisions.
 
 ## Areas of Work
