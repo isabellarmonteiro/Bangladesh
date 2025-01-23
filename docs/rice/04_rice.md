@@ -47,6 +47,24 @@ Saline Intrusion: In the Southern Coastal districts, salinity intrusion during t
 Declining Land Availability: Per capita availability of agricultural land is decreasing due to population growth and the conversion of farmland to industrial and urban uses.
 
 
+
+{: .note-title }
+> Main Constraints
+> 
+> Water and land availability are significant challenges for rice production in Bangladesh, making it nearly impossible to expand cultivation areas further.
+> \
+> \
+> - Groundwater Scarcity: In the Northwestern regions, limited groundwater availability restricts irrigation, particularly affecting Boro rice production.
+> \
+> \
+> - Flooding: In low-lying areas along major rivers, frequent flooding during the monsoon season causes substantial losses of Aman rice.
+> \
+> \
+> - Saline Intrusion: In the Southern Coastal districts, salinity intrusion during the dry season results in significant losses, particularly for Boro rice crops.
+
+
+
+
 ## Government Priorities for the Sector
 
 
