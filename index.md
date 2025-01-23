@@ -27,7 +27,7 @@ The Standing Panel on Impact Assessment (SPIA) works to understand and share the
 Currently, SPIA is conducting in-depth studies in four key countries—Ethiopia, Uganda, Vietnam, and Bangladesh—where CGIAR’s work has scaled up and made a measurable impact. These countries were chosen because their successes offer valuable insights and lessons that can guide agricultural progress around the world. The findings from SPIA’s work will help highlight the lasting benefits of CGIAR’s research, reinforcing its importance for global food security and sustainable development.
 
 
-
+{: .note-title }
 > We need your expertise!
 > 
 > - <b>Assess current prioritization:</b>: Evaluate the current prioritization of innovations and confirm whether it makes sense based on your expertise and country context.
