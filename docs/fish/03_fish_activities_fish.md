@@ -48,53 +48,53 @@ WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), 
 #### <b>Genetic Improvement</b>
 
 In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-FS) began to conduct research on the genetic improvement of aquaculture species. Since 1996, the breeding efforts of the BFRI-FS have been expanded in collaboration with WorldFish, under the project "Genetic
-Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). *APPARENTLY THIS WAS WIDELY DISSEMINATED BY BFRI - SO, WHAT HAPPENED?*
+Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). 
 <br>
 
 <b>Tilapia:</b> WorldFish introduced its Genetically Improved Farmed Tilapia (GIFT), a faster growing and heavier variety, in 1994 in Bangladesh (Hussain et al., 2000). Since then, new generations of GIFT Tilapia have been introduced frequently, with the latest one arriving to Bangladesh in 2012, in the context of the Aquaculture for Income and Nutrition (AIN) project (Keus et al., 2017). The 18-fold increase in tilapia production in Bangladesh, between the years of 2005 and 2015 has been largerly attributed to GIFT (Tran et al., 2021).
 <br>
 
-<b>Carps:</b> Under AIN, the Carp Genetic Improvement Program (CGIP) was initiated, and a fast-growing Rohu Carp variety was developed.
+<b>Carps:</b> Under AIN, the Carp Genetic Improvement Program (CGIP) was initiated, and a fast-growing G3 Rohu Carp variety was developed.
 
 <br>
 
 <br>
 
 #### <b> Crop/ Aquaculture Management Practices</b>
-
+<b>Polyculture Systems</b>: WorldFish has promoted integrated farming practices that combine species like carps, small indigenous species (SIS), and tilapia with vegetable cultivation. These systems increase productivity, diversify income sources, and improve resource efficiency.
 <br>
+
+<b>Community-Based Fisheries</b>: Originating during CPWF, floodplain areas enclosed by dikes are collectively managed by local communities, ensuring secure access for poor fishers while enhancing seasonal fish productivity.
+<br>
+
+<b>Feed and Input Regulation</b>: Workshops with the Department of Fisheries (DoF), feed millers, and industry associations have guided feed standards. A comprehensive list of 605 permissible and prohibited aquaculture inputs was developed in collaboration with BSFF to inform policy development.
 
 <br>
 
 #### <b>Conservation and Natural Resource Management</b>
 
 <br>
+<b>Regulations and Policies</b>: WorldFish supported revisions to key fisheries policies, including mesh size regulations for juvenile Hilsa conservation, the extension of the brood Hilsa ban to 22 days, and the creation of new sanctuaries like the Nijhum Dwip Marine Protected Area. These measures aim to enhance sustainable fishery practices and protect biodiversity.
+<br>
+<b>Co-Management and Livelihoods</b>: The organization facilitated the creation of various community-level groups, such as Hilsa conservation groups and savings groups for fisherwomen, to empower local communities. Higher-level co-management committees ensure broader coordination. Food incentives and alternative income-generating activities, like seaweed farming and green mussel cultivation, help mitigate the impact of conservation measures on fishing-dependent households.
 
 <br>
 
 #### <b>Value Chains</b>
 
+<b>Breeding Improvements</b>: WorldFish introduced breeding programs for SIS, Tilapia, and carps, focusing on quality broodstock, genetic improvements, and advanced hatchery techniques like oxygen tower technology. These efforts aim to ensure consistent seed quality and enhance productivity for fish farmers.
 <br>
+<b>Fish By-Products</b>: Innovative products like boneless Hilsa, Hilsa soup, and Hilsa noodles were developed in collaboration with Bangladesh Agricultural University. These technologies were transferred to private enterprises for large-scale commercial production, creating value-added market opportunities.
+
 
 <br>
 
 #### <b>Disease Control</b>
 
+<b>Tilapia and Shrimp Health</b>: Tools like the Tilapia Lake Virus online platform and PCR testing for shrimp diseases like WSSV have improved early warning systems and biosecurity. Efforts to introduce Specific Pathogen-Free (SPF) shrimp seed have minimized disease risks.
+
+<b>AMR Surveillance</b>: Training government aquaculture officers and conducting market-based sample collection have strengthened antimicrobial resistance monitoring. Collaborative research under the "One Health" framework has sought to curb the spread of resistant pathogens in aquaculture systems.
 <br>
 
 <br>
 
-#### <b>Others</b>
-
-
-<br>
-
-<br>
-
-### Current Activities
-
-
-
-
-## What is currently measured by the BIHS?
-Under Construction
