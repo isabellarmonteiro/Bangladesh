@@ -116,3 +116,7 @@ compress_html:
 mathjax:
   source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
   config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
+
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSeebWfidKoUqHURrP2T7KBMZImBIRlG5MYuuMdDG0SFo-SMVg
+comment-read: https://docs.google.com/spreadsheets/d/1Hz_3GQ6BjzOAQeDDhEH8Djq96i_L2tum4KobptSxPq0
+comment-post-fields: [ entry.81728054, entry.975896492, entry.134535856]
