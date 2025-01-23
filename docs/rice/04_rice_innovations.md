@@ -60,24 +60,24 @@ mathjax: true
     <td>BRRI dhan-28 (1994)</td>
     <td>High yield advantage, Early maturing</td>
     <td>Identification using DNA fingerprinting</td>
-    <td>Yes<br>BIHS 2018<br>Covered 32.9% of Boro rice area</td>
-    <td>-</td>
+    <td>Yes<br>Covered 32.9% of Boro rice area</td>
+    <td>BIHS 2018</td>
     <td>1 IRRI line as parent</td>
   </tr>
   <tr>
     <td>BRRI dhan-29 (1994)</td>
     <td>High yield advantage, Disease resistant</td>
     <td>Identification using DNA fingerprinting</td>
-    <td>Yes<br>BIHS 2018<br>Covered 29.3% of Boro rice area</td>
-    <td>-</td>
+    <td>Yes<br>Covered 29.3% of Boro rice area</td>
+    <td>BIHS 2018</td>
     <td>Other IRRI ancestry</td>
   </tr>
   <tr>
     <td>Other IRRI-derived varieties</td>
     <td>Residual share of Boro plots cultivated with minor varieties that have some IRRI ancestry</td>
     <td>-</td>
-    <td>Yes<br>BIHS 2018<br>4.86%<br>Between those with one and two IRRI parents<br>+ those with other IRRI ancestry</td>
-    <td>-</td>
+    <td>Yes<br>4.86%<br>Between those with one and two IRRI parents<br>+ those with other IRRI ancestry</td>
+    <td>BIHS 2018</td>
     <td>-</td>
   </tr>
 </tbody>
@@ -104,10 +104,9 @@ mathjax: true
       <td>Identification using DNA fingerprinting</td>
       <td>
         Yes<br>
-        BIHS 2018<br>
         Covered 11.1% of Aman rice area
       </td>
-      <td>-</td>
+      <td>BIHS 2018</td>
       <td>1 IRRI line as parent</td>
     </tr>
     <tr>
@@ -116,10 +115,9 @@ mathjax: true
       <td>Identification using DNA fingerprinting</td>
       <td>
         Yes<br>
-        BIHS 2018<br>
         Covered 5.3% of Aman rice area
       </td>
-      <td>-</td>
+      <td>BIHS 2018</td>
       <td>2 IRRI lines as parent</td>
     </tr>
   </tbody>
