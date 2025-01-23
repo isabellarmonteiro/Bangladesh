@@ -34,12 +34,6 @@ The first multi-center initiatives drafted newly devised priorities for aquacult
 Moreover, during the first wave of CGIAR Research Programs (CRPs), new approaches to the development of fisheries and aquaculture were introduced. The Livestock and Fish CRP was particularly focused on genetic improvement of Tilapia and Carp varieties, as well as on various aspects of the aquaculture value-chain, such as disease and quality controls, improved sustainability of aquaculture feed management, and the enhancement of gender equity of fish and shrimp value chains
 from production to consumption (CGIAR, 2014).
 
-AAS?
-
-A second wave of CRPs gave rise to the Fish Agri-Food Systems (FISH) initiative, which was active between 2017 and 2021 and 
-
-FISH 7 golden eggs
-
 ## WorldFish's Presence in Bangladesh
 WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), forging strong partnerships with government entities and playing a pivotal role in policy formulation. Over the years, the center has also established an extensive network of local partners, encompassing private sector institutions, non-governmental organizations, and other local stakeholders operating at different levels. WorldFish has placed significant emphasis on enhancing the capacity of these collaborators, thus ensuring the long-term viability and sustainability of CGIAR-promoted initiatives within the country.
 
@@ -75,7 +69,7 @@ Improvement of Carp Species in Asia", developing an improved strain of Silver Ba
 
 <br>
 <b>Regulations and Policies</b>: WorldFish supported revisions to key fisheries policies, including mesh size regulations for juvenile Hilsa conservation, the extension of the brood Hilsa ban to 22 days, and the creation of new sanctuaries like the Nijhum Dwip Marine Protected Area. These measures aim to enhance sustainable fishery practices and protect biodiversity.
-<br>
+
 <b>Co-Management and Livelihoods</b>: The organization facilitated the creation of various community-level groups, such as Hilsa conservation groups and savings groups for fisherwomen, to empower local communities. Higher-level co-management committees ensure broader coordination. Food incentives and alternative income-generating activities, like seaweed farming and green mussel cultivation, help mitigate the impact of conservation measures on fishing-dependent households.
 
 <br>
@@ -83,7 +77,7 @@ Improvement of Carp Species in Asia", developing an improved strain of Silver Ba
 #### <b>Value Chains</b>
 
 <b>Breeding Improvements</b>: WorldFish introduced breeding programs for SIS, Tilapia, and carps, focusing on quality broodstock, genetic improvements, and advanced hatchery techniques like oxygen tower technology. These efforts aim to ensure consistent seed quality and enhance productivity for fish farmers.
-<br>
+
 <b>Fish By-Products</b>: Innovative products like boneless Hilsa, Hilsa soup, and Hilsa noodles were developed in collaboration with Bangladesh Agricultural University. These technologies were transferred to private enterprises for large-scale commercial production, creating value-added market opportunities.
 
 
