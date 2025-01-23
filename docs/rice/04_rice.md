@@ -62,7 +62,7 @@ Water and land availability are significant challenges for rice production in Ba
 
 
 
-
+{% include comment-section.html url=page.url %}
 
 
 
