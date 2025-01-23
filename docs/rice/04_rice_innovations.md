@@ -18,72 +18,99 @@ mathjax: true
 
 # Genetic Improvement - Boro Season
 
+{% raw %}
 <style>
-/* Custom Table Styling */
+/* Sleek Table Styling */
 .custom-table {
-  background-color: rgba(0, 128, 0, 0.2); /* Light green */
-  border-collapse: collapse;
   width: 100%;
+  border-collapse: collapse;
   margin: 20px 0;
   font-size: 1rem;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .custom-table th {
-  background-color: rgba(0, 128, 0, 0.4); /* Darker green */
+  background-color: #4CAF50; /* A more refined green */
   color: white;
   text-align: left;
-  padding: 8px;
+  padding: 12px;
 }
 
-.custom-table th, .custom-table td {
+.custom-table td {
   border: 1px solid #ddd;
-  padding: 8px;
+  padding: 10px;
 }
 
 .custom-table tr:nth-child(even) {
-  background-color: rgba(0, 128, 0, 0.1); /* Alternating row color */
+  background-color: #f2f2f2; /* Soft alternating row color */
 }
 
 .custom-table tr:hover {
-  background-color: rgba(0, 128, 0, 0.3); /* Highlight on hover */
+  background-color: #eaf5e9; /* Highlight row on hover */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.custom-table caption {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
 }
 </style>
 
 <table class="custom-table">
-<thead>
-  <tr>
-    <th>Innovation</th>
-    <th>Description</th>
-    <th>Observable Feature</th>
-    <th>Likely to be at scale?</th>
-    <th>Source</th>
-    <th>Attribution</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>BRRI dhan-28 (1994)</td>
-    <td>High yield advantage, Early maturing</td>
-    <td>Identification using DNA fingerprinting</td>
-    <td>Yes<br>BIHS 2018<br>Covered 32.9% of Boro rice area</td>
-    <td>-</td>
-    <td>1 IRRI line as parent</td>
-  </tr>
-  <tr>
-    <td>BRRI dhan-29 (1994)</td>
-    <td>High yield advantage, Disease resistant</td>
-    <td>Identification using DNA fingerprinting</td>
-    <td>Yes<br>BIHS 2018<br>Covered 29.3% of Boro rice area</td>
-    <td>-</td>
-    <td>Other IRRI ancestry</td>
-  </tr>
-  <tr>
-    <td>Other IRRI-derived varieties</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Yes<br>BIHS 2018<br>4.86%<br>Between those with one and two IRRI parents<br>+ those with other IRRI ancestry</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-</tbody>
+  <caption>Genetic Improvement - Boro Season</caption>
+  <thead>
+    <tr>
+      <th>Innovation</th>
+      <th>Description</th>
+      <th>Observable Feature</th>
+      <th>Likely to be at scale?</th>
+      <th>Source</th>
+      <th>Attribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BRRI dhan-28 (1994)</td>
+      <td>High yield advantage, Early maturing</td>
+      <td>Identification using DNA fingerprinting</td>
+      <td>
+        Yes<br>
+        BIHS 2018<br>
+        Covered 32.9% of Boro rice area
+      </td>
+      <td>-</td>
+      <td>1 IRRI line as parent</td>
+    </tr>
+    <tr>
+      <td>BRRI dhan-29 (1994)</td>
+      <td>High yield advantage, Disease resistant</td>
+      <td>Identification using DNA fingerprinting</td>
+      <td>
+        Yes<br>
+        BIHS 2018<br>
+        Covered 29.3% of Boro rice area
+      </td>
+      <td>-</td>
+      <td>Other IRRI ancestry</td>
+    </tr>
+    <tr>
+      <td>Other IRRI-derived varieties</td>
+      <td>-</td>
+      <td>-</td>
+      <td>
+        Yes<br>
+        BIHS 2018<br>
+        4.86%<br>
+        Between those with one and two IRRI parents<br>
+        + those with other IRRI ancestry
+      </td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
 </table>
+{% endraw %}
