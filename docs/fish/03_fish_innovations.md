@@ -38,3 +38,123 @@ mathjax: true
     </tr>
   </tbody>
 </table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Innovation</th>
+      <th>Description</th>
+      <th>Observable Feature</th>
+      <th>Likely to be at scale?</th>
+      <th>Source</th>
+      <th>Attribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SIS in Polyculture with Carps</td>
+      <td>Mola are grown in homestead ponds used for carp production</td>
+      <td>Household is growing carp and SIS in the same pond.<br>Some accompanying carp-SIS polyculture technologies are likely to also be present.</td>
+      <td>Yes</td>
+      <td>BIHS 2018<br>26% of ponds were said to be growing carps alongside small fish</td>
+      <td>Low. SIS-Carp polyculture was first explored in Bangladesh in 2003 in a collaboration between the Department of Fisheries (DoF) and DANIDA. More recently, BAU has been developing</td>
+    </tr>
+    <tr>
+      <td>Specific Pathogen-Free (SPF) shrimp seed</td>
+      <td>Shrimp post-larvae free from WSSV and other viruses</td>
+      <td>Negative PCR-tests<br>Post-larvae procured from one of the 24 hatcheries that provide WSS-free seed</td>
+      <td>Yes</td>
+      <td>Between 2013 and 2015, project distributed 1 billion post-larvae free from WSSV and other viruses<br><a href="https://worldfishcenter.org/pages/shrimp-bd/">worldfishcenter.org</a></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Co-management of fisheries</td>
+      <td>Community-based fishery management (CBM) developed by Worldfish during the two phases of ECOFISH</td>
+      <td>Presence of fish guards to enforce rules,<br>Food incentives to communities during fishing bans<br>Presence of Alternative income-generating activities (AIGAs) (e.g., seaweed farming in Cox’s Bazar)<br>Co-management groups at village, upazila, and district levels.</td>
+      <td>Yes?</td>
+      <td>NA</td>
+      <td>High. This model was developed by Worldfish through ECOFISH, a USAID-funded project</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Innovation</th>
+      <th>Description</th>
+      <th>Observable Feature</th>
+      <th>Policy Influence?</th>
+      <th>Source</th>
+      <th>Attribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mesh size adjustment</td>
+      <td>The government accepted the recommendation for an allowable mesh size of 6.5 cm for Hilsa gillnets.</td>
+      <td>Adoption of mesh size standards.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Brood Hilsa ban</td>
+      <td>The government extended the brood Hilsa ban from 11 to 22 days, based on Worldfish recommendations.</td>
+      <td>Lengthened ban period during breeding season.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Marine Protected Area</td>
+      <td>The creation of the Nijhum Dwip Marine Reserve was successfully advocated as a new MPA.</td>
+      <td>Declaration of Nijhum Dwip as an MPA.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Hilsa sanctuary expansion</td>
+      <td>Establishment of a sixth Hilsa sanctuary, as recommended by Worldfish</td>
+      <td>Recognition of the sixth Hilsa sanctuary.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Regulatory adjustments</td>
+      <td>Contributions to fine-tuning MoFL regulations for the 2019 Marine Fishing Ban, including timing.</td>
+      <td>Regulatory changes in fishing ban period.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Hilsa Fisheries Management Action Plan</td>
+      <td>Assistance in revising the HFMAP to enhance its effectiveness.</td>
+      <td>Updated HFMAP with new strategies.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Marine Fisheries Act (2018)</td>
+      <td>Supported the development of the Marine Fisheries Act for sustainable fisheries management.</td>
+      <td>Passage of the Marine Fisheries Act (2018).</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>National Fish Health Management Strategy</td>
+      <td>Played a key role in designing the NFHMSB to improve fish health practices.</td>
+      <td>Launch of the National Fish Health Management Strategy.</td>
+      <td>Yes</td>
+      <td>WorldFish</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
