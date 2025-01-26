@@ -56,14 +56,6 @@ aux_links_new_tab: true
 
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
-nav:
-  - text: "Home"
-    url: "/"
-  - text: "Documentation"
-    url: "/docs/"
-  - text: "Google"
-    url: "https://www.google.com"
-
 
 # Enable or disable the site search
 # Supports true (default) or false
