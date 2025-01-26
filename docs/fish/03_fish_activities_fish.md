@@ -14,9 +14,9 @@ In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheri
 Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiatives.
 
 
-### Major Contributions and Reach
+## Major Contributions and Reach
 
-#### GENETIC IMPROVEMENT
+### GENETIC IMPROVEMENT
 WorldFish has been a key player in the genetic improvement of fish varieties in Bangladesh, contributing significantly to the country's aquaculture development.
 
 **Tilapia:**  
@@ -28,7 +28,7 @@ In 1996, WorldFish, in collaboration with BFRI-FS, developed an improved strain 
 **Carps:**  
 As part of the AIN project, the Carp Genetic Improvement Program (CGIP) was launched to develop faster-growing varieties of major carp species, including rohu, catla, and silver carp. A notable achievement was the development of the G3 Rohu Carp variety, which, as of 2023, demonstrated a 37% higher weight gain compared to the unimproved riverine rohu strain. Rohu hatchlings were distributed to commercial hatcheries in 2020-2021 for broodstock development, and by 2023, over 30 hatcheries across Bangladesh were maintaining these improved broodstock.
 
-#### CROP/ AQUACULTURE MANAGEMENT PRACTICES
+### CROP/ AQUACULTURE MANAGEMENT PRACTICES
 
 **Integrated Rice–Fish Culture (IRFC):**  
 Integrated rice–fish culture (IRFC) is an ancient agronomic practice in Bangladesh that integrates rice farming with fish cultivation, commonly using species like rohu carp, tilapia, and giant freshwater prawn. There are two systems: concurrent farming during the rainy season (aman), where fish and rice are cultivated simultaneously in flooded plots, and rotational farming in irrigated areas.  
@@ -40,7 +40,7 @@ Earlier research in the 1990s and early 2000s focused primarily on the technical
 The Carp-Mola polyculture approach represents an innovative strategy for enhancing nutrition and income in rural Bangladesh. While carps are commonly cultivated in homestead ponds due to their high yields and market value, they offer limited nutritional benefits and are harvested less frequently (WorldFish, 2020). In contrast, small indigenous fish (SIS), such as Mola, are more nutritious and can be consumed regularly by all household members, improving overall nutrition. Despite their nutritional importance, the population of SIS is in decline due to overfishing, pollution, and the conversion of natural water bodies for irrigation, agriculture, and commercial aquaculture.  
 The adoption of carp-mola polyculture could significantly boost rural households' fish production, income, and access to micronutrient-rich fish. However, SIS are often removed from ponds due to the misconception that they compete with carps, which hampers the widespread adoption of this practice. Since 2011, WorldFish has been working with poor, rural households who have idle or underutilized ponds to implement carp-mola polyculture systems. While the innovation shows great potential, it cannot be solely credited to CGIAR, as the approach was first explored in 2003 through the Mymensingh Aquaculture Extension Project (MAEP), a collaboration between the Department of Fisheries (DoF) and DANIDA (Roos, Islam, and Thilsted, 2003).
 
-#### CONSERVATION AND NATURAL RESOURCE MANAGEMENT
+### CONSERVATION AND NATURAL RESOURCE MANAGEMENT
 
 **Rules and Regulations:**  
 Hilsa, which contributes 12% to Bangladesh's fisheries production, holds significant economic and sociocultural value. From the 1970s to the 1990s, overfishing, habitat degradation, obstructed migratory routes, and the capture of juvenile fish during their reproductive period led to severe declines in Hilsa populations. However, in recent years, government efforts have led to a remarkable recovery of Hilsa populations, largely due to the Hilsa Fisheries Management Plan (2005). This plan introduced fishing bans, awareness campaigns, the establishment of sanctuaries (currently six in total), and alternative livelihoods such as cash incentives and rice distribution.  
@@ -59,7 +59,7 @@ WorldFish has played a crucial role in supporting the government's Hilsa fishery
 **Co-Management and Livelihoods:**  
 Community-based fishery management (CBM) balances fish population restoration with supporting vulnerable fishing communities. It combines a "stick" approach, training fish guards to enforce rules, with a "carrot" approach, offering food incentives and alternative income-generating activities (AIGAs) like small businesses and farming to offset conservation restrictions. Co-management groups at village, upazila, and district levels ensure coordinated efforts between local communities and authorities, fostering sustainable fishery practices while preserving livelihoods.
 
-#### VALUE CHAINS
+### VALUE CHAINS
 
 The Livestock and Fish CRP was also particularly focused on various aspects of the aquaculture value chain, such as disease and quality controls, improved sustainability of aquaculture feed management, and the enhancement of gender equity of fish and shrimp value chains from production to consumption (CGIAR, 2014).
 
