@@ -7,4 +7,10 @@ permalink: /docs/rice/activities
 mathjax: true
 ---
 
+
+
+
+
+{% include comment-section.html url=page.url %}
+
 ...
