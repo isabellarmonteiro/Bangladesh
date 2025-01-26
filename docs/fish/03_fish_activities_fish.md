@@ -6,7 +6,7 @@ nav_order: 7
 permalink: /docs/fish/activities
 mathjax: true
 ---
-# CGIAR Engagement in Fisheries Sector
+# CGIAR Contributions in Fisheries and Aquaculture
 <br>
 
 Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, with a history of many multi-center initiatives being focused on this topic.
