@@ -70,8 +70,15 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 | Mola and Other Small Fish | 15.1 |
 
 
-### Constraints and Potential 
-Because of its low-lying elevation, being less than five meters above sea level, the Coastal area of Bangladesh is prone to tidal surges and flooding during the rainy season, and to  salinity intrusion during the dry one (CPFW, 2014; Mondal et al., 2013).
+### Constraints and Potential - by Fishery System
+
+
+**Inland open water capture fisheries** face overfishing, habitat destruction, and resource depletion, exacerbated by climate change, agrochemical use, and siltation. Additional challenges include flash floods, unplanned embankments, and the deterioration of brood stock and migratory routes.
+
+**Marine fisheries** face heavy overfishing, illegal gear use, and inadequate data on fish stocks and habitats. There are also challenges like high capital requirements, post-harvest losses, lack of marine aquaculture and breeding, by-catch issues, biodiversity loss, and marine pollution.
+
+**Inland closed water aquaculture** faces challenges such as unpredictable seed supply, high production costs, poor feed quality, and limited species diversity. Additionally, issues like climate change, water scarcity, disease outbreaks, inbreeding, and poor investment in infrastructure and management further complicate sustainable growth.
+
 
 
 <br>
