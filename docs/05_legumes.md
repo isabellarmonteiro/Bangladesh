@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legumes
-nav_order: 13
+nav_order: 9
 permalink: /docs/legumes
 ---
 
