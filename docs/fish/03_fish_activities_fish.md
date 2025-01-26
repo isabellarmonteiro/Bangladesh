@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities - Fish
+title: CGIAR Contributions - Fish
 parent:  Fish
 nav_order: 7
 permalink: /docs/fish/activities
