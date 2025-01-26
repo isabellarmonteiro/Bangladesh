@@ -24,3 +24,8 @@ non-rice crops protects yields from droughts, and allows to grow of extra crop a
 # Groundnuts
 
 Under Construction
+
+
+
+
+{% include comment-section.html url=page.url %}
