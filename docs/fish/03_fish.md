@@ -5,6 +5,7 @@ permalink: /docs/fish
 has_children: true
 mathjax: true
 nav_order: 3
+toc: false
 ---
 
 # The Fisheries Sector in Bangladesh
