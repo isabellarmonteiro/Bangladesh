@@ -35,3 +35,7 @@ Currently, SPIA is conducting in-depth studies in four key countries—Ethiopia,
 > - <b>Suggest Missing Innovations</b>: Point out other innovations that may have scaled but are not currently included, and provide supporting evidence.
 > 
 > - <b>Provide Additional Details:</b>: Share any context or details that might help clarify or improve the prioritization process.
+
+
+
+{% include comment-section.html url=page.url %}
