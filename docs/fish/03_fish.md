@@ -5,7 +5,6 @@ permalink: /docs/fish
 has_children: true
 mathjax: true
 nav_order: 3
-toc: false
 ---
 
 # The Fisheries Sector in Bangladesh
@@ -55,6 +54,9 @@ Fish production has overall increased, with both capture fisheries and aquacultu
 
 
 
+<br> 
+
+
 #### Aquaculture in the BIHS (2018-2019)
 In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. The following culture rates were found for species related to CGIAR work (out of the total 5605 households):
 
@@ -70,6 +72,10 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 | Shrimp | 0.9 |
 | Mola and Other Small Fish | 15.1 |
 
+
+
+
+<br> 
 
 ### Constraints and Potential - by Fishery System
 
