@@ -7,8 +7,38 @@ mathjax: true
 ---
 
 
+<style>
+/* Custom Table Styling */
+.custom-table {
+  background-color: rgba(0, 128, 0, 0.2); /* Light green */
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  font-size: 1rem;
+}
 
-<table>
+.custom-table th {
+  background-color: rgba(0, 128, 0, 0.4); /* Darker green */
+  color: white;
+  text-align: left;
+  padding: 8px;
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: rgba(0, 128, 0, 0.1); /* Alternating row color */
+}
+
+.custom-table tr:hover {
+  background-color: rgba(0, 128, 0, 0.3); /* Highlight on hover */
+}
+</style>
+
+<table class="custom-table" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
       <th>Innovation</th>
@@ -40,7 +70,7 @@ mathjax: true
 </table>
 
 
-<table>
+<table class="custom-table" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
       <th>Innovation</th>
@@ -80,7 +110,7 @@ mathjax: true
 </table>
 
 
-<table>
+<table class="custom-table" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
       <th>Innovation</th>
