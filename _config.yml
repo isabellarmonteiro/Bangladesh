@@ -54,6 +54,13 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
+nav:
+  - text: "Google"
+    url: "https://www.google.com"  # External link to Google
+    nav_order: 0  # Ensure this appears first
+  - text: "Home"
+    url: "/"
+
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 
