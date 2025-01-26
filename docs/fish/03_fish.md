@@ -102,3 +102,7 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 > - **Improving Fish Quality and Value**: Focus on safe, nutritious fish through better processing, waste reduction, and market access.
 >
 > - **Management of Fishery Resources and Conservation**: Ensure sustainable fishery management, protect habitats, and combat overfishing.
+
+
+{% include comment-section.html url=page.url %}
+
