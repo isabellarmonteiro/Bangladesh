@@ -85,4 +85,13 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 
 ## Government Priorities for the Sector
 
-Under Construction
+{: .note-title }
+> **Government Priorities for the Fisheries Sector**
+
+> - **Improvement of Aquaculture Productivity**: Enhance aquaculture production through quality seeds, sustainable feed, and advanced technologies.
+
+> - **Technology Dissemination and Adoption**: Improve technology adoption in aquaculture through training, participatory programs, and communication.
+
+> - **Improving Fish Quality and Value**: Focus on safe, nutritious fish through better processing, waste reduction, and market access.
+
+> - **Management of Fishery Resources and Conservation**: Ensure sustainable fishery management, protect habitats, and combat overfishing.
