@@ -34,9 +34,9 @@ Given the high reliance on fish to achieve the necessary macro and micronutrient
 
 ## Overview of the Sector
 
-Within the agricultural sector, fisheries' contribution grew from 7% in the mid-1970s to a stable 22% between 2005 and 2021. Despite a decline in the share of GDP from agriculture as the industrial sector grows, the fisheries sector has maintained above-average growth rates compared to other agricultural activities (Bangladesh Bureau of Statistics, 2022).
+In Bangladesh, fish can be sourced in three main ways: through capture fisheries, which can be done in inland or marine areas, or through aquaculture, mainly in ponds, either in homesteads or as a business. The fisheries sector has grown significantly, with its contribution to agriculture increasing from 7% in the mid-1970s to a stable 22% between 2005 and 2021. 
 
-Fish production has overall increased, with both capture fisheries and aquaculture growing in importance. Aquaculture has become more significant over the years as wild fish populations have been affected by overfishing, floodplain loss, and pollution, particularly in inland areas. These challenges have led to higher fish prices and made aquaculture more profitable. The development of private hatcheries and nurseries, which alleviated seed supply shortages, also contributed to this shift, although concerns about quality remain (WorldFish, 2011 - "Review of Aquaculture & Fish Consumption in Bangladesh").
+While the share of GDP from agriculture has declined due to the growth of the industrial sector, the fisheries sector has continued to outperform other agricultural activities in terms of growth (Bangladesh Bureau of Statistics, 2022). Fish production overall has increased, with both capture fisheries and aquaculture playing increasingly important roles. Aquaculture, in particular, has become more significant over the years, driven by challenges in wild fish populations—such as overfishing, floodplain loss, and pollution, especially in inland areas. These challenges have led to higher fish prices, making aquaculture more profitable. The development of private hatcheries and nurseries, which alleviated seed supply shortages, also contributed to this shift, although concerns about quality remain (WorldFish, 2011 - "Review of Aquaculture & Fish Consumption in Bangladesh").
 
 
 {: .note-title }
