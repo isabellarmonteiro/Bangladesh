@@ -9,87 +9,68 @@ mathjax: true
 # CGIAR Engagement in Fisheries Sector
 <br>
 
-Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, with a history of many multi-center initiatives being focused on this topic. In 2003, the Challenge Program on Water and Food was launched, encompassing Aquatic Ecosystems and Fisheries as one of its main thematic areas, for which WorldFish was the leading center. This program ran for 10 years, and it aimed at improving water productivity in six river Basins, including the Indo-Gangetic one. 
+Fisheries and Aquaculture have long been areas of significant interest for the CGIAR, with a history of many multi-center initiatives being focused on this topic.
+In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheries and Aquaculture, actively engaged in the country since 1987 (WorldFish, 2004). Over the years, the center has forged strong partnerships with government entities and played a pivotal role in policy formulation. 
+Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiatives.
 
-The CGIAR Research Program on Aquatic Agricultural Systems (AAS) was established from 2011 to 2016, emphasizing the importance of involving local stakeholders in research activities to ensure lasting results within the "Research in Development" framework (Douthwaite et al. 2015). 
-Similarly, from 2012 to 2016, these subjects were encompassed within the Livestock and Fish CGIAR Research Program (CRP), which helped give increased attention to value-chain development. In order to further prioritize research in this field, a follow-up program called Fish Agri-Food Systems (FISH) was established and operated from 2017 to 2021, being jointly led by WorldFish and the International Water Management Institute (IWMI). <br>
-
-In Bangladesh, WorldFish serves as the primary CGIAR center dedicated to Fisheries and Aquaculture. Additionally, two Research Initiatives in the country are directly related to Fish: the Aquatic Foods and the One Health Research Initiatives. 
-
-## Main CGIAR Priorities
-### Current
-In recent years, the development and dissemination of genetically improved Carp, Tilapia and Small-Indigenous Species has been at the forefront of the CGIAR's activities. Additionally, regarding Crop Management Practices, WorldFish outlines the development of Rice-Fish Systems, which allows to intensify farming systems and diversify income sources, as a priority for Bangladesh. 
-
-When it comes to Natural Resource Management, community-based fishery management approaches have been developed to tread the fine line between restoring native populations of fish and allowing vulnerable communities to maintain their traditional sources of livelihoods. Moreover, significant attention has been placed in guaranteeing that biosecurity and seed quality standards live up to those of international markets, with important contributions in the development of disease diagnostic and control measures for tilapia and shrimp.
-
-<br>
-### Building Blocks
-
-WorldFish's priorities for Bangladesh have evolved in conjunction with the country's conjectures. Nevertheless, a 2004 document detailing the center's achievements up to that point in time present remarkable similarities to current operational priorities. Indeed, early activities in Bangladesh included the dissemination of various rice-fish systems, the genetic enhancement of aquaculture species, and the conservation and management of both marine and inland fisheries, which hinged on characterizing the legal and insititutional constraints to conservation and on promoting the community-based management of inland waterbodies (WorldFish, 2004).  
-
-The first multi-center initiatives drafted newly devised priorities for aquaculture in Bangladesh. Namely, the Challenge Program on Water and Food, gave further importance to developing rice-fish systems, building on longstanding community-based resource management research by WorldFish, through the newly introduced practice of community-based fish culture (Sheriff et al., 2010).
-
-Moreover, during the first wave of CGIAR Research Programs (CRPs), new approaches to the development of fisheries and aquaculture were introduced. The Livestock and Fish CRP was particularly focused on genetic improvement of Tilapia and Carp varieties, as well as on various aspects of the aquaculture value-chain, such as disease and quality controls, improved sustainability of aquaculture feed management, and the enhancement of gender equity of fish and shrimp value chains
-from production to consumption (CGIAR, 2014).
-
-## WorldFish's Presence in Bangladesh
-WorldFish has been actively engaged in Bangladesh since 1987 (WorldFish, 2004), forging strong partnerships with government entities and playing a pivotal role in policy formulation. Over the years, the center has also established an extensive network of local partners, encompassing private sector institutions, non-governmental organizations, and other local stakeholders operating at different levels. WorldFish has placed significant emphasis on enhancing the capacity of these collaborators, thus ensuring the long-term viability and sustainability of CGIAR-promoted initiatives within the country.
 
 ### Major Contributions and Reach
 
-#### <b>Genetic Improvement</b>
+#### GENETIC IMPROVEMENT
+WorldFish has been a key player in the genetic improvement of fish varieties in Bangladesh, contributing significantly to the country's aquaculture development.
 
-In 1988, the Bangladesh Fisheries Research Institute's Freshwater Station (BFRI-FS) began to conduct research on the genetic improvement of aquaculture species. Since 1996, the breeding efforts of the BFRI-FS have been expanded in collaboration with WorldFish, under the project "Genetic
-Improvement of Carp Species in Asia", developing an improved strain of Silver Barb which granted higher yields (Khuda and Huda, 2012), and an improvement in growth of 28% after three generations of selection (WorldFish, 2004). 
-<br>
+**Tilapia:**  
+WorldFish introduced its Genetically Improved Farmed Tilapia (GIFT) in Bangladesh in 1994, a faster-growing and heavier variety (Hussain et al., 2000). Since then, several generations of GIFT Tilapia have been introduced, with the latest arriving in 2012 as part of the Aquaculture for Income and Nutrition (AIN) project (Keus et al., 2017). This effort has played a pivotal role in the 18-fold increase in tilapia production in Bangladesh between 2005 and 2015, largely attributed to GIFT (Tran et al., 2021). Notably, GIFT tilapia demonstrated a 64% improvement in weight gain.
 
-<b>Tilapia:</b> WorldFish introduced its Genetically Improved Farmed Tilapia (GIFT), a faster growing and heavier variety, in 1994 in Bangladesh (Hussain et al., 2000). Since then, new generations of GIFT Tilapia have been introduced frequently, with the latest one arriving to Bangladesh in 2012, in the context of the Aquaculture for Income and Nutrition (AIN) project (Keus et al., 2017). The 18-fold increase in tilapia production in Bangladesh, between the years of 2005 and 2015 has been largerly attributed to GIFT (Tran et al., 2021).
-<br>
+**Silver Barb:**  
+In 1996, WorldFish, in collaboration with BFRI-FS, developed an improved strain of Silver Barb that delivered higher yields (Khuda and Huda, 2012). After three generations of selective breeding, this strain showed a 28% improvement in growth (WorldFish, 2004).
 
-<b>Carps:</b> Under AIN, the Carp Genetic Improvement Program (CGIP) was initiated, and a fast-growing G3 Rohu Carp variety was developed.
+**Carps:**  
+As part of the AIN project, the Carp Genetic Improvement Program (CGIP) was launched to develop faster-growing varieties of major carp species, including rohu, catla, and silver carp. A notable achievement was the development of the G3 Rohu Carp variety, which, as of 2023, demonstrated a 37% higher weight gain compared to the unimproved riverine rohu strain. Rohu hatchlings were distributed to commercial hatcheries in 2020-2021 for broodstock development, and by 2023, over 30 hatcheries across Bangladesh were maintaining these improved broodstock.
 
-<br>
+#### CROP/ AQUACULTURE MANAGEMENT PRACTICES
 
-<br>
+**Integrated Rice–Fish Culture (IRFC):**  
+Integrated rice–fish culture (IRFC) is an ancient agronomic practice in Bangladesh that integrates rice farming with fish cultivation, commonly using species like rohu carp, tilapia, and giant freshwater prawn. There are two systems: concurrent farming during the rainy season (aman), where fish and rice are cultivated simultaneously in flooded plots, and rotational farming in irrigated areas.  
+This practice addresses the growing demand for staples like rice and fish while optimizing scarce land and natural resources by increasing diversification, land and water productivity, and decreasing the need for pesticides since fish decrease the levels of insect larvae and aquatic weeds. It is therefore considered a sustainable intensification method that enhances diversification and productivity, even when controlling for self-selection into adoption (Islam et al., 2015). Estimates suggest that 2–3 million hectares of land in Bangladesh are suitable for IRFC. However, despite its high potential, IRFC remains marginally adopted (Ahmed et al., 2011; Nabi, 2008).
 
-#### <b> Crop/ Aquaculture Management Practices</b>
-<b>Polyculture Systems</b>: WorldFish has promoted integrated farming practices that combine species like carps, small indigenous species (SIS), and tilapia with vegetable cultivation. These systems increase productivity, diversify income sources, and improve resource efficiency.
-<br>
+Earlier research in the 1990s and early 2000s focused primarily on the technical and biophysical aspects of adoption. In the 2000s, the Challenge Program on Water and Food expanded the focus to social, economic, and policy constraints to adoption, proposing a community-based management of floodplain fisheries. This innovation aimed to address challenges linked to common-pool resource management during the rainy season when submerged fields blur individual land boundaries. Despite an initial interest, research on collective management of IRFC has not remained a priority. Additionally, because IRFC in itself is an ancient practice, its attribution to the CGIAR remains low.
 
-<b>Community-Based Fisheries</b>: Originating during CPWF, floodplain areas enclosed by dikes are collectively managed by local communities, ensuring secure access for poor fishers while enhancing seasonal fish productivity.
-<br>
+**Polyculture with Carp (Carp/Mola - SIS):**  
+The Carp-Mola polyculture approach represents an innovative strategy for enhancing nutrition and income in rural Bangladesh. While carps are commonly cultivated in homestead ponds due to their high yields and market value, they offer limited nutritional benefits and are harvested less frequently (WorldFish, 2020). In contrast, small indigenous fish (SIS), such as Mola, are more nutritious and can be consumed regularly by all household members, improving overall nutrition. Despite their nutritional importance, the population of SIS is in decline due to overfishing, pollution, and the conversion of natural water bodies for irrigation, agriculture, and commercial aquaculture.  
+The adoption of carp-mola polyculture could significantly boost rural households' fish production, income, and access to micronutrient-rich fish. However, SIS are often removed from ponds due to the misconception that they compete with carps, which hampers the widespread adoption of this practice. Since 2011, WorldFish has been working with poor, rural households who have idle or underutilized ponds to implement carp-mola polyculture systems. While the innovation shows great potential, it cannot be solely credited to CGIAR, as the approach was first explored in 2003 through the Mymensingh Aquaculture Extension Project (MAEP), a collaboration between the Department of Fisheries (DoF) and DANIDA (Roos, Islam, and Thilsted, 2003).
 
-<b>Feed and Input Regulation</b>: Workshops with the Department of Fisheries (DoF), feed millers, and industry associations have guided feed standards. A comprehensive list of 605 permissible and prohibited aquaculture inputs was developed in collaboration with BSFF to inform policy development.
+#### CONSERVATION AND NATURAL RESOURCE MANAGEMENT
 
-<br>
+**Rules and Regulations:**  
+Hilsa, which contributes 12% to Bangladesh's fisheries production, holds significant economic and sociocultural value. From the 1970s to the 1990s, overfishing, habitat degradation, obstructed migratory routes, and the capture of juvenile fish during their reproductive period led to severe declines in Hilsa populations. However, in recent years, government efforts have led to a remarkable recovery of Hilsa populations, largely due to the Hilsa Fisheries Management Plan (2005). This plan introduced fishing bans, awareness campaigns, the establishment of sanctuaries (currently six in total), and alternative livelihoods such as cash incentives and rice distribution.  
+WorldFish has played a crucial role in supporting the government's Hilsa fishery management efforts, particularly through the ECOFISH I and II projects. Before-and-after data show a marked increase in both total Hilsa production and fish size, aligning with the (Rahman et al., 2020).
 
-#### <b>Conservation and Natural Resource Management</b>
+**Key Recommendations and Contributions:**
+- **Mesh size adjustment:** The government accepted the recommendation for an allowable mesh size of 6.5 cm for Hilsa gillnets.
+- **Brood Hilsa ban:** The government extended the brood Hilsa ban from 11 to 22 days, based on WorldFish recommendations.
+- **Marine Protected Area:** The creation of the Nijhum Dwip Marine Reserve was successfully advocated, with the government accepting it as a new marine protected area (MPA).
+- **Hilsa sanctuary expansion:** WorldFish supported the establishment of a sixth Hilsa sanctuary, a recommendation that was also accepted.
+- **Regulatory adjustments:** WorldFish contributed to fine-tuning the Ministry of Fisheries and Livestock’s (MoFL) regulations for the 2019 Marine Fishing Ban, including adjusting the ban period and helping artisanal fishers adapt.
+- **Hilsa Fisheries Management Action Plan (HFMAP):** WorldFish provided critical assistance in revising the HFMAP to enhance its effectiveness.
+- **Marine Fisheries Act (2018):** WorldFish supported the development of the Marine Fisheries Act, a key piece of legislation for sustainable fisheries management.
+- **National Fish Health Management Strategy (NFHMSB):** WorldFish also played a key role in designing the NFHMSB, aimed at improving fish health practices across the country.
 
-<br>
-<b>Regulations and Policies</b>: WorldFish supported revisions to key fisheries policies, including mesh size regulations for juvenile Hilsa conservation, the extension of the brood Hilsa ban to 22 days, and the creation of new sanctuaries like the Nijhum Dwip Marine Protected Area. These measures aim to enhance sustainable fishery practices and protect biodiversity.
+**Co-Management and Livelihoods:**  
+Community-based fishery management (CBM) balances fish population restoration with supporting vulnerable fishing communities. It combines a "stick" approach, training fish guards to enforce rules, with a "carrot" approach, offering food incentives and alternative income-generating activities (AIGAs) like small businesses and farming to offset conservation restrictions. Co-management groups at village, upazila, and district levels ensure coordinated efforts between local communities and authorities, fostering sustainable fishery practices while preserving livelihoods.
 
-<b>Co-Management and Livelihoods</b>: The organization facilitated the creation of various community-level groups, such as Hilsa conservation groups and savings groups for fisherwomen, to empower local communities. Higher-level co-management committees ensure broader coordination. Food incentives and alternative income-generating activities, like seaweed farming and green mussel cultivation, help mitigate the impact of conservation measures on fishing-dependent households.
+#### VALUE CHAINS
 
-<br>
+The Livestock and Fish CRP was also particularly focused on various aspects of the aquaculture value chain, such as disease and quality controls, improved sustainability of aquaculture feed management, and the enhancement of gender equity of fish and shrimp value chains from production to consumption (CGIAR, 2014).
 
-#### <b>Value Chains</b>
+**Disease control:**  
+Introduced Specific Pathogen-Free (SPF) shrimp seed, distributing 1 billion post-larvae free from WSSV and other viruses between 2013 and 2015, minimizing disease risks. Supported PCR testing for WSSV by increasing equipment and raising awareness among supply chain actors. Guided the implementation of the Fish Hatchery Act, streamlining recommendations for amendments to the DOF. In collaboration with the Department of Fisheries, developed a program to improve biosecurity in the tilapia industry. Also identified the MrNV virus, which causes significant losses in prawn cultures.
 
-<b>Breeding Improvements</b>: WorldFish introduced breeding programs for SIS, Tilapia, and carps, focusing on quality broodstock, genetic improvements, and advanced hatchery techniques like oxygen tower technology. These efforts aim to ensure consistent seed quality and enhance productivity for fish farmers.
+**Quality Control:**  
+Several initiatives have improved aquaculture quality, including workshops with the Department of Fisheries to develop feed standards and a list of 605 permissible/prohibited inputs with BSFF. For seed quality, Tilapia breeding nuclei and oxygen towers for Carps were established.
 
-<b>Fish By-Products</b>: Innovative products like boneless Hilsa, Hilsa soup, and Hilsa noodles were developed in collaboration with Bangladesh Agricultural University. These technologies were transferred to private enterprises for large-scale commercial production, creating value-added market opportunities.
+**Value-chain development and Market Linkages:**  
+Additionally, innovative fish by-products like boneless Hilsa and Hilsa noodles were developed for market opportunities, alongside digital tools for market linkages.
 
-
-<br>
-
-#### <b>Disease Control</b>
-
-<b>Tilapia and Shrimp Health</b>: Tools like the Tilapia Lake Virus online platform and PCR testing for shrimp diseases like WSSV have improved early warning systems and biosecurity. Efforts to introduce Specific Pathogen-Free (SPF) shrimp seed have minimized disease risks.
-
-<b>AMR Surveillance</b>: Training government aquaculture officers and conducting market-based sample collection have strengthened antimicrobial resistance monitoring. Collaborative research under the "One Health" framework has sought to curb the spread of resistant pathogens in aquaculture systems.
-<br>
-
-<br>
-
-<br>
 
 {% include comment-section.html url=page.url %}
