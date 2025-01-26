@@ -40,16 +40,16 @@ Fish production has overall increased, with both capture fisheries and aquacultu
 
 
 {: .note-title }
-> **Main Crops - Bird's eye view**
-
+> **Main Crops - Bird's eye view**>
+>
 > - **HILSA**: Represents 12% of fisheries production and 1% of GDP, with significant sociocultural value. Captured primarily in marine and river fishing, hilsa consumption varies by wealth, with mature hilsa consumed by wealthier groups and young hilsa by lower-income consumers. The population has declined due to overfishing, fishing of young individuals, and fishing during reproductive periods.
-
+>
 > - **SIS**: A nutrient-rich fish, particularly high in calcium and vitamin A, and consumed regularly by all household members. Traditionally found in floodplains and mainly consumed by rural, low-income households. Populations have decreased due to habitat loss from environmental degradation and competition from aquaculture and agriculture.
-
+>
 > - **CARP**: Dominates pond aquaculture, primarily in homestead and commercial ponds. Major constraints include low genetic quality of stock due to inbreeding and hybridization, which affects survival rates and adult fish weight (Sarder et al., 2014).
-
+>
 > - **TILAPIA**: Predominantly farmed in commercial ponds for domestic consumption. A majority is grown in polyculture systems. Constraints include inconsistent seed production and distribution, leading to varying fish quality (BK Barman, 2003).
-
+>
 > - **SHRIMP AND PRAWN**: Account for 5% of total fisheries production, with half farmed for export. The industry faces challenges like low productivity, quality compliance for export markets, and limited availability of high-quality seed, alongside a focus on traditional production methods that result in disease and mortality.
 
 
