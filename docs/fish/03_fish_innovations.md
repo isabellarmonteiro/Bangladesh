@@ -2,7 +2,7 @@
 layout: default
 title: Innovation Highlights
 parent:  Fish
-nav_order: 6
+nav_order: 3
 mathjax: true
 ---
 
