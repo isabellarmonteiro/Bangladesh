@@ -1,7 +1,7 @@
 ---
 layout: default
 title: References
-nav_order: 17
+nav_order: 13
 permalink: /docs/references
 ---
 
