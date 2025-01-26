@@ -305,3 +305,8 @@ mathjax: true
     </tr>
   </tbody>
 </table>
+
+
+
+{% include comment-section.html url=page.url %}
+
