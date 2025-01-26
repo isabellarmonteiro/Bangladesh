@@ -40,7 +40,7 @@ Fish production has overall increased, with both capture fisheries and aquacultu
 
 
 {: .note-title }
-> **Main Crops - Fisheries Overview**
+> **Main Crops - Bird's eye view**
 
 > - **HILSA**: Represents 12% of fisheries production and 1% of GDP, with significant sociocultural value. Captured primarily in marine and river fishing, hilsa consumption varies by wealth, with mature hilsa consumed by wealthier groups and young hilsa by lower-income consumers. The population has declined due to overfishing, fishing of young individuals, and fishing during reproductive periods.
 
