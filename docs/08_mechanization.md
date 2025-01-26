@@ -6,3 +6,7 @@ permalink: /docs/mechanization
 ---
 
 Under construction
+
+
+
+{% include comment-section.html url=page.url %}
