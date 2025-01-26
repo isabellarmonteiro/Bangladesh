@@ -7,11 +7,11 @@ mathjax: true
 nav_order: 3
 ---
 
-
 # The Fisheries Sector in Bangladesh
 
 In Bangladesh, fish can be sourced in three main ways: through capture fisheries, which can be done in inland or marine areas, or through aquaculture, mainly in ponds, either in homesteads or as a business.
 
+## Significance
 
 ### Economic Significance
 
@@ -83,6 +83,6 @@ In the third wave of the BIHS, 40.2% of all households engaged in aquaculture. T
 
 <br>
 
-# Government Priorities for the Sector
+## Government Priorities for the Sector
 
 Under Construction
