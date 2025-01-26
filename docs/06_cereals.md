@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wheat and Maize
-nav_order: 14
+nav_order: 10
 permalink: /docs/other_cereals
 ---
 
