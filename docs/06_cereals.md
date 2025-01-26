@@ -6,3 +6,7 @@ permalink: /docs/other_cereals
 ---
 
 Under construction
+
+
+
+{% include comment-section.html url=page.url %}
