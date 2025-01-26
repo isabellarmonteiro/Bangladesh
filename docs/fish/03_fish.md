@@ -9,7 +9,10 @@ nav_order: 3
 
 
 # The Fisheries Sector in Bangladesh
-## Significance
+
+In Bangladesh, fish can be sourced in three main ways: through capture fisheries, which can be done in inland or marine areas, or through aquaculture, mainly in ponds, either in homesteads or as a business.
+
+
 ### Economic Significance
 
 Fisheries play a vital role in Bangladesh's agricultural operations and economy. They are not only the second most valuable type of agricultural operations (Belton et al., 2011) but also the country's most significant primary export commodity (Dey et al., 2008a). <br> 
@@ -20,9 +23,10 @@ In recent years, there has been a major focus on promoting the growth of the aqu
 
 ### Nutritional and Cultural Significance
 
-Fish is one of the most popular nutritient-rich foods in Bangladesh. Indeed, it accounts for 60% of the consumption of animal sourced products (Belton et al, 2011), and is a crucial source of vitamins and micronutrients for the poor (Thilsted et al. 1997). The common saying "rice and fish makes a Bengali" appropriately highlights the importance of aquatic organisms for diets in Bangladesh. Nevertheless, with the decrease in the consumption of pulses (Dey et al., 2008a), another protein-rich staple, the dependency on fish intensified in the early 2000s (BBS 2003c and 2007b). <br>
+Fish is one of the most popular nutrient-rich foods in Bangladesh. Indeed, it accounts for 60% of the consumption of animal sourced products (Belton et al, 2011), and is a crucial source of vitamins and micronutrients for the poor (Thilsted et al. 1997). The common saying “rice and fish makes a Bengali” appropriately highlights the importance of aquatic organisms for diets in Bangladesh. Rural areas mostly consume low-value wild fish and cultured carps, while urban areas increasingly favor species like tilapia and higher-value wild fish produced by entrepreneurial aquaculture.
 
-Given the high reliance on fish to achieve the necessary macro and micronutrient intake, as well as the fact that its consumption is primarily sourced domestically (Dey et al., 2008), it is thus clear that the development of the fisheries sector is pivotal to guarantee Food Security in Bangladesh, amid a large increase in population that the country has experienced since the 1950s.
+With the decrease in the consumption of pulses (Dey et al., 2008a), another protein-rich staple, the dependency on fish intensified in the early 2000s (BBS 2003c and 2007b).
+Given the high reliance on fish to achieve the necessary macro and micronutrient intake, as well as the fact that its consumption is primarily sourced domestically (Dey et al., 2008), it is thus clear that the development of the fisheries sector is pivotal to guarantee Food Security in Bangladesh, amid a large increase in population that the country has experienced since the 1950s. 
 
 
 
@@ -30,11 +34,9 @@ Given the high reliance on fish to achieve the necessary macro and micronutrient
 
 ## Overview of the Sector
 
-### Activities
+Within the agricultural sector, fisheries' contribution grew from 7% in the mid-1970s to a stable 22% between 2005 and 2021. Despite a decline in the share of GDP from agriculture as the industrial sector grows, the fisheries sector has maintained above-average growth rates compared to other agricultural activities (Bangladesh Bureau of Statistics, 2022).
 
-#### Patterns 
-Within the agricultural sector, the contribution of fisheries increased from 7% in the mid 1970s to a stable 22% between 2005 and 2021 ().
-While the share of the GDP generated from agriculture is decreasing, as the contribution from industries increases, the fisheries sector maintained above average growth rates when compared to other agricultural activities (Bangladesh Bureau of Statistics, 2022). 
+Fish production has overall increased, with both capture fisheries and aquaculture growing in importance. Aquaculture has become more significant over the years as wild fish populations have been affected by overfishing, floodplain loss, and pollution, particularly in inland areas. These challenges have led to higher fish prices and made aquaculture more profitable. The development of private hatcheries and nurseries, which alleviated seed supply shortages, also contributed to this shift, although concerns about quality remain (WorldFish, 2011 - "Review of Aquaculture & Fish Consumption in Bangladesh").
 
 
 
