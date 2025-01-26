@@ -2,7 +2,7 @@
 layout: default
 title: CGIAR Contributions - Fish
 parent:  Fish
-nav_order: 7
+nav_order: 4
 permalink: /docs/fish/activities
 mathjax: true
 ---
