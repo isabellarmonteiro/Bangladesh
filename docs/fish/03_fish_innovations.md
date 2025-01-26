@@ -38,7 +38,66 @@ mathjax: true
 }
 </style>
 
-<table class="custom-table" style="border-collapse: collapse; width: 100%;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fisheries Innovations Table</title>
+  <style>
+    /* Table styles */
+    .custom-table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+    .custom-table th, .custom-table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    .custom-table th {
+      background-color: #f4f4f4;
+    }
+
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+    .modal-content {
+      background-color: #fff;
+      margin: 10% auto;
+      padding: 20px;
+      border: 1px solid #ddd;
+      width: 80%;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+    .close-btn {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .close-btn:hover,
+    .close-btn:focus {
+      color: #000;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<table class="custom-table">
   <thead>
     <tr>
       <th>Innovation</th>
@@ -53,7 +112,7 @@ mathjax: true
     <tr>
       <td>GIFT Tilapia</td>
       <td>Fast-growing male Tilapia</td>
-      <td>Household has GIFT derived tilapias.<br>DNA fingerprinting or seed sourced from hatchery carrying GIFT.</td>
+      <td>Household has GIFT-derived tilapias.<br>DNA fingerprinting or seed sourced from hatchery carrying GIFT.</td>
       <td>Yes</td>
       <td>“The 18-fold increase in tilapia production in Bangladesh from 19,320 MT in 2005 to 347,800 MT in 2015 (...) has been attributed in large part to GIFT (Tran et al, 2020)”</td>
       <td>High. Developed by WorldFish</td>
@@ -63,11 +122,64 @@ mathjax: true
       <td>Fast-growing Rohu Carps (37% faster growth).</td>
       <td>Household has G3 rohu carps.<br>DNA fingerprinting or seed sourced from hatchery carrying G3 rohu.</td>
       <td>Yes</td>
-      <td>As of 2023, G3 rohu is already available at 30 commercial hatcheries.</td>
+      <td>
+        As of 2023, G3 rohu is already available at 
+        <a href="#" id="hatcheries-link">30 commercial hatcheries</a>.
+      </td>
       <td>High. Developed by WorldFish</td>
     </tr>
   </tbody>
 </table>
+
+<!-- Modal -->
+<div id="hatcheries-modal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <h3>List of 30 Commercial Hatcheries</h3>
+    <ul>
+      <li>Jamuna Fish Limited, Barisal, Agailjhara, Doshumi, Doshumi, 8801743916696</li>
+      <li>Bhola Monosex Tilapia Hatchery, Bhola, Bhola Sadar, Charkhali, 8801718186242</li>
+      <li>Mannan Kritrim Mothsya Projonon Kendra, Bogura, Bogura Sadar, Erulia, Bandighi, 8801711123954</li>
+      <li>The Arefa Motso Hatchery, Bogura, Bogura Sadar, Erulia, Bandighi, 8801711584019</li>
+      <li>BRAC Fish Hatchery, Dinajpur, Birganj, Mohonpur, Miratongi, 8801704121090</li>
+      <li>Messrs Hai Hatchery & Fish Farm, Dinajpur, Kaharole, Mukundapur, Hatisha, 8801713723813</li>
+      <li>Ma Fatima Fish Hatchery, Jashore, Jashore Sadar, Chanchra, Dalmill, 8801711390513</li>
+      <li>Matri Fish Hatchery & Agribased Farm, Jashore, Jashore Sadar, Chanchra, 01711375413</li>
+      <li>Rupaly Fish Hatchery, Jashore, Jashore Sadar, Chanchra, 01711398525</li>
+      <li>Mukteshary Fish Hatchery, Jashore, Jashore Sadar, Kazipur, 01712561752</li>
+      <!-- Add remaining hatcheries similarly -->
+    </ul>
+  </div>
+</div>
+
+<script>
+  // Get modal elements
+  const modal = document.getElementById("hatcheries-modal");
+  const link = document.getElementById("hatcheries-link");
+  const closeBtn = document.querySelector(".close-btn");
+
+  // Show modal on link click
+  link.addEventListener("click", function(event) {
+    event.preventDefault();
+    modal.style.display = "block";
+  });
+
+  // Hide modal on close button click
+  closeBtn.addEventListener("click", function() {
+    modal.style.display = "none";
+  });
+
+  // Hide modal on outside click
+  window.addEventListener("click", function(event) {
+    if (event.target === modal) {
+      modal.style.display = "none";
+    }
+  });
+</script>
+
+</body>
+</html>
+
 
 
 <table class="custom-table" style="border-collapse: collapse; width: 100%;">
