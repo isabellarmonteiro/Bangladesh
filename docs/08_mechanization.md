@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mechanization
-nav_order: 16
+nav_order: 12
 permalink: /docs/mechanization
 ---
 
