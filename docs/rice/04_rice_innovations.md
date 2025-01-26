@@ -2,7 +2,7 @@
 layout: default
 title: Innovation Highlights
 parent:  Rice
-nav_order: 11
+nav_order: 7
 permalink: /docs/rice/innovations
 mathjax: true
 ---
