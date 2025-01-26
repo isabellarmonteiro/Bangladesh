@@ -120,19 +120,39 @@ mathjax: true
   <div class="modal-content">
     <span class="close-btn">&times;</span>
     <h3>List of 30 Commercial Hatcheries</h3>
-    <ul>
-      <li>Jamuna Fish Limited, Barisal, Agailjhara, Doshumi, Doshumi, 8801743916696</li>
-      <li>Bhola Monosex Tilapia Hatchery, Bhola, Bhola Sadar, Charkhali, 8801718186242</li>
-      <li>Mannan Kritrim Mothsya Projonon Kendra, Bogura, Bogura Sadar, Erulia, Bandighi, 8801711123954</li>
-      <li>The Arefa Motso Hatchery, Bogura, Bogura Sadar, Erulia, Bandighi, 8801711584019</li>
-      <li>BRAC Fish Hatchery, Dinajpur, Birganj, Mohonpur, Miratongi, 8801704121090</li>
-      <li>Messrs Hai Hatchery & Fish Farm, Dinajpur, Kaharole, Mukundapur, Hatisha, 8801713723813</li>
-      <li>Ma Fatima Fish Hatchery, Jashore, Jashore Sadar, Chanchra, Dalmill, 8801711390513</li>
-      <li>Matri Fish Hatchery & Agribased Farm, Jashore, Jashore Sadar, Chanchra, 01711375413</li>
-      <li>Rupaly Fish Hatchery, Jashore, Jashore Sadar, Chanchra, 01711398525</li>
-      <li>Mukteshary Fish Hatchery, Jashore, Jashore Sadar, Kazipur, 01712561752</li>
-      <!-- Add remaining hatcheries similarly -->
-    </ul>
+<ul>
+  <li>Jamuna Fish Limited, Barisal, Agailjhara, Doshumi, Doshumi, 8801743916696</li>
+  <li>Bhola Monosex Tilapia Hatchery, Bhola, Bhola Sadar, Charkhali, 8801718186242</li>
+  <li>Mannan Kritrim Mothsya Projonon Kendra, Bogura, Bogura Sadar, Erulia, Bandighi, 8801711123954</li>
+  <li>The Arefa Motso Hatchery, Bogura, Bogura Sadar, Erulia, Bandighi, 8801711584019</li>
+  <li>BRAC Fish Hatchery, Dinajpur, Birganj, Mohonpur, Miratongi, 8801704121090</li>
+  <li>Messrs Hai Hatchery & Fish Farm, Dinajpur, Kaharole, Mukundapur, Hatisha, 8801713723813</li>
+  <li>Ma Fatima Fish Hatchery, Jashore, Jashore Sadar, Chanchra, Dalmill, 8801711390513</li>
+  <li>Matri Fish Hatchery & Agribased Farm, Jashore, Jashore Sadar, Chanchra, 01711375413</li>
+  <li>Rupaly Fish Hatchery, Jashore, Jashore Sadar, Chanchra, 01711398525</li>
+  <li>Mukteshary Fish Hatchery, Jashore, Jashore Sadar, Kazipur, 01712561752</li>
+  <li>Afil Aqua Fish Ltd., Jashore, Sharsha, Lakkhanpur, Boromandartoal, 01918601028</li>
+  <li>National Fish Hatchery, Jashore, Chanchra, 01711379532</li>
+  <li>Healthy Hatchery, Jashore, Manirampur, Jashore, Nehalpur Chanchra, Dattakona Middle para, 8801711308695</li>
+  <li>Fahad Hatchery and Fish Farm, Jashore Sadar, 01713906585</li>
+  <li>South Bay Private Ltd., Khulna, Fultola, Shiromony, 01711077290</li>
+  <li>PRAN Fisheries Project, Moulvibazar, Sreemongal, 01704132059</li>
+  <li>BRAC Fish Hatchery, Moulvibazar, Sreemongal, Ashidron, Motiganj, 8801714106734</li>
+  <li>Fishtech Hatchery Limited, Mymensingh, Tarakanda, 01958511524</li>
+  <li>Agro 3 Hatchery, Mymensingh, Trishal, 01714010740</li>
+  <li>EON Group, Noakhali, Subornochor, Char Clark, 01755594634</li>
+  <li>CP Bangladesh Co. Ltd., Pabna, Ishwardi, Muladoli, Debipur, 01787692527</li>
+  <li>Suraiya Nur Matsha Hatchery, Rajbari, Baliakandi, Islampur, Vellabaria, 01716041819</li>
+  <li>Dolphin Agro Complex, Rangpur, Rangpur Sadar, 29 No. word, RK Road, Mahiganj, 01716980067</li>
+  <li>MS Monika Hatchery, Rajshahi, Bagmara, Tahirpur Pourashava, Chowkirpara, 01716385578</li>
+  <li>Rural Development Academy, Bogura, Sherpur, Garidoho, Dosh mail bajar, 01767032019</li>
+  <li>Maa Matshya Hatchery, Bandarban, Lama, 01882338583</li>
+  <li>Fish Seed Multiplication Farm, Gazipur, Tongi, 01688312304</li>
+  <li>Kaji Agro Hatchery and Nursery, Gopalganj, Kotalipara, Pinjury, Baganda, 01777890271</li>
+  <li>Sromo O Projukt Hatchery, Barisal, Ujirpur, Dhamura, 01770496863</li>
+  <li>Shikder Matsha Hatchery, Barguna, Taltali, Koraibaria, Alibandar, 01726846126</li>
+</ul>
+
   </div>
 </div>
 
