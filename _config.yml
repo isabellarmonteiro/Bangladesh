@@ -47,7 +47,11 @@ heading_anchors: true
 aux_links:
   "Innovations Dashboard":
     - "https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html" 
-    
+.aux-links a {
+  font-size: 1.5rem;
+  color: #0056b3;
+}
+
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
