@@ -3,8 +3,6 @@
 remote_theme: pmarsceill/just-the-docs
 
 title: CGIAR in Bangladesh
-description: Innovations Dashboard
-url: https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html
 
 
 logo: "/assets/images/CGIAR-logo.svg.png"
@@ -47,8 +45,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "More about SPIA":
-    - "https://iaes.cgiar.org/spia" 
+  "Innovations Dashboard":
+    - "https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html" 
     
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
