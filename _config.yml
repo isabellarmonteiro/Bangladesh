@@ -18,7 +18,6 @@ callouts:
     color: green
     opacity: 0.2
 
-$link-color: $blue-000;
 
 # Footer content
 footer_content: "Standing Panel on Impact Assessment"
