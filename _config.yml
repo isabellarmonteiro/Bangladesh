@@ -45,7 +45,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "<span style='font-size: 1.09rem; font-weight: 450;'>Innovations Dashboard</span>":
+  "<span style='font-size: 1.09rem; font-weight: 490;'>Innovations Dashboard</span>":
     - "https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html" 
 
 # Makes Aux links open in a new tab. Default is false
