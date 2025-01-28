@@ -102,6 +102,18 @@ compress_html:
   #   envs: all
 
 
+toc:
+  - title: Home
+    url: /
+  - title: Page 1
+    url: /rice
+  - title: External Resource
+    url: https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html
+  - title: Page 2
+    url: /fish
+
+
+
 usemathjax: true
 
 compress_html:
