@@ -3,9 +3,10 @@
 remote_theme: pmarsceill/just-the-docs
 
 title: CGIAR in Bangladesh
-description: CGIAR activities in Bangladesh.
+description: Innovations Dashboard
 #baseurl: "/DiD" # the subpath of your site, e.g. /blog
 #url: "https://asjadnaqvi.github.io/DiD/" # the base hostname & protocol for your site, e.g. http://example.com
+  url: https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html
 
 
 logo: "/assets/images/CGIAR-logo.svg.png"
@@ -100,17 +101,6 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-
-toc:
-  - title: Home
-    url: /
-  - title: Page 1
-    url: /rice
-  - title: External Resource
-    url: https://isabellarmonteiro.github.io/bd_dashboard/dashboard.html
-  - title: Page 2
-    url: /fish
 
 
 
