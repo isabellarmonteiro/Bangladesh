@@ -2,7 +2,7 @@
 layout: default
 title: CGIAR in Bangladesh
 nav_order: 1
-description: "Welcome to the DiD revolution."
+description: "Main CGIAR Contributions in Bangladesh."
 image: "/assets/images/DiD.jpg"
 permalink: /
 ---
