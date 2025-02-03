@@ -35,7 +35,7 @@ Timeline for the Dissemination:
 - Phase III (Feb-Sept 2023): Project "Wider-scale promotion of Generation-3 Rohu through supply chain development" under Rehabilitation Employment and Development for the Youth (READY) in districts: Bagerhat, Gopalgonj, Narail, Satkhira, Khulna, Jashore (FtF zone)
 - May 9, 2023: WF handed over G3 Rohu to the Department of Fisheries (DoF)
 
-<iframe src="g3_rohu" height="450" width="500"> Rice </iframe>
+<iframe src="g3_rohu" height="500" width="700"> G3 Rohu </iframe>
 
 
 ### CROP/ AQUACULTURE MANAGEMENT PRACTICES
