@@ -35,6 +35,8 @@ Phase II (October 2022): Some hatcheries in partnership with IDEA received G3 Ro
 Phase III (Feb-Sept 2023): Project "Wider-scale promotion of Generation-3 Rohu through supply chain development" under Rehabilitation Employment and Development for the Youth (READY) in districts: Bagerhat, Gopalgonj, Narail, Satkhira, Khulna, Jashore (FtF zone)
 May 9, 2023: WF handed over G3 Rohu to the Department of Fisheries (DoF)
 
+<iframe src="g3_rohu" height="300" width="450"> Rice </iframe>
+
 
 ### CROP/ AQUACULTURE MANAGEMENT PRACTICES
 
