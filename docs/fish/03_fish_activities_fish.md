@@ -29,11 +29,11 @@ In 1996, WorldFish, in collaboration with BFRI-FS, developed an improved strain 
 As part of the AIN project, the Carp Genetic Improvement Program (CGIP) was launched to develop faster-growing varieties of major carp species, including rohu, catla, and silver carp. A notable achievement was the development of the G3 Rohu Carp variety, which, as of 2023, demonstrated a 37% higher weight gain compared to the unimproved riverine rohu strain. Rohu hatchlings were distributed to commercial hatcheries in 2020-2021 for broodstock development, and by 2023, over 30 hatcheries across Bangladesh were maintaining these improved broodstock.
 
 Timeline for the Dissemination:
-Phase I: Bana and AIN (FtF area only; Rohu Genetic Improvement Program research farm in Jashore)
-Phase II (June 2022): On-farm trials in 19 commercial hatcheries in Jashore, Natore, and Rajshahi Districts
-Phase II (October 2022): Some hatcheries in partnership with IDEA received G3 Rohu (e.g. Hai Hatchery in Dinajpur)
-Phase III (Feb-Sept 2023): Project "Wider-scale promotion of Generation-3 Rohu through supply chain development" under Rehabilitation Employment and Development for the Youth (READY) in districts: Bagerhat, Gopalgonj, Narail, Satkhira, Khulna, Jashore (FtF zone)
-May 9, 2023: WF handed over G3 Rohu to the Department of Fisheries (DoF)
+- Phase I: Bana and AIN (FtF area only; Rohu Genetic Improvement Program research farm in Jashore)
+- Phase II (June 2022): On-farm trials in 19 commercial hatcheries in Jashore, Natore, and Rajshahi Districts
+- Phase II (October 2022): Some hatcheries in partnership with IDEA received G3 Rohu (e.g. Hai Hatchery in Dinajpur)
+- Phase III (Feb-Sept 2023): Project "Wider-scale promotion of Generation-3 Rohu through supply chain development" under Rehabilitation Employment and Development for the Youth (READY) in districts: Bagerhat, Gopalgonj, Narail, Satkhira, Khulna, Jashore (FtF zone)
+- May 9, 2023: WF handed over G3 Rohu to the Department of Fisheries (DoF)
 
 <iframe src="g3_rohu" height="300" width="450"> Rice </iframe>
 
