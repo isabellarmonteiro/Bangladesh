@@ -50,9 +50,8 @@ The interventions included:
 
 ### Parallel trends
 
-![Book logo](share_produce_SIS.png)
 <img src="share_produce_SIS.png" alt="Share of SIS Producing Households">
-<iframe src="share_produce_SIS" height="500" width="700"> Suchana Intervention Areas </iframe>
+
 
 
 
