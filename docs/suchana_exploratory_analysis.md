@@ -45,6 +45,17 @@ The interventions included:
 <br>
 <br>
 
+## Observable Charactersitics 
+
+- Carps, tilapia, SIS cultivated in the same pond
+- Dried small fish (production and consumption)
+- More harvests per pond
+- Mothers thinking it is OK to feed small fish to their young children
+- GIFT tilapia and G3 rohu (no way of checking this with the DiD)
+
+
+<br>
+<br>
 
 ## Exploratory Analysis
 
