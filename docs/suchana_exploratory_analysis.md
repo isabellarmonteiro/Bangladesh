@@ -6,8 +6,20 @@ permalink: /docs/suchana_exploratory_analysis
 ---
 
 
-
-Suchana (2016-2023) was a large-scale project in the Sylhet division focusing on multiple nutrition interventions. It reached 250,000 households over 7 years, with at least 75,000 of these also getting the aquaculture-related interventions, which were delivered by WorldFish. 
+{: .note-title }
+> **Suchana**
+>
+> Suchana (2016-2023) was a large-scale project in the Sylhet division focusing on multiple nutrition interventions. it reached 250,000 households over 7 years, with at least 75,000 of these also getting the aquaculture-related interventions, which were delivered by WorldFish. 
+ The interventions included:
+> 
+> - Encouraging the production of SIS;
+>
+> -  Encouraging the production of dried fish;
+> 
+> -  Disseminating carp-tilapia-SIS polyculture systems;
+> 
+> -  Encouraging the usage of improved management practices
+>
 
 ## Suchana in the BIHS
 
