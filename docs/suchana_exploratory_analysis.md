@@ -52,7 +52,7 @@ The interventions included:
 
 <img src="share_produce_SIS.png" alt="Share of SIS Producing Households">
 
-
+<img src="avg_number_harvests_pond.png" alt="Average Number of Harvests per Pond">
 
 
 <br>
