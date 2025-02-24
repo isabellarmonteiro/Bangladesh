@@ -8,7 +8,7 @@ permalink: /docs/suchana_exploratory_analysis
 ## Suchana's impact on the Production of Nutrient-rich SIS 
 
 {: .note-title }
-> Small Indigenous Species: A CGIAR-Led Nutritional Revival
+> Small Indigenous Species: A CGIAR-Led Revival
 >
 > Small indigenous species (SIS) are a naturally occurring dietary staple in Bangladesh. However, with the rise of commercial aquaculture, SIS populations declined significantly as farmers increasingly "cleaned" their ponds with pesticides. This practice, based on the belief that small, lower-yielding native fish competed with more marketable species like carp and tilapia, led to the widespread loss of SIS.
 > 
