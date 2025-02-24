@@ -51,7 +51,7 @@ The interventions included:
 - Dried small fish (production and consumption)
 - More harvests per pond
 - Tilapia and Carps ponds more productive (?)
-- Mothers thinking it is OK to feed small fish to their young children
+- Mothers thinking it is OK to feed small fish to their young children (no way of checking this with the DiD - R1 is missing)
 - GIFT tilapia and G3 rohu (no way of checking this with the DiD)
 
 
