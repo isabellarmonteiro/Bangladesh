@@ -24,7 +24,13 @@ The interventions included:
 
 ## Suchana in the BIHS
 
-Add table with number of treated unions + number of treated households (by wave)
+|                        | Wave 1 (2012) | Wave 2 (2015) | Wave 3 (2018) | Wave 4 (2024)          |
+|------------------------|--------------|--------------|--------------|------------------------|
+| **Treated Unions (total)** | 0            | 0            | 78           | 157 + 26 (replication) |
+| **Treated Unions (BIHS)**  | 0            | 0            | 12           | 18                     |
+| **# Treated households (BIHS)** | 0            | 0            | 257          | 390*                   |
+| **All households (BIHS)**  | 6,503        | 6,436        | 5,604        | ?                      |
+
 
 <iframe src="suchana_unions" height="500" width="700"> Suchana Intervention Areas </iframe>
 
