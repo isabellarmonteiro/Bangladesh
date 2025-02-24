@@ -48,8 +48,11 @@ The interventions included:
 
 ## Exploratory Analysis
 
-Add parallel trends
-Add TWFE regressions
+### Parallel trends
+
+<img src="share_produce_SIS.jpg" alt="Italian Trulli">
+<iframe src="share_produce_SIS" height="500" width="700"> Suchana Intervention Areas </iframe>
+
 
 
 <br>
