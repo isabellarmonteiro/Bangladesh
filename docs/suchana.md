@@ -6,7 +6,7 @@ permalink: /suchana/
 
 
 
-<iframe src="tilapia_2018" height="500" width="700"> Suchana Intervention Areas </iframe>
+<iframe src="tilapia_2018.html" height="500" width="700"> Suchana Intervention Areas </iframe>
 
 
 <br>
