@@ -48,6 +48,9 @@ The interventions included:
 
 ## Exploratory Analysis
 
+For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have access to the latest round). So instead of a staggered event study I am doing a TWFE, and considering the blue unions (treated between 2016 and 2018) as treatment.
+
+
 ### Parallel trends
 
 <img src="share_produce_SIS.png" alt="Share of SIS Producing Households">
