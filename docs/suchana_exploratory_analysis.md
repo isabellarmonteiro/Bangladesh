@@ -6,6 +6,8 @@ permalink: /docs/suchana_exploratory_analysis
 ---
 
 ## Suchana's impact on the Production of Nutrient-rich SIS 
+<br>
+
 
 {: .note-title }
 > Small Indigenous Species: A CGIAR-Led Revival
@@ -21,6 +23,11 @@ The interventions included:
 -  Encouraging the production of dried fish;
 -  Disseminating carp-tilapia-SIS polyculture systems;
 -  Encouraging the usage of improved management practices
+
+<br>
+<br>
+
+
 
 ## Suchana in the BIHS
 
