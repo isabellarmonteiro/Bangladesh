@@ -38,7 +38,7 @@ The interventions included:
 | **# Treated households (BIHS)** | 0            | 0            | 257          | 390*                   |
 | **All households (BIHS)**  | 6,503        | 6,436        | 5,604        | ?                      |
 
-* Based on the number of households in those unions in R3
+*Based on the number of households in those unions in R3
 
 <iframe src="suchana_unions" height="500" width="700"> Suchana Intervention Areas </iframe>
 
