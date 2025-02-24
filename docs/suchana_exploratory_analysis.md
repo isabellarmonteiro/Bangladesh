@@ -69,6 +69,8 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 <img src="avg_number_harvests_pond.png" alt="Average Number of Harvests per Pond">
 
+<img src="share_consume_dry_SIS.png" alt="Share of Households Consuming dried SIS">
+
 
 <br>
 
