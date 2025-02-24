@@ -11,7 +11,15 @@ Suchana (2016-2023) was a large-scale project in the Sylhet division focusing on
 
 ## Suchana in the BIHS
 
+Add table with number of treated unions + number of treated households (by wave)
+
 <iframe src="suchana_unions" height="500" width="700"> Suchana Intervention Areas </iframe>
+
+
+## Exploratory Analysis
+
+Add parallel trends
+Add TWFE regressions
 
 
 <br>
