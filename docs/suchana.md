@@ -2,7 +2,7 @@
 layout: default
 title: Suchana
 nav_order: 13
-permalink: /docs/suchana
+permalink: /docs/suchana_exploratory_analysis
 ---
 
 hello
