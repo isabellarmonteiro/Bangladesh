@@ -52,7 +52,7 @@ Suchana was implemented at the Union level (smallest possible admin unit). Howev
 <br>
 <br>
 
-## Observable Charactersitics 
+## Observable Characteristics 
 
 - Carps, tilapia, SIS cultivated in the same pond
 - Dried small fish (production and consumption)
