@@ -104,6 +104,8 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 | **Observations**    | 4,104 | 4,104 | 17,475 | 17,475 | 2,425 | 2,439 | 2,075 | 2,439 |
 | **R²**             | 0.6439 | 0.4468 | 0.4828 | 0.517 | 0.5011 | 0.4633 | 0.3922 | 0.4351 |
 
+Standard errors are clustered at the union level.
+
 ### Treatment at Upazila Level
 
 | Upazilla-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spent on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
@@ -115,6 +117,7 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 | **Observations**    | 4,104 | 4,104 | 17,475 | 17,475 | 2,425 | 2,439 | 2,075 | 2,439 |
 | **R²**             | 0.6439 | 0.4492 | 0.4831 | 0.5174 | 0.5011 | 0.4631 | 0.3922 | 0.435 |
 
+Standard errors are clustered at the union level. Clustering at upazila level does not change much (it just becomes more significant). But I chose to keep it at union level since actual treatment delivery by Worldfish was at union level.
 
 <br>
 <br>
