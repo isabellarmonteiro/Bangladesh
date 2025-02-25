@@ -100,6 +100,14 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 ### Treatment at Upazilla Level
 
+| Upazilla-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spend on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
+|----------------------|--------------|--------------|--------------|--------------|------------------------------|-------------------|---------------------------------|----------------------|
+| **Treated x Round 3** | 0.08* | 0.222*** | 0.078** | 0.09*** | -67.19 | 11.91*** | -84.5* | -0.036 |
+|                      | (0.049) | (0.053) | (0.038) | (0.034) | (70.4) | (3.583) | (49.3) | (0.0935) |
+| **Individual FE**    | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| **Time FE**         | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| **Observations**    | 4,104 | 4,104 | 17,475 | 17,475 | 2,425 | 2,439 | 2,075 | 2,439 |
+| **R²**             | 0.6439 | 0.4492 | 0.4831 | 0.5174 | 0.5011 | 0.4631 | 0.3922 | 0.435 |
 
 
 <br>
