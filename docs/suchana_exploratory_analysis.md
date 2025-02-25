@@ -31,7 +31,7 @@ The interventions included:
 
 ## Suchana in the BIHS
 
-Suchana was implemented at the Union level (smallest possible admin unit). However, many of these unions are not present in the BIHS. If one considers that the entire Upazila was treated once a union inside it received the intervention (which would make sense because of spillovers), we get a bit more power. I ran the exploratory analyses in both ways.
+Suchana was implemented at the Union level (smallest possible admin unit). However, many of these unions are not present in the BIHS. If one considers that the entire Upazila was treated once a union inside it received the intervention (which would make sense because of spillovers), we get a bit more power. I ran the exploratory analyses both ways.
 
 |                        | Wave 1 (2012) | Wave 2 (2015) | Wave 3 (2018) | Wave 4 (2024)          |
 |------------------------|--------------|--------------|--------------|------------------------|
