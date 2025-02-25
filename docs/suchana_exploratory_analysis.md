@@ -42,10 +42,10 @@ The interventions included:
 *Based on the number of households in those unions in R3
 
 ### Treatment at the Union level
-<iframe src="suchana_unions" height="350" width="490"> Suchana Intervention Areas </iframe>
+<iframe src="suchana_unions" height="400" width="560"> Suchana Intervention Areas </iframe>
 
 ### Treatment at the Upazila level
-<iframe src="suchana_upazilla" height="350" width="490"> Suchana Intervention Areas </iframe>
+<iframe src="suchana_upazilla" height="400" width="560"> Suchana Intervention Areas </iframe>
 
 <br>
 <br>
