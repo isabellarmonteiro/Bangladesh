@@ -80,6 +80,8 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 <img src="combined_average_yields.png" alt="Avg. Spent on Fish Feed per kg produced (Carp ponds)">
 
+<img src="combined_carp_SIS_poly_avg.png" alt="Share of Households Growing Carps and SIS in same pond">
+
 
 <br>
 
@@ -87,15 +89,14 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 ### Treatment at Union Level (likely underpowered for R3)
 
-|                           | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per pond (kg) | (6) Number of Harvest |
-|---------------------------|----------------|------------------|------------------|----------------------|----------------------------------|----------------------|
-| **Treated x Round 3**     | 0.095          | 0.21***          | 0.028            | 0.047                | -63.42                           | 14.46***             |
-|                           | (0.067)        | (0.0468)         | (0.0349)         | (0.034)              | (69.7)                           | (3.35)               |
-| **Ind. Fixed Effects**         | Yes            | Yes              | Yes              | Yes                  | Yes                              | Yes                  |
-| **Time Fixed Effects**         | Yes            | Yes              | Yes              | Yes                  | Yes                              | Yes                  |
-| **Observations**          | 4,104          | 4,104            | 17,475           | 17,475               | 2,425                            | 2,439                |
-| **R²**                    | 0.6439         | 0.4468           | 0.4828           | 0.517                | 0.5011                           | 0.4633               |
-
+| Union-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spend on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
+|----------------------|--------------|--------------|--------------|--------------|------------------------------|-------------------|---------------------------------|----------------------|
+| **Treated x Round 3** | 0.095 | 0.21*** | 0.028 | 0.047 | -63.42 | 14.46*** | -80.5* | -0.016 |
+|                      | (0.067) | (0.0468) | (0.0349) | (0.034) | (69.7) | (3.35) | (48.7) | (0.114) |
+| **Individual FE**    | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| **Time FE**         | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| **Observations**    | 4,104 | 4,104 | 17,475 | 17,475 | 2,425 | 2,439 | 2,075 | 2,439 |
+| **R²**             | 0.6439 | 0.4468 | 0.4828 | 0.517 | 0.5011 | 0.4633 | 0.3922 | 0.4351 |
 
 ### Treatment at Upazilla Level
 
