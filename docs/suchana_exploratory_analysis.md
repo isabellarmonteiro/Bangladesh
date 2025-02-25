@@ -85,7 +85,7 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 ### TWFE Preliminary Results
 
-### Treatment at Union Level (low-powered for R3 alone)
+### Treatment at Union Level (likely underpowered for R3)
 
 |                           | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per pond (kg) | (6) Number of Harvest |
 |---------------------------|----------------|------------------|------------------|----------------------|----------------------------------|----------------------|
