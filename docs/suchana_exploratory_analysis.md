@@ -95,7 +95,7 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 ### Treatment at Union Level (likely underpowered for R3)
 
-| Union-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spend on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
+| Union-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spent on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
 |----------------------|--------------|--------------|--------------|--------------|------------------------------|-------------------|---------------------------------|----------------------|
 | **Treated x Round 3** | 0.095 | 0.21*** | 0.028 | 0.047 | -63.42 | 14.46*** | -80.5* | -0.016 |
 |                      | (0.067) | (0.0468) | (0.0349) | (0.034) | (69.7) | (3.35) | (48.7) | (0.114) |
@@ -106,7 +106,7 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 ### Treatment at Upazila Level
 
-| Upazilla-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spend on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
+| Upazilla-level Treatment | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per Pond (kg) | (6) Number of Harvest | (7) Avg Spent on Feed/kg Harvest (Carp Ponds) | (8) Carp-SIS Polyculture |
 |----------------------|--------------|--------------|--------------|--------------|------------------------------|-------------------|---------------------------------|----------------------|
 | **Treated x Round 3** | 0.08* | 0.222*** | 0.078** | 0.09*** | -67.19 | 11.91*** | -84.5* | -0.036 |
 |                      | (0.049) | (0.053) | (0.038) | (0.034) | (70.4) | (3.583) | (49.3) | (0.0935) |
