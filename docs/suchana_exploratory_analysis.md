@@ -35,7 +35,8 @@ The interventions included:
 |------------------------|--------------|--------------|--------------|------------------------|
 | **Treated Unions (total)** | 0            | 0            | 78           | 157 + 26 (replication) |
 | **Treated Unions (BIHS)**  | 0            | 0            | 12           | 18                     |
-| **# Treated households (BIHS)** | 0            | 0            | 257          | 390*                   |
+| **# Treated households (BIHS)** - Union level treatment | 0            | 0            | 257          | 390*                   |
+| **# Treated households (BIHS)** - Upazila level treatment| 0            | 0            | 370         | 449*                   |
 | **All households (BIHS)**  | 6,503        | 6,436        | 5,604        | ?                      |
 
 *Based on the number of households in those unions in R3
