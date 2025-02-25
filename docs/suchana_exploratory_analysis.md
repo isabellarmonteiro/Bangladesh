@@ -65,28 +65,38 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 ### Parallel trends
 
-<img src="share_produce_SIS.png" alt="Share of SIS Producing Households">
+<img src="combined_share_SIS.png" alt="Share of SIS Producing Households">
 
-<img src="avg_number_harvests_pond.png" alt="Average Number of Harvests per Pond">
+<img src="combined_share_mola.png" alt="Share of Mola Producing Households">
 
-<img src="share_consume_dry_SIS.png" alt="Share of Households Consuming dried SIS">
+<img src="combined_share_consume_dry_SIS.png" alt="Share of Households Consuming dried SIS">
 
-<img src="avg_harvest_pond.png" alt="Average Harvest per Pond">
+<img src="combined_share_consume_SIS.png" alt="Share of Households Consuming SIS">
+
+<img src="combined_avg_harvest_per_pond.png" alt="Average Number of Harvests per Pond">
+
+<img src="combined_average_yields.png" alt="Average Harvest per Pond">
+
+<img src="combined_average_yields.png" alt="Avg. Spent on Fish Feed per kg produced (Carp ponds)">
 
 
 <br>
 
 ### TWFE Preliminary Results
 
-
+### Treatment at Union Level (low-powered for R3 alone)
 
 |                           | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per pond (kg) | (6) Number of Harvest |
 |---------------------------|----------------|------------------|------------------|----------------------|----------------------------------|----------------------|
 | **Treated x Round 3**     | 0.095          | 0.21***          | 0.028            | 0.047                | -63.42                           | 14.46***             |
 |                           | (0.067)        | (0.0468)         | (0.0349)         | (0.034)              | (69.7)                           | (3.35)               |
-| **Fixed Effects**         | Yes            | Yes              | Yes              | Yes                  | Yes                              | Yes                  |
+| **Ind. Fixed Effects**         | Yes            | Yes              | Yes              | Yes                  | Yes                              | Yes                  |
+| **Time Fixed Effects**         | Yes            | Yes              | Yes              | Yes                  | Yes                              | Yes                  |
 | **Observations**          | 4,104          | 4,104            | 17,475           | 17,475               | 2,425                            | 2,439                |
 | **R²**                    | 0.6439         | 0.4468           | 0.4828           | 0.517                | 0.5011                           | 0.4633               |
+
+
+### Treatment at Upazilla Level
 
 
 
