@@ -80,6 +80,8 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 
 <br>
+
+
 |                           | (1) Produce SIS | (2) Produce Mola | (3) Consumes SIS | (4) Consumes Dry SIS | (5) Average Harvest per pond (kg) | (6) Number of Harvest |
 |---------------------------|----------------|------------------|------------------|----------------------|----------------------------------|----------------------|
 | **Treated x Round 3**     | 0.095          | 0.21***          | 0.028            | 0.047                | -63.42                           | 14.46***             |
@@ -87,6 +89,7 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 | **Fixed Effects**         | Yes            | Yes              | Yes              | Yes                  | Yes                              | Yes                  |
 | **Observations**          | 4,104          | 4,104            | 17,475           | 17,475               | 2,425                            | 2,439                |
 | **R²**                    | 0.6439         | 0.4468           | 0.4828           | 0.517                | 0.5011                           | 0.4633               |
+
 
 
 <br>
