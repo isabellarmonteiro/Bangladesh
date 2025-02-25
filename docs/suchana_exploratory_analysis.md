@@ -75,7 +75,7 @@ For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have acce
 
 <img src="combined_avg_harvest_per_pond.png" alt="Average Number of Harvests per Pond">
 
-<img src="combined_average_yields.png" alt="Average Harvest per Pond">
+<img src="combined_l1_11.png" alt="Average Harvest per Pond">
 
 <img src="combined_average_yields.png" alt="Avg. Spent on Fish Feed per kg produced (Carp ponds)">
 
