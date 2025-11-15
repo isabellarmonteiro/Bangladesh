@@ -29,10 +29,13 @@ The interventions included:
 <br>
 
 <style>
-
-  <style>
 * {
   box-sizing: border-box;
+}
+
+/* Set a background color */
+body {
+  background-color: #F7F2F2;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -47,7 +50,7 @@ The interventions included:
   content: '';
   position: absolute;
   width: 4px;
-  background-color: #ffffff;
+  background-color: white;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -70,7 +73,7 @@ The interventions included:
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #085C08;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -125,28 +128,23 @@ The interventions included:
   background-color: white;
   position: relative;
   border-radius: 6px;
-
-  /* Make the box stand out */
-  border: 1px solid rgba(0,0,0,0.07);
-  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
-
-  /* Place the timeline line to the left */
+/* Place the timelime to the left */
   .timeline::after {
     left: 31px;
   }
 
-  /* Full-width containers */
+/* Full-width containers */
   .container {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
 
-  /* Make sure arrows are pointing leftwards */
+/* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
     border: medium solid white;
@@ -154,16 +152,15 @@ The interventions included:
     border-color: transparent white transparent transparent;
   }
 
-  /* Make sure all circles align */
+/* Make sure all circles are at the same spot */
   .left::after, .right::after {
     left: 15px;
   }
 
-  /* Make all right containers act like left ones */
+/* Make all right containers behave like the left ones */
   .right {
     left: 0%;
   }
-}
 </style>
 
 
