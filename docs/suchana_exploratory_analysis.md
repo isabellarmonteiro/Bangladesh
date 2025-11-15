@@ -29,14 +29,7 @@ The interventions included:
 <br>
 
 <style>
-* {
-  box-sizing: border-box;
-}
 
-/* Set a background color */
-body {
-  background-color: #FAFCFA;
-}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
@@ -50,7 +43,7 @@ body {
   content: '';
   position: absolute;
   width: 4px;
-  background-color: white;
+  background-color: gray;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -72,7 +65,7 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: white;
+  background-color: gray;
   border: 4px solid #085C08;
   top: 15px;
   border-radius: 50%;
@@ -98,9 +91,9 @@ body {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid white;
+  border: medium solid gray;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent gray;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -112,9 +105,9 @@ body {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid white;
+  border: medium solid gray;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent gray transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -125,7 +118,7 @@ body {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: white;
+  background-color: gray;
   position: relative;
   border-radius: 6px;
 }
@@ -147,9 +140,9 @@ body {
 /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
-    border: medium solid white;
+    border: medium solid gray;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent gray transparent transparent;
   }
 
 /* Make sure all circles are at the same spot */
