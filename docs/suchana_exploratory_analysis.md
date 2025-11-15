@@ -29,131 +29,105 @@ The interventions included:
 <br>
 
 <style>
-
-
-/* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
-  max-width: 1200px;
+  max-width: 900px; /* was 1200 */
   margin: 0 auto;
 }
 
-/* The actual timeline (the vertical ruler) */
+/* vertical line */
 .timeline::after {
-  content: '';
+  content: "";
   position: absolute;
-  width: 4px;
-  background-color: #F0F0F0;
+  width: 3px; /* thinner */
+  background: #F0F0F0;
   top: 0;
   bottom: 0;
   left: 50%;
-  margin-left: -3px;
+  margin-left: -2px;
 }
 
-/* Container around content */
 .container {
-  padding: 10px 40px;
   position: relative;
-  background-color: inherit;
-  width: 50%;
+  width: 45%; /* smaller containers */
+  padding: 6px 25px; /* tighter padding */
+  background: inherit;
 }
 
-/* The circles on the timeline */
+/* smaller circles */
 .container::after {
-  content: '';
+  content: "";
   position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -17px;
-  background-color: #F0F0F0;
-  border: 4px solid #085C08;
-  top: 15px;
+  width: 16px;      /* smaller */
+  height: 16px;     /* smaller */
+  top: 12px;
+  right: -11px;     /* adjust based on size */
+  background: #F0F0F0;
+  border: 3px solid #085C08; /* thinner border */
   border-radius: 50%;
   z-index: 1;
 }
 
-/* Place the container to the left */
-.left {
-  left: 0;
-}
+.left { left: 0; }
+.right { left: 50%; }
 
-/* Place the container to the right */
-.right {
-  left: 50%;
-}
-
-/* Add arrows to the left container (pointing right) */
-.left::before {
-  content: " ";
-  height: 0;
+/* smaller arrows */
+.left::before,
+.right::before {
+  content: "";
   position: absolute;
-  top: 22px;
+  top: 18px;
   width: 0;
+  height: 0;
   z-index: 1;
-  right: 30px;
-  border: medium solid #F0F0F0;
-  border-width: 10px 0 10px 10px;
+  border: solid #F0F0F0;
+}
+
+.left::before {
+  right: 22px;
+  border-width: 7px 0 7px 7px;
   border-color: transparent transparent transparent #F0F0F0;
 }
 
-/* Add arrows to the right container (pointing left) */
 .right::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  left: 30px;
-  border: medium solid #F0F0F0;
-  border-width: 10px 10px 10px 0;
+  left: 22px;
+  border-width: 7px 7px 7px 0;
   border-color: transparent #F0F0F0 transparent transparent;
 }
 
-/* Fix the circle for containers on the right side */
 .right::after {
-  left: -16px;
+  left: -11px; /* match smaller circle */
 }
 
-/* The actual content */
 .content {
-  padding: 20px 30px;
-  background-color: #F0F0F0;
+  padding: 14px 20px; /* smaller boxes */
+  background: #F0F0F0;
   position: relative;
   border-radius: 6px;
 }
 
-/* Media queries - Responsive timeline on screens less than 600px wide */
+/* responsive */
 @media screen and (max-width: 600px) {
-/* Place the timelime to the left */
-  .timeline::after {
-    left: 31px;
-  }
+  .timeline::after { left: 25px; }
 
-/* Full-width containers */
   .container {
     width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
+    padding: 6px 20px 6px 55px;
   }
 
-/* Make sure that all arrows are pointing leftwards */
   .container::before {
-    left: 60px;
-    border: medium solid #F0F0F0;
-    border-width: 10px 10px 10px 0;
+    left: 45px;
+    border-width: 7px 7px 7px 0;
     border-color: transparent #F0F0F0 transparent transparent;
   }
 
-/* Make sure all circles are at the same spot */
   .left::after, .right::after {
-    left: 15px;
+    left: 10px; /* smaller circle position */
   }
 
-/* Make all right containers behave like the left ones */
-  .right {
-    left: 0%;
-  }
+  .right { left: 0; }
+}
+
 </style>
 
 
