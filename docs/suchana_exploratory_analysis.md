@@ -5,7 +5,7 @@ nav_order: 13
 permalink: /docs/suchana_exploratory_analysis
 ---
 
-## Suchana's impact on the Production of Nutrient-rich SIS 
+## Suchana's effect on the Production of Nutrient-rich SIS 
 <br>
 
 
