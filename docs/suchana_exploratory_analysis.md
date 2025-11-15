@@ -51,45 +51,45 @@ The interventions included:
     </div>
   </div>
 
-  <div class="container right">
+  <div class="container left">
     <div class="content small-text">
       <h4>2015</h4>
       <p>BIHS R2</p>
     </div>
   </div>
 
-  <div class="container left">
+  <div class="container right">
     <div class="content small-text">
       <h4>2016</h4>
-      <p>Suchana starts in the original locations (Sylhet and Moulvibazar districts)</p>
+      <p>Suchana starts in the original locations</p>
     </div>
   </div>
 
-  <div class="container right">
+  <div class="container left">
     <div class="content small-text">
       <h4>2018</h4>
       <p>BIHS R3</p>
     </div>
   </div>
 
-  <div class="container left">
+  <div class="container right">
     <div class="content small-text">
       <h4>2020</h4>
-      <p>Replication starts in Sunamganj and Habiganj districts</p>
+      <p>Suchana starts in replication areas</p>
     </div>
   </div>
 
   <div class="container right">
     <div class="content small-text">
       <h4>2022</h4>
-      <p>End of activities in Sylhet and Moulvibazar (December)</p>
+      <p>End of original activities (December)</p>
     </div>
   </div>
 
-  <div class="container left">
+  <div class="container right">
     <div class="content small-text">
       <h4>2023</h4>
-      <p>End of activities in replication area</p>
+      <p>End of replication activities</p>
     </div>
   </div>
 
