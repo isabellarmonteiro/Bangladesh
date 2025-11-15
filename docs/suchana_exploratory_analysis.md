@@ -192,7 +192,6 @@ The interventions included:
     <div class="content">
       <h2>2022</h2>
       <p>End of activities in Sylhet and Moulvibazar (december) </p>
-    </div>
   </div>
 
  <div class="container left">
