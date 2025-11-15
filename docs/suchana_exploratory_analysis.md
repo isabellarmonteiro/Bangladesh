@@ -29,15 +29,7 @@ The interventions included:
 <br>
 
 <style>
-* {
-  box-sizing: border-box;
-}
 
-/* Set a background color */
-body {
-  background-color: #474e5d;
-  font-family: Helvetica, sans-serif;
-}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
