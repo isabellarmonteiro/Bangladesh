@@ -35,7 +35,7 @@ The interventions included:
 
 /* Set a background color */
 body {
-  background-color: #F7F2F2;
+  background-color: #FAFCFA;
 }
 
 /* The actual timeline (the vertical ruler) */
