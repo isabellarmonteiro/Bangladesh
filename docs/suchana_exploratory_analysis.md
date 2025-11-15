@@ -244,7 +244,7 @@ Suchana was implemented at the Union level (smallest possible admin unit). Howev
 - More harvests per pond
 - Tilapia and Carps ponds more productive (?)
 - Mothers thinking it is OK to feed small fish to their young children (no way of checking parallel trends - R1 is missing)
-- GIFT tilapia and G3 rohu (no way of checking this with the DiD)
+- GIFT tilapia and G3 rohu (no way of checking this, since no data on strains)
 
 
 <br>
