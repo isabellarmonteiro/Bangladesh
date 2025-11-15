@@ -43,7 +43,7 @@ The interventions included:
   content: '';
   position: absolute;
   width: 4px;
-  background-color: #CDD4CD;
+  background-color: #F0F0F0;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -65,7 +65,7 @@ The interventions included:
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #CDD4CD;
+  background-color: #F0F0F0;
   border: 4px solid #085C08;
   top: 15px;
   border-radius: 50%;
@@ -91,9 +91,9 @@ The interventions included:
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid #CDD4CD;
+  border: medium solid #F0F0F0;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #CDD4CD;
+  border-color: transparent transparent transparent #F0F0F0;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -105,9 +105,9 @@ The interventions included:
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid #CDD4CD;
+  border: medium solid #F0F0F0;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #CDD4CD transparent transparent;
+  border-color: transparent #F0F0F0 transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -118,7 +118,7 @@ The interventions included:
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: #CDD4CD;
+  background-color: #F0F0F0;
   position: relative;
   border-radius: 6px;
 }
@@ -140,9 +140,9 @@ The interventions included:
 /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
-    border: medium solid #CDD4CD;
+    border: medium solid #F0F0F0;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #CDD4CD transparent transparent;
+    border-color: transparent #F0F0F0 transparent transparent;
   }
 
 /* Make sure all circles are at the same spot */
