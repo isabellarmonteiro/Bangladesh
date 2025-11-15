@@ -46,7 +46,7 @@ The interventions included:
 .timeline::after {
   content: '';
   position: absolute;
-  width: 6px;
+  width: 4px;
   background-color: #ffffff;
   top: 0;
   bottom: 0;
@@ -166,12 +166,11 @@ The interventions included:
 }
 </style>
 
-# My Timeline
 
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2017</h2>
+      <h2>2016</h2>
       <p>Lorem ipsum..</p>
     </div>
   </div>
