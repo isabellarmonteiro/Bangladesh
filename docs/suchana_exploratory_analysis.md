@@ -29,163 +29,77 @@ The interventions included:
 <br>
 
 <style>
-.timeline {
-  position: relative;
-  max-width: 900px; /* was 1200 */
-  margin: 0 auto;
+/* The actual timeline (the vertical ruler) */ .timeline { position: relative; max-width: 1200px; margin: 0 auto; } /* The actual timeline (the vertical ruler) */ .timeline::after { content: ''; position: absolute; width: 4px; background-color: #F0F0F0; top: 0; bottom: 0; left: 50%; margin-left: -3px; } /* Container around content */ .container { padding: 10px 40px; position: relative; background-color: inherit; width: 50%; } /* The circles on the timeline */ .container::after { content: ''; position: absolute; width: 25px; height: 25px; right: -17px; background-color: #F0F0F0; border: 4px solid #085C08; top: 15px; border-radius: 50%; z-index: 1; } /* Place the container to the left */ .left { left: 0; } /* Place the container to the right */ .right { left: 50%; } /* Add arrows to the left container (pointing right) */ .left::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; right: 30px; border: medium solid #F0F0F0; border-width: 10px 0 10px 10px; border-color: transparent transparent transparent #F0F0F0; } /* Add arrows to the right container (pointing left) */ .right::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; left: 30px; border: medium solid #F0F0F0; border-width: 10px 10px 10px 0; border-color: transparent #F0F0F0 transparent transparent; } /* Fix the circle for containers on the right side */ .right::after { left: -16px; } /* The actual content */ .content { padding: 20px 30px; background-color: #F0F0F0; position: relative; border-radius: 6px; } /* Media queries - Responsive timeline on screens less than 600px wide */ @media screen and (max-width: 600px) { /* Place the timelime to the left */ .timeline::after { left: 31px; } /* Full-width containers */ .container { width: 100%; padding-left: 70px; padding-right: 25px; } /* Make sure that all arrows are pointing leftwards */ .container::before { left: 60px; border: medium solid #F0F0F0; border-width: 10px 10px 10px 0; border-color: transparent #F0F0F0 transparent transparent; } /* Make sure all circles are at the same spot */ .left::after, .right::after { left: 15px; } /* Make all right containers behave like the left ones */ .right { left: 0%; }
+.small-text h4 {
+  font-size: 14px; /* smaller title */
+  margin-bottom: 4px;
 }
 
-/* vertical line */
-.timeline::after {
-  content: "";
-  position: absolute;
-  width: 3px; /* thinner */
-  background: #F0F0F0;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -2px;
+.small-text p {
+  font-size: 12px; /* smaller body text */
+  line-height: 1.3;
 }
-
-.container {
-  position: relative;
-  width: 45%; /* smaller containers */
-  padding: 6px 25px; /* tighter padding */
-  background: inherit;
-}
-
-/* smaller circles */
-.container::after {
-  content: "";
-  position: absolute;
-  width: 16px;      /* smaller */
-  height: 16px;     /* smaller */
-  top: 12px;
-  right: -11px;     /* adjust based on size */
-  background: #F0F0F0;
-  border: 3px solid #085C08; /* thinner border */
-  border-radius: 50%;
-  z-index: 1;
-}
-
-.left { left: 0; }
-.right { left: 50%; }
-
-/* smaller arrows */
-.left::before,
-.right::before {
-  content: "";
-  position: absolute;
-  top: 18px;
-  width: 0;
-  height: 0;
-  z-index: 1;
-  border: solid #F0F0F0;
-}
-
-.left::before {
-  right: 22px;
-  border-width: 7px 0 7px 7px;
-  border-color: transparent transparent transparent #F0F0F0;
-}
-
-.right::before {
-  left: 22px;
-  border-width: 7px 7px 7px 0;
-  border-color: transparent #F0F0F0 transparent transparent;
-}
-
-.right::after {
-  left: -11px; /* match smaller circle */
-}
- .left::after { right: +1px; }
-
-.content {
-  padding: 14px 20px; /* smaller boxes */
-  background: #F0F0F0;
-  position: relative;
-  border-radius: 6px;
-}
-
-/* responsive */
-@media screen and (max-width: 600px) {
-  .timeline::after { left: 25px; }
-
-  .container {
-    width: 100%;
-    padding: 6px 20px 6px 55px;
-  }
-
-  .container::before {
-    left: 45px;
-    border-width: 7px 7px 7px 0;
-    border-color: transparent #F0F0F0 transparent transparent;
-  }
-
-  .left::after, .right::after {
-    left: 10px; /* smaller circle position */
-  }
-
-  .right { left: 0; }
-}
-
 </style>
 
 
 <div class="timeline">
-   <div class="container left">
-    <div class="content">
-      <h2>2012</h2>
+
+  <div class="container left">
+    <div class="content small-text">
+      <h4>2012</h4>
       <p>BIHS R1</p>
     </div>
   </div>
+
   <div class="container right">
-    <div class="content">
-      <h2>2015</h2>
+    <div class="content small-text">
+      <h4>2015</h4>
       <p>BIHS R2</p>
     </div>
   </div>
+
   <div class="container left">
-    <div class="content">
-      <h2>2016</h2>
+    <div class="content small-text">
+      <h4>2016</h4>
       <p>Suchana starts in the original locations (Sylhet and Moulvibazar districts)</p>
     </div>
   </div>
-  
+
   <div class="container right">
-    <div class="content">
-      <h3>2018</h3>
+    <div class="content small-text">
+      <h4>2018</h4>
       <p>BIHS R3</p>
     </div>
   </div>
-  
- <div class="container left">
-    <div class="content">
-      <h2>2020</h2>
-      <p>Replication starts in Sunamganj and Habiganj districts </p>
-    </div>
-</div>
 
-<div class="container right">
-    <div class="content">
-      <h2>2022</h2>
-      <p>End of activities in Sylhet and Moulvibazar (december) </p>
+  <div class="container left">
+    <div class="content small-text">
+      <h4>2020</h4>
+      <p>Replication starts in Sunamganj and Habiganj districts</p>
+    </div>
   </div>
-</div>
- <div class="container left">
-    <div class="content">
-      <h2>2023</h2>
-      <p> End of activities in replication area </p>
-    </div>
-</div>
- <div class="container left">
-    <div class="content">
-      <h2>2024</h2>
-      <p> BIHS R4 </p>
-    </div>
-</div>
 
-  
+  <div class="container right">
+    <div class="content small-text">
+      <h4>2022</h4>
+      <p>End of activities in Sylhet and Moulvibazar (December)</p>
+    </div>
+  </div>
+
+  <div class="container left">
+    <div class="content small-text">
+      <h4>2023</h4>
+      <p>End of activities in replication area</p>
+    </div>
+  </div>
+
+  <div class="container left">
+    <div class="content small-text">
+      <h4>2024</h4>
+      <p>BIHS R4</p>
+    </div>
+  </div>
+
 </div>
 
 
