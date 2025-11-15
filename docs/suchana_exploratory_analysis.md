@@ -30,6 +30,9 @@ The interventions included:
 
 <style>
 
+* {
+  box-sizing: border-box;
+}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
