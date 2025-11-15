@@ -30,6 +30,7 @@ The interventions included:
 
 <style>
 
+  <style>
 * {
   box-sizing: border-box;
 }
@@ -46,7 +47,7 @@ The interventions included:
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #ffffff;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -124,23 +125,28 @@ The interventions included:
   background-color: white;
   position: relative;
   border-radius: 6px;
+
+  /* Make the box stand out */
+  border: 1px solid rgba(0,0,0,0.07);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
-/* Place the timelime to the left */
+
+  /* Place the timeline line to the left */
   .timeline::after {
     left: 31px;
   }
 
-/* Full-width containers */
+  /* Full-width containers */
   .container {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
 
-/* Make sure that all arrows are pointing leftwards */
+  /* Make sure arrows are pointing leftwards */
   .container::before {
     left: 60px;
     border: medium solid white;
@@ -148,12 +154,12 @@ The interventions included:
     border-color: transparent white transparent transparent;
   }
 
-/* Make sure all circles are at the same spot */
+  /* Make sure all circles align */
   .left::after, .right::after {
     left: 15px;
   }
 
-/* Make all right containers behave like the left ones */
+  /* Make all right containers act like left ones */
   .right {
     left: 0%;
   }
