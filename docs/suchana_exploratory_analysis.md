@@ -29,16 +29,122 @@ The interventions included:
 <br>
 
 <style>
-/* The actual timeline (the vertical ruler) */ .timeline { position: relative; max-width: 1200px; margin: 0 auto; } /* The actual timeline (the vertical ruler) */ .timeline::after { content: ''; position: absolute; width: 4px; background-color: #F0F0F0; top: 0; bottom: 0; left: 50%; margin-left: -3px; } /* Container around content */ .container { padding: 10px 40px; position: relative; background-color: inherit; width: 50%; } /* The circles on the timeline */ .container::after { content: ''; position: absolute; width: 15px; height: 15px; right: -13px; background-color: #F0F0F0; border: 4px solid #085C08; top: 15px; border-radius: 50%; z-index: 1; } /* Place the container to the left */ .left { left: 0; } /* Place the container to the right */ .right { left: 50%; } /* Add arrows to the left container (pointing right) */ .left::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; right: 30px; border: medium solid #F0F0F0; border-width: 10px 0 10px 10px; border-color: transparent transparent transparent #F0F0F0; } /* Add arrows to the right container (pointing left) */ .right::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; left: 30px; border: medium solid #F0F0F0; border-width: 10px 10px 10px 0; border-color: transparent #F0F0F0 transparent transparent; } /* Fix the circle for containers on the right side */ .right::after { left: -13px; } /* The actual content */ .content { padding: 20px 30px; background-color: #F0F0F0; position: relative; border-radius: 6px; } /* Media queries - Responsive timeline on screens less than 600px wide */ @media screen and (max-width: 600px) { /* Place the timelime to the left */ .timeline::after { left: 31px; } /* Full-width containers */ .container { width: 100%; padding-left: 70px; padding-right: 25px; } /* Make sure that all arrows are pointing leftwards */ .container::before { left: 60px; border: medium solid #F0F0F0; border-width: 10px 10px 10px 0; border-color: transparent #F0F0F0 transparent transparent; } /* Make sure all circles are at the same spot */ .left::after, .right::after { left: 15px; } /* Make all right containers behave like the left ones */ .right { left: 0%; }
+/* Timeline wrapper */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Vertical line */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 4px;
+  background-color: #F0F0F0;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content — LESS EMPTY SPACE */
+.container {
+  padding: 4px 28px;       /* ↓ was 10px 40px */
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* Circles — kept same size */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  right: -13px;
+  background-color: #F0F0F0;
+  border: 4px solid #085C08;
+  top: 12px;               /* ↓ slightly reduced */
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.left { left: 0; }
+.right { left: 50%; }
+
+/* Arrows — repositioned for smaller padding */
+.left::before {
+  content: " ";
+  position: absolute;
+  top: 18px;               /* ↓ was 22px */
+  right: 22px;             /* ↓ was 30px */
+  border: medium solid #F0F0F0;
+  border-width: 8px 0 8px 8px;   /* ↓ smaller */
+  border-color: transparent transparent transparent #F0F0F0;
+}
+
+.right::before {
+  content: " ";
+  position: absolute;
+  top: 18px;
+  left: 22px;              /* ↓ was 30px */
+  border: medium solid #F0F0F0;
+  border-width: 8px 8px 8px 0;
+  border-color: transparent #F0F0F0 transparent transparent;
+}
+
+/* Fix circle position right side */
+.right::after {
+  left: -13px;
+}
+
+/* Actual content box — LESS EMPTY SPACE */
+.content {
+  padding: 10px 18px;      /* ↓ was 20px 30px */
+  background-color: #F0F0F0;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Text sizes kept the same */
 .small-text h4 {
-  font-size: 14px; /* smaller title */
+  font-size: 14px;
   margin-bottom: 4px;
 }
 
 .small-text p {
-  font-size: 12px; /* smaller body text */
+  font-size: 12px;
   line-height: 1.3;
 }
+
+/* Mobile layout */
+@media screen and (max-width: 600px) {
+
+  .timeline::after {
+    left: 31px;
+  }
+
+  .container {
+    width: 100%;
+    padding: 4px 20px 4px 55px;  /* tightened */
+  }
+
+  .container::before {
+    left: 50px;
+    border-width: 8px 8px 8px 0;
+    border-color: transparent #F0F0F0 transparent transparent;
+  }
+
+  .left::after, .right::after {
+    left: 15px;
+  }
+
+  .right {
+    left: 0%;
+  }
+}
+
 </style>
 
 
