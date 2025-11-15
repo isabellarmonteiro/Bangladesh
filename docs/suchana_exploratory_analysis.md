@@ -98,6 +98,7 @@ The interventions included:
 .right::after {
   left: -11px; /* match smaller circle */
 }
+ .left::after { left: +11px; }
 
 .content {
   padding: 14px 20px; /* smaller boxes */
