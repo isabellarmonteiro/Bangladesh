@@ -62,7 +62,7 @@ The interventions included:
   position: absolute;
   width: 15px;
   height: 15px;
-  right: -13px;
+  right: -12px;
   background-color: #F0F0F0;
   border: 4px solid #085C08;
   top: 12px;               /* ↓ slightly reduced */
@@ -96,7 +96,7 @@ The interventions included:
 
 /* Fix circle position right side */
 .right::after {
-  left: -13px;
+  left: -12px;
 }
 
 /* Actual content box — LESS EMPTY SPACE */
