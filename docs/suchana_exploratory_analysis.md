@@ -176,36 +176,39 @@ The interventions included:
       <p>Suchana starts in the original locations (Sylhet and Moulvibazar districts)</p>
     </div>
   </div>
+  
   <div class="container right">
     <div class="content">
       <h2>2018</h2>
       <p>BIHS R3</p>
     </div>
   </div>
+  
  <div class="container left">
     <div class="content">
       <h2>2020</h2>
       <p>Replication starts in Sunamganj and Habiganj districts </p>
     </div>
+</div>
 
 <div class="container right">
     <div class="content">
       <h2>2022</h2>
       <p>End of activities in Sylhet and Moulvibazar (december) </p>
   </div>
-
+</div>
  <div class="container left">
     <div class="content">
       <h2>2023</h2>
       <p> End of activities in replication area </p>
     </div>
-
+</div>
  <div class="container left">
     <div class="content">
       <h2>2024</h2>
       <p> BIHS R4 </p>
     </div>
-
+</div>
 
   
 </div>
