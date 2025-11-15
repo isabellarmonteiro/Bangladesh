@@ -174,7 +174,14 @@ The interventions included:
   <div class="container left">
     <div class="content small-text">
       <h4>2018</h4>
-      <p>BIHS R3</p>
+      <p>BIHS R3 (aquaculture questions cover Dec 2017 to Nov 2018)</p>
+    </div>
+  </div>
+
+<div class="container right">
+    <div class="content small-text">
+      <h4>2018</h4>
+      <p>IDEA starts in Rangpur and Rajshahi (Nov 2018)</p>
     </div>
   </div>
 
@@ -188,7 +195,8 @@ The interventions included:
   <div class="container right">
     <div class="content small-text">
       <h4>2022</h4>
-      <p>End of original activities (December)</p>
+      <p>End of original Suchana activities (December);
+         End of IDEA activities in northeastern BD (December)</p>
     </div>
   </div>
 
