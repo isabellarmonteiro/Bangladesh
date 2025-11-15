@@ -98,7 +98,7 @@ The interventions included:
 .right::after {
   left: -11px; /* match smaller circle */
 }
- .left::after { left: +11px; }
+ .left::after { right: +1px; }
 
 .content {
   padding: 14px 20px; /* smaller boxes */
@@ -154,7 +154,7 @@ The interventions included:
   
   <div class="container right">
     <div class="content">
-      <h2>2018</h2>
+      <h3>2018</h3>
       <p>BIHS R3</p>
     </div>
   </div>
