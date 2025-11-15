@@ -252,7 +252,7 @@ Suchana was implemented at the Union level (smallest possible admin unit). Howev
 
 ## Exploratory Analysis
 
-For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have access to the latest round). So instead of a staggered event study I am doing a TWFE, and considering the blue unions (treated between 2016 and 2018) as treatment.
+For now I am only using rounds 1, 2 and 3 of the BIHS (because I don't have access to the latest round). So instead of a staggered event study I am doing a TWFE, and considering the blue unions (treated between 2016 and 2018) as treatment. Since the last round of the BIHS happened 1-2 years after the end of the project, we can draw interesting insights about the longer-term impacts of the intervention / technology adoption-disadoption.
 
 
 ### Parallel trends
