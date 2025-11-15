@@ -17,22 +17,6 @@ permalink: /docs/suchana_exploratory_analysis
 > WorldFish has worked to dismantle this misconception, pioneering the promotion of carp-tilapia-SIS polyculture to enhance both productivity and nutrition. Since 2011, it has been implementing this approach through smaller projects like IDEA and ANEP. However, these initiatives remained limited in scale, each reaching fewer than 2,000 households across different divisions.
 
 
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-</div>
-
-
   hello
 
 Suchana (2016-2023) was a large-scale project in the Sylhet division focusing on multiple nutrition interventions. It reached 250,000 households over 7 years, with at least 75,000 of these also getting the aquaculture-related interventions, which were delivered by WorldFish. 
